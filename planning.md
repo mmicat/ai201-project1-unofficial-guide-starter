@@ -11,8 +11,9 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
-My domain of choice is _Infinity Nikki_ (© Infold Games, ALL RIGHTS RESERVED).
-While unofficial wiki/s exist, numerous pages within may not be as complete as they are elsewhere, like on the official Infinity Nikki Discord server, where media, lore, and hyper-specific guides are shared and maintained, and player questions of all kinds can be answered in real time. On channels like Reddit, ... (enhance this)
+My domain is **_Infinity Nikki_** (© Infold Games), the open-world dress-up adventure game. The system answers player questions about quests, game systems, currencies, gacha mechanics, outfits, and account/technical troubleshooting.
+
+This knowledge is valuable and hard to find through official channels because Infold's official outlets (the website, in-game notices, and patch notes) publish *announcements and store listings* — not practical, problem-solving answers. Players actually need things like "why won't this Forced Perspective quest register my photo," "where exactly do these materials spawn," "is this cutscene bugged," and "how does pity work on a limited banner" — none of which official sources address. That knowledge lives in community spaces: the official **Discord** (where hyper-specific guides and bot-command FAQs are maintained and questions are answered in real time), the **Fandom Wiki** (lore, quest, and item references), and **Reddit** (new-player advice and lived experience). It is also scattered across channels, inconsistently formatted, and sometimes version-specific — which is exactly why a single searchable, source-grounded Q&A system over it is genuinely useful.
 
 ---
 
@@ -63,11 +64,21 @@ Sources span three origins (Fandom Wiki, the official Discord, and Reddit) and t
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
-**Chunk size:**
+**Chunk size:** Structure-first, with a soft cap of ~800 characters (≈ 200 tokens) per chunk.
 
-**Overlap:**
+**Overlap:** None between structural units (each is self-contained); ~120 characters (1–2 sentences) only when a long section must be sub-split.
 
 **Reasoning:**
+The corpus has two natural structures I built in during cleaning, so I split on those boundaries instead of using blind fixed-width windows:
+
+- **FAQ files** are delimited by lines containing only `---`, and each entry is a complete, self-contained Q&A (`COMMAND` + question + answer). One entry → one chunk. This makes the retrieval unit match the query unit: a user question maps to exactly one command's answer, and the `---` boundary never cuts an answer in half the way a 400-character window would.
+- **Wiki/guide files** use `===` section banners, so each chunk is one coherent topic (e.g. "Vital Energy System", "Itzaland Chapter 1").
+
+The ~800-character cap exists because the embedding model, `all-MiniLM-L6-v2`, **truncates input at 256 tokens** — anything longer is silently dropped and becomes unretrievable. English averages ~4 characters per token (≈1,000 chars for 256 tokens), but the Discord docs contain emoji shortcodes (`:zBling_in:`) and URLs that tokenize into many tokens per "word," so capping at ~800 chars keeps essentially every chunk fully embedded with margin. Most FAQ entries and wiki sections already fall under the cap and are kept whole; only oversized ones (e.g. `-shop`, `-pity`, and the large `wiki-outfits` / `wiki-miralevel` tables) get sub-split — on internal sub-headings/blank lines first, then by the character cap.
+
+Overlap is applied **surgically**: it only helps when continuous prose is force-cut, so it's used on secondary splits but *not* between whole `---`/`===` units (where overlap would merely duplicate a complete answer and pollute retrieval). Large tables are split per logical group with the header row repeated, so each chunk keeps its column meaning.
+
+Estimated total: ~250–400 chunks across all documents (well within the brief's 50–2,000 target).
 
 ---
 
@@ -79,11 +90,17 @@ Sources span three origins (Fandom Wiki, the official Discord, and Reddit) and t
      would you weigh in choosing a different embedding model — context length, multilingual
      support, accuracy on domain-specific text, latency? -->
 
-**Embedding model:**
+**Embedding model:** `all-MiniLM-L6-v2` via `sentence-transformers` (384-dim embeddings, runs locally, no API cost), stored and queried in **ChromaDB** (local persistent vector store), ranked by cosine similarity.
 
-**Top-k:**
+**Top-k:** 5 chunks per query.
 
 **Production tradeoff reflection:**
+`all-MiniLM-L6-v2` is the right call for this project — small, fast, free, and local, which suits a student-scale English corpus. If I were deploying for real users and cost weren't a constraint, I'd weigh:
+
+- **Context length / truncation:** MiniLM's 256-token limit is its biggest weakness here (it's what forces my ~800-char cap). A longer-context model (e.g. OpenAI `text-embedding-3` or BGE-M3) could embed whole long FAQ entries and tables without sub-splitting, improving recall on multi-part answers.
+- **Multilingual support:** *Infinity Nikki* is a Chinese-developed global game with a multilingual player base, so queries may arrive in other languages. A multilingual model (BGE-M3, multilingual-E5) would serve non-English players that English-centric MiniLM does not.
+- **Domain accuracy:** Game jargon ("Whimstar," "Sovereign," "Realm of the Dark") is out-of-distribution for general models. A larger or fine-tuned model would embed these terms more faithfully, raising retrieval precision.
+- **Latency & cost vs. local:** API-hosted models add per-call latency and cost but remove local compute/memory needs and scale better; a local model has zero marginal cost but must be hosted and can bottleneck under load. For a small project, local MiniLM wins; at scale, a hosted model with batching/caching is usually worth it.
 
 ---
 
@@ -130,6 +147,47 @@ Each question targets a specific chunk in a different document, so retrieval and
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
 
+```text
+┌──────────────────────┐
+│  documents/*.txt      │  14 cleaned source files (wiki, Discord, Reddit)
+└───────────┬──────────┘
+            │  load  (Python open())
+            ▼
+┌──────────────────────┐
+│  Ingestion + Clean    │  normalize whitespace; optionally strip emoji
+│                       │  shortcodes / image URLs
+└───────────┬──────────┘
+            ▼
+┌──────────────────────┐
+│  Structure-aware      │  split on --- (FAQ entries) and === (wiki sections);
+│  Chunker (custom)     │  ~800-char cap + 120-char overlap on oversized splits;
+│                       │  attach metadata {source, category}
+└───────────┬──────────┘
+            ▼
+┌──────────────────────┐
+│  Embedding            │  sentence-transformers · all-MiniLM-L6-v2 (local)
+└───────────┬──────────┘
+            ▼
+┌──────────────────────┐
+│  Vector Store         │  ChromaDB (local persistent): text + vector + metadata
+└───────────┬──────────┘
+            │  query: embed question → cosine top-k (k=5)
+            ▼
+┌──────────────────────┐
+│  Retrieval            │  returns top-5 chunks + their source metadata
+└───────────┬──────────┘
+            │  inject chunks into grounding prompt
+            ▼
+┌──────────────────────┐
+│  Generation           │  Groq · llama-3.3-70b-versatile, grounded prompt
+│                       │  ("answer ONLY from context, else refuse")
+└───────────┬──────────┘
+            ▼
+┌──────────────────────┐
+│  Gradio UI            │  question in → answer + retrieved sources out
+└──────────────────────┘
+```
+
 ---
 
 ## AI Tool Plan
@@ -144,8 +202,10 @@ Each question targets a specific chunk in a different document, so retrieval and
      "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
      with my specified chunk size and overlap" is a plan. -->
 
-**Milestone 3 — Ingestion and chunking:**
+I'm using **Claude (Claude Code)** as the primary AI collaborator. For each milestone I give it the relevant section of this `planning.md` plus `requirements.txt`, then review and test every output against the spec before accepting it.
 
-**Milestone 4 — Embedding and retrieval:**
+**Milestone 3 — Ingestion and chunking:** Give Claude the **Chunking Strategy** section and ask it to implement a custom `load_documents()` and `chunk_document()` — splitting on `---` / `===`, applying the ~800-char cap with 120-char overlap on oversized sections, and attaching `{source, category}` metadata. Verify by printing 5 sample chunks per document type, confirming each is a readable standalone unit with no truncated tails, and checking the total chunk count lands in the 50–2,000 range.
 
-**Milestone 5 — Generation and interface:**
+**Milestone 4 — Embedding and retrieval:** Give Claude the **Retrieval Approach** section and ask it to implement embedding with `all-MiniLM-L6-v2`, storage in ChromaDB, and a `retrieve(query, k=5)` function. Verify by running 3 of my 5 eval questions and checking the returned chunks are relevant (cosine distance < ~0.5) and come from the expected source files.
+
+**Milestone 5 — Generation and interface:** Give Claude the grounding requirement and ask it to implement `ask(question)` (Groq `llama-3.3-70b-versatile` with a context-only prompt that refuses when context is insufficient) plus a Gradio UI exposing a question input and an answer + sources output. Verify by asking an in-scope question (expect a cited answer) and an out-of-scope question (expect the "I don't have enough information" refusal).
