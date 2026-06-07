@@ -1,0 +1,130 @@
+Source: Community guide — "Realm Challenges 101" (Pear-fect Guides / Infinity Nikki Discord)
+Topic: Realm Challenges — the Warp Spire game modes, the Vital Energy system, and each Realm's unlock requirements, mechanics, costs, and rewards.
+Note: New Terra Gems can be obtained via the Phantom Trial "Esseling Pack" in the Realm of the Dark.
+
+# Realm Challenges 101
+
+## 1. Overview of Realm Challenges
+
+### What are Realm Challenges?
+Realm Challenges are special game modes located within the various Warp Spires throughout Miraland. Each challenge type differs in style, difficulty, and rewards, but all require Vital Energy as a currency to participate.
+
+### Vital Energy System
+- Cap: All players have a maximum Vital Energy cap of 350.
+- Regeneration: 1 point of Vital Energy is recovered every 5 minutes (provided you are below the cap).
+- Purchasing Energy: Players can purchase 80 Vital Energy up to 6 times a day using diamonds. The diamond cost increases with each purchase.
+  - Cost progression (diamonds): 50 → 100 → 100 → 150 → 200 → 200
+
+## 2. Realm of the Dark
+
+### Unlock Requirements
+- Initial unlock: Complete the main quest [Secret Ledger].
+- Caged Greed unlock: Complete the main quest [To the Pinnacle: Stonecrown!] and reach Mira Level 31.
+
+### Mechanics & Cost
+- Allows players to challenge previously defeated bosses.
+- Cost: 40 Vital Energy per challenge attempt.
+- Bosses have 5 unique forms, awarding materials that correlate to the game's 5 styling attributes (Sweet, Fresh, Elegant, Sexy, Cool).
+
+### Bosses & Rewards
+- Bouldy: Awards Bedrock Crystals (used as crafting materials). A single attempt yields 5 Bedrock Crystals. Forms:
+  - Sweet Form: Tumble
+  - Fresh Form: Plummet
+  - Elegant Form: Command
+  - Sexy Form: Hurl
+  - Cool Form: Energy
+- Caged Greed: Awards Glitter Bubbles (used as Glow-up materials). A single attempt yields 160 Glitter Bubbles across corresponding attribute variants (Sweet, Fresh, Elegant, Sexy, Cool).
+
+## 3. Realm of Eureka
+
+### Unlock Requirements
+- Initial unlock: Complete the main quest [Power Outage Rescue].
+
+### Mechanics & Cost
+- Allows players to earn Eurekas by challenging previously explored Trials.
+- Cost: 40 Vital Energy per attempt.
+- Rewards: Grants 8 random Eurekas per run. 5-star Eurekas are the rarest.
+- Difficulties & Level Caps:
+  - Easy: Available at base unlock.
+  - Normal: Unlocks at Mira Level 27. (5-star Eurekas become available.)
+  - Hard: Unlocks at Mira Level 37. (5-star Eurekas are available.)
+  - Note: 5-star Eurekas are ONLY obtainable on Normal or Hard difficulties. 3-star and 4-star Eurekas are shared across all difficulties.
+
+### Trials & Unique 5-Star Rewards
+Each trial contains 2 unique sets of 5-star Eurekas, consisting of Head, Hands, and Feet pieces:
+
+- Chpt 1: Well of Fortune Trial
+  - Unlock: Complete main quest [Power Outage Rescue]
+  - Set 1 (Sweet): First Snow (Head, Hands, Feet)
+  - Set 2 (Elegant): Rayplume (Head, Hands, Feet)
+- Chpt 2: Dream Warehouse Trial
+  - Unlock: Complete main quest [Go to the Dream Warehouse!]
+  - Set 1 (Fresh): Rainbell (Head, Hands, Feet)
+  - Set 2 (Elegant): Afterglow (Head, Hands, Feet)
+- Chpt 4: Ripple Wine Cellar Trial
+  - Unlock: Complete main quest [Track the Abandoned District!]
+  - Set 1 (Sexy): Misty Waves (Head, Hands, Feet)
+  - Set 2 (Elegant): Dream Waltz (Head, Hands, Feet)
+- Chpt 5: Ghost Train Trial
+  - Unlock: Complete main quest [Ghost Train]
+  - Set 1 (Fresh): Moonlit Ode (Head, Hands, Feet)
+  - Set 2 (Cool): Void Hunt (Head, Hands, Feet)
+
+## 4. Realm of Nourishment
+
+### Mechanics & Exchange System
+- Allows players to exchange gathered materials (Fish, Plants, Bugs, Animal, and Esseling materials) for Insight.
+- Players trade with different Fufu types depending on the desired category of Insight:
+  - Fear Fufu: Grooming Insight
+  - Lazy Fufu: Fishing Insight
+  - Loving Fufu: Collection Insight
+  - Angry Fufu: Combat Insight
+  - Joy Fufu: Bug-Catching Insight
+
+### Exchange Rates & Scaling
+- The material consumption value changes based on the item's rarity, but the core energy-to-insight conversion efficiency stays consistent.
+- The exchange efficiency scaling is gated by Mira Level:
+  - Mira Level ≥ 15: +25%
+  - Mira Level ≥ 20: +50%
+  - Mira Level ≥ 25: +75%
+  - Mira Level ≥ 35: +100%
+- Base efficiency at Mira Level ≥ 35: 10 Vital Energy equivalent yields 100 Insight.
+
+## 5. Realm of Escalation
+
+### Unlock Requirements
+- Complete the main quest [Talk to Tokar].
+
+### Mechanics & Exchange System
+- Allows players to exchange gathered life-skill materials (Fish, Plants, Bugs, and Animal materials) for progression currencies: Bling, Threads of Purity, and Shiny Bubbles.
+- Material rarity alters the Vital Energy consumption calculations per trade, but it does NOT change the final output volume per unit of energy spent. Players do not get more or less total value based on the rarity of the raw item submitted.
+
+### Exchange Rates & Scaling
+- Output rates increase based on Mira Level:
+  - Mira Level ≥ 15: +25%
+  - Mira Level ≥ 20: +50%
+  - Mira Level ≥ 25: +75%
+  - Mira Level ≥ 35: +100%
+- Yield values (per 10 Vital Energy equivalent at Mira Level ≥ 35):
+  - Bling: ×20,000
+  - Threads of Purity: ×100
+  - Shiny Bubbles: ×100
+
+## 6. Realm of Breakthrough
+
+### Unlock Requirements
+- Complete the main quest [Showdown with Chigda!].
+
+### Mechanics & Restrictions
+- Provides evolution materials alongside supplemental currencies.
+- Weekly Lockout: Currently features only one Phantom Trial: Wish Master Chigda. This trial can be challenged ONLY ONCE per week.
+- Cost: 60 Vital Energy per weekly attempt.
+
+### Rewards
+Challenging the weekly trial rewards the following bundle:
+- Heartfelt Thoughts (×1): Used to evolve 5-star outfits.
+- Calm Thoughts (×3): Used to evolve 4-star outfits.
+- Various Eurekas
+- Shiny Bubbles (×50)
+- Bling (×20k)
+- Threads of Purity (×50)

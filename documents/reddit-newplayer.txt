@@ -1,0 +1,105 @@
+Source: Reddit — r/InfinityNikki
+Thread: "Just Downloaded!" — new-player advice discussion
+Posted: 11 Jan 2025 by u/dale-duvet
+Topic: Community advice for brand-new Infinity Nikki players — getting started, the Pear-Pal, currencies, outfit/theme prep for the main story, and Realm Challenges.
+
+===================================================================
+ORIGINAL POST
+===================================================================
+Title: Just Downloaded! (Advice / Discussion / Question)
+Author: u/dale-duvet
+
+I just watched an hour of Jerma985 playing this game and started downloading. I'm sorry… a dress up game?!?! With combat?!?! Yes please. I know virtually nothing about this game. Please give me all the advice you have for starting from scratch!!
+
+===================================================================
+ADVICE: GENERAL PACING (u/SoneEv)
+===================================================================
+- Just explore everywhere, follow the main story, do the side quests, and follow the tutorials that show you all the activities.
+- Go at your own pace; you don't need to rush. There's plenty of time for story content since big content patches are only planned every 6 months.
+- Combat is pretty basic — hit things with orbs, don't get hit. The platforming levels are fun, and the curio dungeons are little brain teasers sometimes.
+- Don't trade Vital Energy for Bling. There are many other things to spend it on.
+
+===================================================================
+ADVICE: SPENDING PRIORITIES (u/ChopsticksImmortal)
+===================================================================
+- Spend gems (Diamonds) on pink crystals (Resonite Crystals) only.
+- Do not give all your Bling to the "scam-o-matic."
+- Rush through story quests to unlock time-gated content.
+- Level up Eurekas for easy style points in style battles.
+
+===================================================================
+ADVICE: EXPLORATION HABITS (u/BlackBlueWoof)
+===================================================================
+- Gather, pet, and fish everything on your way.
+- You don't have to collect every single piece of clothing — beware of FOMO.
+- Drop map markers when you find a cool resource.
+
+===================================================================
+ADVICE: IN-DEPTH NEW-PLAYER GUIDE (u/Confident_Tadpole723)
+===================================================================
+Preface: These tips are central to how this player enjoys the game, but that doesn't mean they'll match how you enjoy it.
+
+--- Pear-Pal breakdown ---
+The Pear-Pal is the in-game menu hub. You may not have everything unlocked yet, but you eventually will.
+
+- Store — Purchase items with in-game currencies and real money.
+- Wardrobe — Change your outfits and abilities.
+- Sketches — Sketches for outfits/clothing items are found here.
+- Resonance — Where the outfit (gacha) banners are located.
+- Courses — Various mini checklists you complete for Diamonds and Crowns. Crowns level up your stylist level. Daily Wishes (daily mini quests) are also found here. Complete dailies and checklist items to level up.
+- Factions — Poorly explained in-game, but it's basically a list of "battles" you must complete to reach the end of the available main story. (More detail below.)
+- Mira Crown — Seems to be a style-battle arena that gets progressively harder, with very good rewards. (Comparable to the Hunter's Contest in Love and Deepspace.)
+- Dig, Pear-Pal — Spend Bling to get gatherable items.
+- Eureka — Upgrade Eurekas.
+- Glow Up — VERY IMPORTANT. Where you level up your clothing for stylist battles.
+- Evolution — Evolve outfits.
+- Run, Pear-Pal — Change the time of day. (You can skip the mini-game if you want.)
+- Compendium — The log of all outfits in game. Get rewards each time you obtain/make new clothing.
+- Mira Level — VERY IMPORTANT. Where you level up; lots of rewards here.
+- Friends — Two functions: (1) learn new stuff from NPCs, (2) add real-life friends with friend codes.
+- Momo's Album — Photo album of all photos you've taken.
+- Quests — All quests you've started. You typically start quests by walking close enough to an NPC.
+- Daily Wishes — Another place to find your daily tasks.
+- Tutorials — Tutorials for most in-game mechanics (sometimes not very thorough).
+- Folklore Guide — A list of all the mini-games available in the world.
+- Mira Journey — Weekly tasks, plus locked (paid) tasks.
+- Backpack — Everything you currently have collected, including Insight and quest items.
+
+--- Heart of Infinity ---
+You'll need Insight (gained from gathering items) to unlock parts of the Heart of Infinity to complete the current story. Focus on anything requiring a certain level of Insight — those are most important, as they let you gather the rare essences needed for the specific outfit that completes the story.
+
+--- Early-game strategy ---
+- Decide whether you want to be a "gacha girly" who spends all her Diamonds pulling every banner, or whether you'll get one good outfit per type and focus on leveling those (this player is the second type, spending Diamonds on energy instead of limited pulls). Neither is strictly better — it depends on your goals.
+- Grab everything you see: plants, bugs, Bling, Dews of Inspiration, and Whimstars. Keep your grooming outfit ready at all times to groom quickly as you run by.
+- Find Kilo the Cadenceborn ASAP. He gives great rewards in exchange for the Dews of Inspiration (purple orbs) you find around the world. He's west of Florawish.
+
+--- Preparing for the late main-story style check ---
+(This is later-game, but prepare early — this player had to grind for a while.)
+
+You'll need a decently leveled-up outfit for every theme to pass a certain part of the story (Sweet, Cool, Sexy, Elegant, Fresh). You can cover most with the free basic 4-star ability outfits:
+- Sweet — Floating or Grooming Outfit
+- Cool — Fishing or Electric Outfit
+- Elegant — Purification Outfit
+- Fresh — Floating Outfit
+
+Notes:
+- You don't need a complete outfit for this section — you could level up random pieces — but it's advised to focus on leveling 4- and 5-star outfits.
+- There is no free Sexy outfit, so consider choosing the Sexy-themed dress from the permanent banner as your first pull.
+- This part of the story starts in the Factions section of the Pear-Pal, beginning in the Florawish section.
+- Save all your (Shiny) Bubbles for the outfits/pieces you plan to use here — you WILL need them.
+- Don't level up outfits in large amounts. If you don't pass, go back and level up only a little at a time so you don't waste Bubbles.
+- If you've exhausted other Bubble sources, trade energy and miscellaneous gathered items for them in the Realm of Escalation.
+- Trade energy and gathered items for Insight in the Realm of Nourishment — you'll need 7,000 Insight for each type to finish the main story.
+
+--- Glow Up tip (follow-up) ---
+When leveling up or glowing up outfits, focus on the hair first if you don't have enough Bubbles for the whole outfit. Hair is its own section in scoring; leveling the hair and your Eureka is the best bet to get over the hump.
+
+--- Realm Challenges tip (follow-up) ---
+The Realm Challenges (entered at a Warp Spire) are VERY IMPORTANT and part of this player's daily routine.
+- Once you beat the boss battles, you can use the quick-challenge feature to skip the battle and receive the rewards.
+- It only costs energy to get the rewards — if you fail a challenge or battle, you don't lose energy. Just retry until you win, then spend your energy on the rewards.
+
+===================================================================
+ADVICE: JUST ENJOY IT (deleted user)
+===================================================================
+Don't rush through the main story quests — enjoy yourself!

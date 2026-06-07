@@ -1,0 +1,172 @@
+Source: Infinity Nikki Wiki (Fandom) — Ability
+URL: https://infinity-nikki.fandom.com/wiki/
+License: Content available under CC-BY-SA unless otherwise noted.
+Topic: Abilities and Ability Outfits — what they are, how they work, and the full catalog of abilities and their associated outfits.
+
+===================================================================
+OVERVIEW
+===================================================================
+Abilities are powers derived from Whim. They can be accessed by using Ability Outfits.
+
+Most Ability Outfits can be obtained through free gameplay; however, unique variations may be purchased in the Store or obtained through Resonance.
+
+Abilities are necessary to complete most gameplay. They are required for most types of Crafting Materials, necessary for exploring caverns, and often needed to complete quests. Some may be location-locked, like the Floral Memory outfit, while others may have very niche functions, such as the Electrician or Performing Outfits. There are also variations on the basic abilities, such as Wings of Wishes, or vanity Abilities that are used exclusively for photo-taking, like Dreamy Glimmer.
+
+Ability Outfits were created by The Eight to provide Whim with a tangible form and resist the forces of The Dark. After the War of Heavens, Ability Outfits were essential in the rebuilding across all the nations of Miraland. Some give the wearer semi-magical abilities, while others simply allow them to complete advanced skills without training.
+
+Beside the two default Abilities, Purification and Floating, eight spots are open for equipping other Abilities. Through the Wardrobe menu, the player can select which Ability Outfits to equip and adjust their position in the Ability Setup section.
+
+Ability Setup notes:
+- When you have multiple outfits with the same ability, you can switch the outfit assigned to that ability.
+- Open the "Ability Setup" screen to manage them.
+- There you'll find all the Ability Outfits you've collected; switch outfits and save your changes.
+
+===================================================================
+WORLD ABILITIES
+===================================================================
+Floating
+"Floating" is the first ability unlocked by Nikki, during the Main Quest "Embark on an Unknown Journey." It can be used while jumping to effectively glide over long distances. Nikki frequently references the dangers in using these kinds of outfits, as if there were any problems in their quality, it could lead to her death.
+Outfits:
+- Wings of Wishes (variations: Gentle Dawn, Sunny, Past, Moonlit)
+- Blooming Dreams (variations: Blue Mist, Tides, Glow, Phoenix)
+- Rainfall & Blossoms (variations: Budding, Farewell, Anticipation, Flourish)
+- Bubbly Voyage (variations: Mountgale, Spring)
+
+Purification
+"Purification" is the second ability unlocked by Nikki, during the Main Quest "Embark on an Unknown Journey." It is one of Nikki's most valuable abilities, and is used regularly to combat Esselings during quests or open-world encounters.
+Outfits:
+- Crystal Poems (variations: Spring Snow, Snow, Spring, Blazing)
+- Timeless Melody (variations: Lullaby, Symphony, Variations, Rhapsody)
+- Forever Bond (variations: Spirit Trail, Among Flora, Mortal Affairs, Farewell Prelude)
+- Wind of Purity (variations: Unbloomed, Dawn)
+
+===================================================================
+COLLECTING ABILITIES
+===================================================================
+Animal-Grooming
+"Animal-Grooming" is an ability which allows Nikki to interact with passive creatures. Friendly animals will happily be groomed, while most timid animals will need to be approached while sneaking (the Dawn Fox is an exception). After being groomed, the animals become relaxed and friendly, and will no longer flee. This ability is required to obtain Animal-Grooming Crafting Materials.
+Outfits:
+- Enchanted Encounter (variations: Emerald Dream, Snowcrest, Gleam, Dreamtrail)
+- Bye-Bye Dust (variations: Spring Purity, Kitty)
+- Breezy Tea Time (variations: Gummy, Siesta)
+- Art of Tailoring (variations: Dream Shaper, Scarlet)
+
+Bug-Catching
+"Bug-Catching" is an ability which allows Nikki to capture various insects. Some insects are easily startled and will flee if Nikki does not sneak up on them. Others must be captured quickly after discovery, or they will disappear. This ability is required to obtain Bug-Catching Crafting Materials.
+Outfits:
+- Floral Rebirth (variations: Growth & Decay, Emerald Reverie, Awakening Hymn, Final Vow)
+- Afternoon Shine (variations: Lakeside, Rain)
+- Forest's Fluttering (variations: Autumn, Starry)
+- Sweet Waltz (variations: Serene Stars, Honeyed Amber)
+
+Fishing
+"Fishing" is an ability which allows Nikki to catch fish. If the fish are not reeled in quickly enough, they will escape. This ability is required to obtain Fishing Crafting Materials.
+Outfits:
+- Rippling Serenity (variations: Sunset, Dream)
+- Shark Mirage (variations: Sand Waves, Summer)
+
+===================================================================
+AREA ABILITIES
+===================================================================
+Gliding
+"Floral Gliding" is an ability gifted to Nikki during the Main Quest "Wish Collector's Crisis" in Wishfield Chapter 3: Stonewoods and Flight. It is the official outfit of the Wish Collectors of Stoneville, and as such, can only be used while inside the Stonewoods.
+Outfits:
+- Dance Till Dawn (variations: Star Melody, Nightlight, Boat, Fireworks)
+- Floral Memory (variations: Breezy, Gleam)
+
+Shrinking
+"Shrinking" is an ability which allows Nikki to shrink in size and ride on top of Momo. It is necessary to interact with the Dawn Fox, but can be used in open-world exploration as well. While using this outfit, the player will play as Momo, which means they will not have access to any other abilities until exiting Shrinking mode. This Ability can only be used in the Wishing Woods.
+Outfits:
+- Starlet Burst (variations: Green Shore, Glow)
+
+Rainbow Summoning
+"Rainbow Summoning" is an ability which allows Nikki to summon a rainbow across the sky. This ability can be used in Wishfield during daytime.
+Outfits:
+- Silvergale's Aria (variations: Dark Shadow, Melody, Tears, Farewell)
+
+Fireworks
+"Fireworks" is an ability which allows Nikki to launch fireworks at specific locations. This Ability can only be used on the Firework Isles.
+Outfits:
+- Fiery Glow (variations: Lush, Wonder)
+
+===================================================================
+FUN ABILITIES
+===================================================================
+Electrician
+"Electrician" is an ability which allows Nikki to repair broken electrical units such as street lights and power breakers.
+Outfits:
+- Fully Charged (variations: New Light, Refreshing)
+
+Performing
+"Performing" is an ability gifted to Nikki during the Main Quest "Attention! Faewish Sprite Spotted" in Wishfield Chapter 4: Land of the Abandoned. It was made specifically to interact with Beanie, but can also be used to help relax or sedate others, such as Miss Tally. This ability can also be used outside of quests to play music freely. Different instruments can now be played.
+
+Transformation
+"Transformation" is an ability allowing you to transform into another creature or object.
+Outfits:
+- Crimson Rhapsody (variations: Dreamlike, Delusion, Leafy, Past Dreams)
+
+Whimsicality
+"Whimsicality" is a catch-all term for any vanity abilities used exclusively for photo-taking purposes.
+Outfits:
+- Stardust Flare (variations: Dawn Mist, Blaze, Golden, Eternal)
+- Slumber by Blossoms (variations: Sunward, Flourishing, Tidecall, Evenfall)
+- Glimmering Forest (variations: Dawn Path, Twilight Hymn)
+- Midnight Vigil (variations: Return, Embark)
+- Enduring Bond (variations: Reunion, Memories)
+- Enchanted Writing (variations: Luminous Night, Starlight)
+- Dreamy Glimmer (variations: Ripples, Melody)
+- Celestial Whispers (variations: Night Wander, Cloud Serenade)
+- Pastoral Dance (variations: Forest Path, Snow)
+- Dream Banquet (variations: Soft Meadow, Rebirth)
+- Adventure Ride (variations: Shadow Chaser, Fantasy)
+- The Fifth Flavor (variations: Floating Wishes, Renewal)
+- Water's Echo (variations: Melody, Wave Song)
+- Froggy Fashion (variations: Refreshing, Night)
+- Flowing Colors (variations: Wonderland, Dreamy)
+- Thought in Bloom (variations: First Light, Moonlit Veil)
+- Mistbound Whispers (variations: First Meet, Warmth)
+- Lotus Heart (variations: Homecoming, Longing)
+- Gilded Memories (variations: Flourishing, Wandering)
+- Cloud Daydreams (variations: Jade Glint, Night Wander)
+- Sword Master (variations: Twilight Whisper, Red Leaves)
+- Evergreen Vow (variations: Glory, Covenant)
+- Rosy Reverie (variations: Moss, Ripples)
+- Twilight Oath (variations: Slumber, Blaze)
+- Heart of the Deep Forest (variations: Deception, Crescent Moon)
+- Woodland Nesting (variations: Dream Invitation, Ashes)
+- Rewound Daydream (variations: Fragrant Fields, Absurdity)
+- Thousand Flames (variations: Reverie, Kindled)
+- Formless Truth (variations: Tracing, Heartbound)
+- Cloud Reverie (variations: Misty Rain, Sun)
+- Grains of Yesterday (variations: New Bud, Distant Song)
+- Dream-Like Night (variations: Lost, Resolve)
+- Starwoven Dreams (variations: Dusk Clouds, Gilded Night)
+- Dancing Pearl (variations: Silent Life, Offering)
+- Covenant of Time (variations: Heart Tide, Fable)
+- Solitary Silhouette (variations: Scar, Silent Vigil)
+- Verdant Verse (variations: Cycle, Flare)
+- Starry Nocturne (variations: Resound, Sunrise)
+- Gossamer Moonfairy (variations: Airy, Night Light)
+- Song Beyond (variations: Longing, Unparting)
+- Silent Ode (variations: Devoted Heart, Judgment)
+- Forest's Song (variations: Dewdrop, Twilight Silhouette)
+- Moonlit Immortal (variations: Fleeting Life, Last Banquet)
+- Night Capricorn Song (variations: Tenderness, Melodic Gulp)
+- Heartward Hues (variations: Dream Colors, Rainbow)
+- Luminous Nightflow (variations: Serene, Soft Melody)
+- Petalfall Finale (variations: Adrift, Cocoon)
+- Echoes Upon the Gale (variations: Yearning, Plaint)
+- Steps Against Order (variations: Rebel, Unruly Fancy)
+- Tasting the World (variations: Quintessence, Honey Brew)
+
+World Rhythms
+"World Rhythms" grants the ability to interact with elements of nature and trigger wonderful transformations.
+Outfits:
+- Tide of Tears (variations: Amber Fire, Lament, Scales, Snow)
+- Providence Immemorial (variations: Prosperity, Shackles, Finality, Cycle)
+- Harvest's Blessing (variations: Wind, Starlight)
+
+===================================================================
+VERSION HISTORY
+===================================================================
+- Released in Version 1.0.

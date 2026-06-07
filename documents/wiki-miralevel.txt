@@ -1,0 +1,235 @@
+Source: Infinity Nikki Wiki (Fandom) — Mira Level
+URL: https://infinity-nikki.fandom.com/wiki/
+License: Content available under CC-BY-SA unless otherwise noted.
+Released in Version 1.0.
+Topic: Mira Level — the player leveling system, Mira EXP requirements, and rewards earned at each level.
+
+===================================================================
+OVERVIEW
+===================================================================
+Type: Game Systems
+
+Mira Level is the player leveling system in Infinity Nikki. The level is raised by acquiring Mira EXP.
+
+There are a total of 100 Mira Levels, with each level offering its own set of rewards. Upon progression, the player can earn a variety of valuable items. Reaching the max level requires a total of Mira EXP ×3,502,900.
+
+===================================================================
+REWARDS PER LEVEL
+===================================================================
+Each Mira Level grants a set of rewards. Levels divisible by 10 (10, 20, 30, ... 100) award a special named title/outfit reward in addition to currency.
+
+| Level | Rewards |
+| --- | --- |
+| 1 | Bling: 6,000; Thread of Purity: 20 |
+| 2 | Energy Crystal: 1; Bling: 6,000; Thread of Purity: 20 |
+| 3 | Heart Kiss: Head: 1; Bling: 6,000; Thread of Purity: 20 |
+| 4 | Bling: 6,000; Thread of Purity: 20; Chimecada: 1; Starlit Plum: 1 |
+| 5 | Diamond: 30; Bling: 6,000; Thread of Purity: 20; Sizzpollen: 2; Toque Fish: 1.0kg |
+| 6 | Shiny Bubbles: 150; Bling: 6,500; Thread of Purity: 20 |
+| 7 | Resonite Crystal: 1; Bling: 6,500; Thread of Purity: 20 |
+| 8 | Energy Crystal: 1; Bling: 6,500; Thread of Purity: 20 |
+| 9 | Shiny Bubbles: 150; Bling: 6,500; Thread of Purity: 20 |
+| 10 | Dreaming Traveler; Diamond: 30; Bling: 6,500; Thread of Purity: 40 |
+| 11 | Resonite Crystal: 1; Bling: 7,000; Thread of Purity: 20 |
+| 12 | Heart Kiss: Hands: 1; Bling: 7,000; Thread of Purity: 20 |
+| 13 | Energy Crystal: 1; Bling: 7,000; Thread of Purity: 20 |
+| 14 | Resonite Crystal: 1; Bling: 7,000; Thread of Purity: 20 |
+| 15 | Shiny Bubbles: 150; Diamond: 30; Bling: 6,500; Thread of Purity: 60 |
+| 16 | Energy Crystal: 1; Bling: 7,500; Thread of Purity: 20 |
+| 17 | Heart Kiss: Feet: 1; Bling: 7,500; Thread of Purity: 30 |
+| 18 | Resonite Crystal: 1; Bling: 7,500; Thread of Purity: 30 |
+| 19 | Shiny Bubbles: 150; Bling: 7,500; Thread of Purity: 30 |
+| 20 | Inspiration Seeker; Diamond: 30; Bling: 7,500; Thread of Purity: 60 |
+| 21 | Wind's Rhythm: Head: 1; Bling: 8,000; Thread of Purity: 30 |
+| 22 | Resonite Crystal: 1; Bling: 8,000; Thread of Purity: 30 |
+| 23 | Shiny Bubbles: 150; Bling: 8,000; Thread of Purity: 30 |
+| 24 | Energy Crystal: 1; Bling: 8,000; Thread of Purity: 30 |
+| 25 | Shiny Bubbles: 150; Diamond: 30; Bling: 8,000; Thread of Purity: 80 |
+| 26 | Resonite Crystal: 1; Bling: 8,500; Thread of Purity: 30 |
+| 27 | Wind's Rhythm: Hands: 1; Bling: 8,500; Thread of Purity: 30 |
+| 28 | Energy Crystal: 1; Bling: 8,500; Thread of Purity: 30 |
+| 29 | Shiny Bubbles: 160; Bling: 8,500; Thread of Purity: 30 |
+| 30 | Trend Chaser; Diamond: 30; Bling: 8,500; Thread of Purity: 80 |
+| 31 | Resonite Crystal: 1; Bling: 9,000; Thread of Purity: 30 |
+| 32 | Wind's Rhythm: Feet: 1; Bling: 9,000; Thread of Purity: 30 |
+| 33 | Energy Crystal: 1; Bling: 9,000; Thread of Purity: 30 |
+| 34 | Resonite Crystal: 1; Bling: 9,000; Thread of Purity: 30 |
+| 35 | Shiny Bubbles: 150; Diamond: 30; Bling: 9,000; Thread of Purity: 40 |
+| 36 | Energy Crystal: 1; Bling: 9,500; Thread of Purity: 30 |
+| 37 | Wind's Rhythm: Head: 1; Bling: 9,500; Thread of Purity: 30 |
+| 38 | Resonite Crystal: 1; Bling: 9,500; Thread of Purity: 30 |
+| 39 | Energy Crystal: 1; Bling: 9,500; Thread of Purity: 30 |
+| 40 | Guardian of Ideals; Diamond: 30; Bling: 9,500; Thread of Purity: 40 |
+| 41 | Shiny Bubbles: 150; Bling: 10.0k; Thread of Purity: 30 |
+| 42 | Resonite Crystal: 1; Bling: 10.0k; Thread of Purity: 30 |
+| 43 | Energy Crystal: 1; Bling: 10.0k; Thread of Purity: 30 |
+| 44 | Wind's Rhythm: Hands: 1; Bling: 10.0k; Thread of Purity: 30 |
+| 45 | Shiny Bubbles: 150; Diamond: 30; Bling: 10.0k; Thread of Purity: 30 |
+| 46 | Resonite Crystal: 1; Bling: 10.5k; Thread of Purity: 30 |
+| 47 | Energy Crystal: 1; Bling: 10.5k; Thread of Purity: 30 |
+| 48 | Wind's Rhythm: Feet: 1; Bling: 10.5k; Thread of Purity: 30 |
+| 49 | Shiny Bubbles: 150; Bling: 10.5k; Thread of Purity: 30 |
+| 50 | Hopeful Devotee; Diamond: 30; Bling: 10.5k; Thread of Purity: 30 |
+| 51 | Resonite Crystal: 1; Bling: 11.0k; Thread of Purity: 30 |
+| 52 | Energy Crystal: 1; Bling: 11.0k; Thread of Purity: 30 |
+| 53 | Wind's Rhythm: Head: 1; Bling: 11.0k; Thread of Purity: 30 |
+| 54 | Shiny Bubbles: 150; Bling: 11.0k; Thread of Purity: 30 |
+| 55 | Energy Crystal: 1; Diamond: 30; Bling: 11.0k; Thread of Purity: 30 |
+| 56 | Resonite Crystal: 1; Bling: 11.5k; Thread of Purity: 30 |
+| 57 | Wind's Rhythm: Hands: 1; Bling: 11.5k; Thread of Purity: 30 |
+| 58 | Shiny Bubbles: 150; Bling: 11.5k; Thread of Purity: 30 |
+| 59 | Energy Crystal: 1; Bling: 11.5k; Thread of Purity: 30 |
+| 60 | Boundary Explorer; Diamond: 30; Bling: 11.5k; Thread of Purity: 40 |
+| 61 | Resonite Crystal: 1; Bling: 12.0k; Thread of Purity: 30 |
+| 62 | Wind's Rhythm: Feet: 1; Bling: 12.0k; Thread of Purity: 30 |
+| 63 | Energy Crystal: 1; Bling: 12.0k; Thread of Purity: 30 |
+| 64 | Resonite Crystal: 1; Bling: 12.0k; Thread of Purity: 30 |
+| 65 | Shiny Bubbles: 150; Diamond: 30; Bling: 12.0k; Thread of Purity: 40 |
+| 66 | Energy Crystal: 1; Bling: 12.5k; Thread of Purity: 30 |
+| 67 | Wind's Rhythm: Head: 1; Bling: 12.5k; Thread of Purity: 30 |
+| 68 | Resonite Crystal: 1; Bling: 12.5k; Thread of Purity: 30 |
+| 69 | Shiny Bubbles: 150; Bling: 12.5k; Thread of Purity: 30 |
+| 70 | Rule Breaker; Diamond: 30; Bling: 12.5k; Thread of Purity: 40 |
+| 71 | Wind's Rhythm: Hands: 1; Bling: 13.0k; Thread of Purity: 30 |
+| 72 | Resonite Crystal: 1; Bling: 13.0k; Thread of Purity: 30 |
+| 73 | Shiny Bubbles: 150; Bling: 13.0k; Thread of Purity: 30 |
+| 74 | Energy Crystal: 1; Bling: 13.0k; Thread of Purity: 30 |
+| 75 | Shiny Bubbles: 150; Diamond: 30; Bling: 13.0k; Thread of Purity: 40 |
+| 76 | Resonite Crystal: 1; Bling: 13.5k; Thread of Purity: 30 |
+| 77 | Wind's Rhythm: Feet: 1; Bling: 13.5k; Thread of Purity: 30 |
+| 78 | Energy Crystal: 1; Bling: 13.5k; Thread of Purity: 30 |
+| 79 | Shiny Bubbles: 150; Bling: 13.5k; Thread of Purity: 30 |
+| 80 | Wanderlust Dream Builder; Diamond: 30; Bling: 13.5k; Thread of Purity: 40 |
+| 81 | Wind's Rhythm: Hands: 1; Bling: 13.0k; Thread of Purity: 30 |
+| 82 | Resonite Crystal: 1; Bling: 13.0k; Thread of Purity: 30 |
+| 83 | Shiny Bubbles: 150; Bling: 13.0k; Thread of Purity: 30 |
+| 84 | Energy Crystal: 1; Bling: 13.0k; Thread of Purity: 30 |
+| 85 | Shiny Bubbles: 150; Diamond: 30; Bling: 13.0k; Thread of Purity: 40 |
+| 86 | Resonite Crystal: 1; Bling: 13.5k; Thread of Purity: 30 |
+| 87 | Wind's Rhythm: Feet: 1; Bling: 13.5k; Thread of Purity: 30 |
+| 88 | Energy Crystal: 1; Bling: 13.5k; Thread of Purity: 30 |
+| 89 | Shiny Bubbles: 150; Bling: 13.5k; Thread of Purity: 30 |
+| 90 | Artisan of Time; Diamond: 30; Bling: 13.5k; Thread of Purity: 40 |
+| 91 | Wind's Rhythm: Hands: 1; Bling: 13.0k; Thread of Purity: 30 |
+| 92 | Resonite Crystal: 1; Bling: 13.0k; Thread of Purity: 30 |
+| 93 | Shiny Bubbles: 150; Bling: 13.0k; Thread of Purity: 30 |
+| 94 | Energy Crystal: 1; Bling: 13.0k; Thread of Purity: 30 |
+| 95 | Shiny Bubbles: 150; Diamond: 30; Bling: 13.0k; Thread of Purity: 40 |
+| 96 | Resonite Crystal: 1; Bling: 13.5k; Thread of Purity: 30 |
+| 97 | Wind's Rhythm: Feet: 1; Bling: 13.5k; Thread of Purity: 30 |
+| 98 | Energy Crystal: 1; Bling: 13.5k; Thread of Purity: 30 |
+| 99 | Shiny Bubbles: 150; Bling: 13.5k; Thread of Purity: 30 |
+| 100 | Envoy of the Future; Diamond: 30; Bling: 13.5k; Thread of Purity: 40 |
+
+===================================================================
+MIRA EXP TABLE
+===================================================================
+"EXP" is the Mira EXP required to advance from the previous level to the listed level. "Total" is the cumulative Mira EXP needed to reach that level. Reaching Level 100 requires a cumulative total of 3,502,900 Mira EXP.
+
+| Level | EXP | Total |
+| --- | --- | --- |
+| 1 | 0 | 0 |
+| 2 | 500 | 500 |
+| 3 | 500 | 1,000 |
+| 4 | 500 | 1,500 |
+| 5 | 800 | 2,300 |
+| 6 | 800 | 3,100 |
+| 7 | 800 | 3,900 |
+| 8 | 1,000 | 4,900 |
+| 9 | 1,000 | 5,900 |
+| 10 | 1,200 | 7,100 |
+| 11 | 1,500 | 8,600 |
+| 12 | 1,800 | 10,400 |
+| 13 | 2,100 | 12,500 |
+| 14 | 2,400 | 14,900 |
+| 15 | 2,700 | 17,600 |
+| 16 | 3,000 | 20,600 |
+| 17 | 3,300 | 23,900 |
+| 18 | 3,600 | 27,500 |
+| 19 | 3,900 | 31,400 |
+| 20 | 4,200 | 35,600 |
+| 21 | 4,500 | 40,100 |
+| 22 | 4,800 | 44,900 |
+| 23 | 5,100 | 50,000 |
+| 24 | 5,400 | 55,400 |
+| 25 | 5,700 | 61,100 |
+| 26 | 6,000 | 67,100 |
+| 27 | 6,300 | 73,400 |
+| 28 | 6,600 | 80,000 |
+| 29 | 6,900 | 86,900 |
+| 30 | 7,200 | 94,100 |
+| 31 | 7,500 | 101,600 |
+| 32 | 7,800 | 109,400 |
+| 33 | 8,100 | 117,500 |
+| 34 | 8,400 | 125,900 |
+| 35 | 8,700 | 134,600 |
+| 36 | 9,000 | 143,600 |
+| 37 | 9,300 | 152,900 |
+| 38 | 9,600 | 162,500 |
+| 39 | 9,900 | 172,400 |
+| 40 | 10,500 | 182,900 |
+| 41 | 11,000 | 193,900 |
+| 42 | 11,500 | 205,400 |
+| 43 | 12,000 | 217,400 |
+| 44 | 12,500 | 229,900 |
+| 45 | 13,000 | 242,900 |
+| 46 | 13,500 | 256,400 |
+| 47 | 14,000 | 270,400 |
+| 48 | 14,500 | 284,900 |
+| 49 | 15,000 | 299,900 |
+| 50 | 15,500 | 315,400 |
+| 51 | 16,300 | 331,700 |
+| 52 | 17,100 | 348,800 |
+| 53 | 17,900 | 366,700 |
+| 54 | 18,700 | 385,400 |
+| 55 | 19,500 | 404,900 |
+| 56 | 20,300 | 425,200 |
+| 57 | 21,100 | 446,300 |
+| 58 | 21,900 | 468,200 |
+| 59 | 22,700 | 490,900 |
+| 60 | 23,500 | 514,400 |
+| 61 | 24,500 | 538,900 |
+| 62 | 25,500 | 564,400 |
+| 63 | 26,500 | 590,900 |
+| 64 | 27,500 | 618,400 |
+| 65 | 28,500 | 646,900 |
+| 66 | 29,500 | 676,400 |
+| 67 | 30,500 | 706,900 |
+| 68 | 31,500 | 738,400 |
+| 69 | 32,500 | 770,900 |
+| 70 | 33,500 | 804,400 |
+| 71 | 34,700 | 839,100 |
+| 72 | 35,900 | 875,000 |
+| 73 | 37,100 | 912,100 |
+| 74 | 38,300 | 950,400 |
+| 75 | 39,500 | 989,900 |
+| 76 | 40,700 | 1,030,600 |
+| 77 | 41,900 | 1,072,500 |
+| 78 | 43,100 | 1,115,600 |
+| 79 | 44,300 | 1,159,900 |
+| 80 | 45,500 | 1,205,400 |
+| 81 | 47,000 | 1,252,400 |
+| 82 | 48,500 | 1,300,900 |
+| 83 | 50,000 | 1,350,900 |
+| 84 | 51,500 | 1,402,400 |
+| 85 | 53,000 | 1,455,400 |
+| 86 | 54,500 | 1,509,900 |
+| 87 | 56,000 | 1,565,900 |
+| 88 | 57,500 | 1,623,400 |
+| 89 | 59,000 | 1,682,400 |
+| 90 | 60,500 | 1,742,900 |
+| 91 | 65,000 | 1,807,900 |
+| 92 | 70,000 | 1,877,900 |
+| 93 | 75,000 | 1,952,900 |
+| 94 | 80,000 | 2,032,900 |
+| 95 | 90,000 | 2,122,900 |
+| 96 | 100,000 | 2,222,900 |
+| 97 | 110,000 | 2,332,900 |
+| 98 | 120,000 | 2,452,900 |
+| 99 | 350,000 | 2,802,900 |
+| 100 | 700,000 | 3,502,900 |
+
+===================================================================
+CHANGE HISTORY
+===================================================================
+Released in Version 1.0.

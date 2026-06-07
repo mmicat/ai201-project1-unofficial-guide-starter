@@ -1,0 +1,245 @@
+FORMAT NOTE: Each entry is one chunk, separated by a line containing only "---".
+Fields per entry:
+  COMMAND     - the bot command(s) that trigger this answer (aliases separated by "/")
+  CATEGORY    - Misc and Customer Support
+  DESCRIPTION - one-line summary of what the command answers
+  CONTENT     - the player-facing question, followed by the answer text
+Source: Infinity Nikki Official Discord server bot commands (bot-playground channel).
+Topic: Misc and Customer Support - frequently asked questions answered by the server's command bot.
+
+===================================================================
+MISC AND CUSTOMER SUPPORT
+===================================================================
+---
+COMMAND: -account
+CATEGORY: Misc and Customer Support
+DESCRIPTION: How to bind a third party account to Infold
+CONTENT: I have a third party account, how do I bind to Infold?
+Full Guide: (https://discord.com/channels/1245702850340978751/1349219578647154818)
+for Steam: (https://discord.com/channels/1245702850340978751/1349244361791246378)
+FAQ
+Account Definitions
+
+    What is an Infold account?
+        It is an account created using an email
+    What is a third party account?
+        It is an account created using (PSN, Google, Apple, Facebook)
+        You can turn a third party account into a Infold account by binding an email to the account
+    What is an Epic account?
+        It is an account used to log in into the Epic Games Store launcher and is considered a separate sign-in menu from the game
+        
+
+
+General Binding Questions
+
+    Can I connect multiple third party accounts?
+        Yes, and you can unbind any third party accounts by going Account Security > Security Binding > Change Binding
+    How do I find the sign-in option?
+        You can find it on the login screen and the Infold website
+    Will I need to use a different email to make an Infold account if my third party account is already connected to that email?
+        No, you can use the same email as Infold and third party accounts are seen as separate
+    Can I use a different email than those I use for my third party account(s)?
+        Yes, you can use any email you'd like
+    If I want to use a different email for another Infold account will I be able to unbind it?
+        Yes, review the guide (https://discord.com/channels/1245702850340978751/1349219578647154818)
+    Can I bind using a phone number?
+        No, this option is not available.
+
+
+PSN Related Questions
+
+    What is an PSN account?
+        It is an account you use to sign in via Playstation (PS5)
+    How do I find my PSN information?
+        Your PSN sign-in information is the login you used to sign-in and create a account for the Playstation Network
+            If you do not remember the login, try using the recovery methods on the PSN website
+
+
+Customer Service/Infold Website Questions
+
+    Why can't I access the customer service button?
+        If the button is unavailable for any reason, you can use the online portal or contact Infold by email
+    Why is there no prompt when I access customer service?
+        You can access it by using the blue headphone button next to the chat box and switch to live-chat
+            If you do not see the button, switch into desktop mode on mobile devices by changing it in the browser settings, or use the Google app in your device's Playstore/Appstore
+
+
+Miscellaneous Account Linking Questions
+
+    The survey says its already been submitted; would I still be able to get my reward?
+        It should be sent to you as a separate mail when the form is completed, try re-opening the game and checking the mail tab
+            If it persists, submit a bug report
+
+Infold website (https://account.infoldgames.com/login)
+
+
+If none of these links help, please contact support through the online portal!
+For a guide on filling out a Bug Report, please see this thread.
+
+Please note the Customer Service hours are 10:00 - 22:00 (UTC+8)
+---
+COMMAND: -blackscreen
+CATEGORY: Misc and Customer Support
+DESCRIPTION: Frequently updated advice regarding the blackscreening issue
+CONTENT: The issue seems to be related to Windows 11 and may be due to compatibility issues for many games including Infinity Nikki. Other devices and Windows versions are unaffected. 
+There is a recent update called KB5060842 and KB5063060, it is recommend to try updating to this patches to see if it resolves the issue.
+Alternative fix: Uninstalling a Windows Update
+Uninstalling the 24H2 update may fix this issue. To uninstall, go to: Windows Update Settings > Update history > Uninstall updates. The update should be labeled KB5058499.
+For concerns about uninstalling recent Windows updates as a potential workaround for the black/white screen issue:
+
+    Uninstalling an update is not inherently dangerous. Microsoft provides the option to uninstall updates to resolve compatibility or stability issues.
+    Security risks are low, and temporarily uninstalling updates does not create security issues unless the system is exposed to vulnerabilities not addressed by that specific update. Practicing safe browsing is always advised and the update can be reinstalled later when it is more stable or a new patch is released.
+
+
+Alternative fix: Compatibility Mode
+
+    Try running the game in Compatibility mode (Suggested ver: Windows 7). 
+Running your game in compatibility mode can cause performance issues and increase your PC temperature - it is not recommended for long periods of use.
+
+Please remember to restart your PC after attempting this fix.
+
+If you have concerns that require Infoldâ€™s attention or the above issues cannot resolve the issue, please contact them through the online portal or via their email infinitynikki_cs@infoldgames.com.
+
+We also suggest leaving feedback in the Windows Feedback Hub. To access this, press the Windows + "F" keys, or search "Feedback Hub" after pressing the Windows key. Then select "Report a problem" and describe your issue along with your Windows version.
+---
+COMMAND: -bugreport
+CATEGORY: Misc and Customer Support
+DESCRIPTION: How to submit a bug report
+CONTENT: If you need to contact Infold customer service, please contact them via the bug report menu (https://support-infinitynikki.infoldgames.com/). For help filling out the form, please see this guide.
+
+Once you have the page open, choose the 'Bug Report' option and fill out the form, or click on the headphone icon at the very bottom left to speak directly to the support team.
+Please note the Customer Service hours are 10:00 - 22:00 (UTC+8)
+---
+COMMAND: -cs
+CATEGORY: Misc and Customer Support
+DESCRIPTION: How to contact Customer Support
+CONTENT: If you have questions or concerns regarding the game, please contact support via the online portal or contact Infold directly via their email infinitynikki_cs@infoldgames.com
+Please note the Customer Service hours are 10:00 - 22:00 (UTC+8)
+---
+COMMAND: -keybinds
+CATEGORY: Misc and Customer Support
+DESCRIPTION: How to change keybinds on PC
+CONTENT: How do I change my keybindings on PC?
+Only a few keys may be rebound at this time. To do so, follow the steps below: 
+
+    Go to the Pear-Pal
+    Click Settings
+    Click Controls on the left side bar
+    Under the controls section find Key Settings
+    Click Go
+    Click any of the buttons and enter any key
+
+Note: As of currently, grey color buttons are unable to be changed 
+
+Can I change my keybindings/controller mappings on Mobile/PS5? 
+You currently cannot change your keybindings on any other device. There is no news on changing keybindings or controller remapping for other devices at this time. 
+
+You can submit feedback regarding this issue through their Optimization Suggestions and Feedback Submission Form.
+---
+COMMAND: -photos
+CATEGORY: Misc and Customer Support
+DESCRIPTION: How to find saved photos on PC
+CONTENT: Where can I find my saved photos?
+To find photos saved on your device, navigate to the respective path for your platform: 
+
+    IN Launcher: install location > InfoldGames > InfinityNikkiGlobal Launcher > InfinityNikkiGlobal > X6Game > ScreenShot
+    Epic Games: install location >  InfinityNikki > InfinityNikkiEpic > X6Game > ScreenShot
+    Steam: install location > SteamLibrary > steamapps > common >  InfinityNikki > InfinityNikki > X6Game > ScreenShot
+    Mac: Finder > Go > Library > Containers > Infinity Nikki > Data > Library > Application > Support > Epic > X6Game > Saved > ScreenShot
+
+
+If you want to backup your photos you can also refer to this guide with instructions for all available platforms (https://discord.com/channels/1245702850340978751/1367502115035152495).
+---
+COMMAND: -redeem
+CATEGORY: Misc and Customer Support
+DESCRIPTION: How to redeem codes including on iOS devices
+CONTENT: How do I redeem codes?
+
+How to Redeem a Code
+
+    In Game
+        Click Pear-Pal on the top left corner if unlocked
+        Click on the gear icon that representsSettings
+        Select Other
+        Under Redeem Code, paste the code after selecting Apply
+
+
+    Website
+        Visit the Redemption Code website and log in
+        Ensure you have selected the correct Character and Server
+        Enter the redeem code in the Redemption Code text box and press Redeem
+        Your rewards will be sent to your in-game mail. Be sure to log in and claim them
+
+
+    Note
+        Make sure your redeem codes do not have any extra spaces before and after the code!
+        Expired redeem codes will be deleted, make sure to redeem them before the mentioned date.
+
+Where can I find all current redeem codes?
+Live redeem codes are shared in the â redeem-codes channel. You can opt to be notified when new redeem codes are shared by selecting the @Redeem Code role in â Channels & Roles
+
+Other codes may be shared by partnered creators across different platforms but will not be shared directly in the redeem code channel. We encourage you to support these creators on their accounts to find these codes. Discussion of these codes is permissible within the server.
+How can I redeem codes on my iOS device?
+The redeem code feature is currently under maintenance for all iOS devices, however you can redeem through the official redeem code website: https://infinitynikki.infoldgames.com/proj/redeem_code.html.
+---
+COMMAND: -stuck
+CATEGORY: Misc and Customer Support
+DESCRIPTION: How to recover character when stuck
+CONTENT: Nikki is stuck, how can I fix this?
+If Nikki is stuck 
+
+    Navigate to Settings
+    Click Features  on the left side bar of settings
+    Under the Accessibility Settings section find Recover Stuck Character
+    Click Apply
+
+
+If the issue persists; 
+
+    Try teleporting to a different area on the map using the warp spires
+    Try re-opening the game
+
+
+If the issue continues please make a bug report
+---
+COMMAND: -twitch
+CATEGORY: Misc and Customer Support
+DESCRIPTION: Information on Twitch account binding and the Twitch Drops event
+CONTENT: How do I bind my Twitch account to Infinity Nikki?
+Visit the Infinity Nikki website here and follow the outlined steps to bind your account and earn drops.
+
+What are Twitch Drops and what can I get from it?
+Twitch Drops are rewards you can get for watching participating Twitch streamers in the #InfinityNikki category.
+
+Currently, Twitch Drops will be available from 29 May 2026 at 07:00 until 22 June 2026 at 11:00 and you'll get the following in-game rewards for watching:
+:stopwatch: Watch 15 mins â€“ 10Ã—:_:
+:stopwatch: Watch 30 mins â€“ 20Ã—:_:
+:stopwatch: Watch 45 mins â€“ 20,000Ã—:_:
+:stopwatch: Watch 1 hour â€“ 100Ã—:_:
+:stopwatch: Watch 1.5 hours â€“ 100Ã—:_:
+:stopwatch: Watch 2 hours â€“ 100x:_:
+
+I watched so much, but didn't get anything!
+Make sure your account is connected and you have claimed the rewards after completion.
+You can do that on Twitch under the Drops Inventory page as well as track your progress there for each Drop.
+
+Note: It can take up to 24 hours before rewards are sent to your in-game mailbox.
+---
+COMMAND: -uid
+CATEGORY: Misc and Customer Support
+DESCRIPTION: Explains how to find your in-game ID/UID/Stylist ID
+CONTENT: How do I find my in-game ID/UID/Stylist ID?
+You may find your in-game ID, known as your UID or Stylist ID, on the right side of your screen near your avatar when opening Pearpal. This number will also be shown on the bottom left of your screen while playing. 
+
+How do I find my ID if I can't access the game?
+You can login on the Infold Website with your respective sign-in option and find your UID under Account Info > My Games > Infinity Nikki.
+  
+
+    Alternatively, you can also check by logging into the Official Interactive Map, Whim-Log or the Top-Up Website.
+
+
+Additionaly, if you have a friend who is able to open your profile, your ID will be listed as the "Stylist ID". 
+
+PC players may also find their UID (as a folder name) when going to this file path:
+C:\Program Files\InfinityNikkiGlobal Launcher\InfinityNikkiGlobal\X6Game\Saved\GamePlayPhotos
+This path may be slightly different for players who use the Epic launcher or Steam.

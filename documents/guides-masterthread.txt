@@ -1,0 +1,456 @@
+Source: Infinity Nikki community Discord — Silvergale materials & general help master thread (compiled guide records)
+Topic: Daily Photo and Riding tasks, ability/cycling outfit setup, Lookbook & camera presets, housing (codes, presets, animal inviting, gramophones, crafting, visiting friends), account history, Realm Challenges, and Behemoth Fawnling raising.
+
+===================================================================
+SILVERGALE MATERIALS — DAILY PHOTOS
+===================================================================
+
+Tips:
+- Try "hiding" Nikki in the camera settings.
+- Set aperture to f/16.
+- Make sure the golden outline appears around the subject.
+
+Kilo the Poet:
+- If you are having trouble with this, take the photo from the Warp Spire.
+- Make sure there is a gold box surrounding Kilo.
+
+Sovereign of Fresh (Eltinada):
+- Make sure you are taking a photo of Eltinada, the faewish, and NOT the rock. He should be available at all times. If he is not in front of the rock, check the surrounding area; he should still be nearby.
+- Remember you will need a gold box for the picture to count.
+
+Clown Nose Carson:
+- Located in the Handsome Lads Circus (Abandoned District), close to the teleporter.
+- Make sure there is a gold box surrounding the target.
+
+Sovereign of Cool (Aderinna):
+- You will need to have defeated the Sovereign with a "Perfect" rating to complete this quest.
+- After you defeat her, she will be in the Bibcoon's Chuckle Club during the day or when it's raining. At night, she will instead be on the balcony of the Stylist Guild.
+- Make sure there is a gold box surrounding Aderinna.
+
+Stray Hatty (Talking Hat):
+- Located in Florawish near the Stylist Guild.
+- Make sure there is a gold box surrounding the target.
+
+===================================================================
+SILVERGALE MATERIALS — RIDING TASKS
+===================================================================
+
+Ride: Grand Crane
+- Teleport to the Dream Warehouse Rooftop and wait at the ledge to ride the crane (jump onto it). It will keep looping in a circle.
+
+Ride: Sky Monarch
+- To ride the Sky Monarch, approach by sneaking and groom the bird. After grooming, there should be an option to leap onto its back and ride it.
+
+===================================================================
+ABILITY & CYCLING OUTFITS
+===================================================================
+
+Toggling Ability Outfit Effects:
+Certain abilities come with a variety of special effects that can be disabled or enabled to your preference. To do so, go to Wardrobe > Ability Setup. Select the ability you wish to adjust and navigate to the Ability Outfit Setup menu by pressing the swap button on PC/Mobile, Triangle on PS5, or the button associated with the "Custom Look" option on any other controller.
+
+Once in the Custom Look screen, you should see another menu on the bottom left that allows you to toggle "Ability Effect Setup". When enabled, you can tap the gear icon on PC/Mobile, the menu button on PS5, or press the button on your controller associated with "Ability Effect Setup" to change your settings.
+
+You may tap the "?" to learn what each toggle does. On PS5 or when using a controller, this can be viewed by pressing R2 or the button associated with the "View Effect" option while hovering an ability effect.
+
+Ability Outfit Setup:
+Several ability categories contain multiple abilities that you can switch between.
+
+To change your ability OR the look of your ability, go to Wardrobe > Ability Setup. When you have the correct category selected, press the swap button on PC and Mobile or the Triangle button on PS5, and select your desired ability/look.
+
+To unlock custom styling for ability outfits, players will need to complete the quest "Sea of Stars Revelation: The Secret of Ability Outfits".
+
+Cycling Outfit Setup:
+It is possible to set a default cycling outfit that Nikki will use when riding any whimcycles, motorcycles, or similar vehicles.
+
+To do so, approach a vehicle and press Get On. Once you're on the vehicle, go to Wardrobe and you will be brought to the Cycling Outfit screen. Dress Nikki in your desired outfit. Be sure to check the box at the bottom left that says "Set as Default Cycling Outfit" in order to have the outfit be the default for riding vehicles.
+
+You do not need to have unlocked custom styling for ability outfits in order to change the default cycling outfit.
+
+===================================================================
+LOOKBOOK & CAMERA PRESETS
+===================================================================
+
+Importing from the Lookbook:
+To import a look from the Lookbook itself, follow these steps:
+1. Tap "Use this scheme" on your desired look.
+2. Hit the share icon on the left side of the screen, then hit the "Share" button to create a Share Code.
+3. Copy the code you just created.
+4. In your Wardrobe, enter the Dye screen by tapping the palette icon, then tap the "Import" icon.
+5. Input the code you previously created for the outfit and tap Use.
+
+Import & Share Camera Presets:
+To import or share a preset, use the buttons located at the bottom right corner.
+- Click the Upload icon to import a code.
+- Click the Share icon to share your current settings.
+When importing, ensure there are no extra spaces when entering the code. The camera preset codes are not region-locked.
+To save a preset, use the "+Add Preset" button.
+
+===================================================================
+ACCOUNT — TOP-UP / MAIL CLAIM HISTORY
+===================================================================
+
+How to View Top-Up / Mail Claim History:
+To view your Top-Up History (including processed and refunded orders) as well as your Mail Claim History, follow these steps:
+1. Open Pear-Pal and go to Settings.
+2. Select "Features".
+3. Under "Service", navigate to the "Query" option and click "Go". This will open your browser.
+
+Note: Only the last 180 days are available for Top-Up History, and the last 30 days are available for Mail Claim History; both can take up to 2 hours to appear.
+Contact customer support if your successfully processed top-up has not been completed within 4 hours.
+
+===================================================================
+HOUSING — CODES, PRESETS & BUILD MODE
+===================================================================
+
+Importing House Codes:
+
+Sharing Codes:
+- Created house codes will not expire.
+- House codes are server-locked, meaning you can only use codes from players on the same server.
+
+Importing Codes:
+- Importing a code will overwrite your current plot.
+    - All existing items will be removed, including unharvested crops, fish, or animals. The game will show you exactly what's being imported before you confirm.
+    - You cannot import multiple codes to stack or gain extra resources.
+    - If you do not own an area obtained through expansion, you will only be able to import part of the scheme.
+- After importing, you'll remain in build mode, allowing you to move, delete, or adjust objects.
+    - If you're unhappy with the import, you can cancel without saving, and your original plot will be restored.
+- To determine which server the code is for, check the first character:
+    - 7 = NA / North America
+    - A = EU / Europe
+    - 4 = Asia
+    - 4 = HW / TW / MACAU
+
+How to Create or Import Codes:
+1. Go to your house and equip your Ability Outfit to enter Building Mode.
+2. Click the first icon at the top-right to open the Code Window.
+3. Then select an option:
+    - Create a scheme and generate a code.
+    - Input a code to load the scheme.
+For a visual guide, check the video: https://discord.com/channels/1245702850340978751/1334258693704913038/1412481051510702120
+
+Starter Build & In-Game Presets:
+Restoring the house with the in-game preset templates creates one unit and can't be altered unless you ungroup the build first.
+If you misplaced or deleted any land, use the codes below to import the default starter build.
+
+Starter Build Codes:
+- NA: 758TN2IT
+- EU: AFNDDXWQ
+- ASIA: 4YVJ2MSC
+- HW/TW/MACAU: 4OAZOEOV
+
+In-Game Presets:
+- If you restore a build using the in-game preset templates, they are one unit and can't be altered unless you use the Ungroup button.
+- You can find the preset houses in the first category/tab in the Build Menu.
+    - Use Equip to select.
+    - Use Place to place the object.
+For a visual guide, check the video: https://discord.com/channels/1245702850340978751/1334258693704913038/1412481123044429836
+
+===================================================================
+HOUSING — ANIMAL INVITING CODES
+===================================================================
+
+------------------------------------------------------------------
+LEVEL 1 ANIMAL INVITING CODES
+------------------------------------------------------------------
+
+FLOOF
+- PC: D, G, F, J, F, J
+- XBOX: LEFT, A, LEFT, X, LEFT, X
+- MOBILE: 3, 5, 4, 7, 4, 7
+- PLAYSTATION: LEFT, X, LEFT, SQUARE, LEFT, SQUARE
+
+AMBIRD
+- PC: D, S, G, H, J, G, H
+- XBOX: LEFT, UP, A, Y, X, A, Y
+- MOBILE: 3, 2, 5, 6, 7, 5, 6
+- PLAYSTATION: LEFT, UP, X, TRIANGLE, SQUARE, X, TRIANGLE
+
+SHIRTCAT
+- PC: J, A, D, F, S
+- XBOX: X, UP, LEFT, LEFT, DOWN
+- MOBILE: 7, 1, 3, 4, 2
+- PLAYSTATION: SQUARE, UP, LEFT, LEFT, DOWN
+
+CELEBCROW
+- PC: D, D, H, A, D, H
+- XBOX: LEFT, LEFT, Y, UP, LEFT, Y
+- MOBILE: 3, 3, 6, 1, 3, 6
+- PLAYSTATION: LEFT, LEFT, TRIANGLE, UP, LEFT, TRIANGLE
+
+BOWTIE CAT
+- PC: J, G, F, S, S
+- XBOX: X, A, LEFT, DOWN, DOWN
+- MOBILE: 7, 5, 4, 2, 2
+- PLAYSTATION: SQUARE, X, LEFT, DOWN, DOWN
+
+FLORIST SHEEP
+- PC: S, A, H, H
+- XBOX: DOWN, UP, Y, Y
+- MOBILE: 2, 1, 6, 6
+- PLAYSTATION: DOWN, UP, TRIANGLE, TRIANGLE
+
+KNIGHT STALLION
+- PC: S, F, D, F, F, G
+- XBOX: DOWN, LEFT, LEFT, LEFT, LEFT, A
+- MOBILE: 2, 4, 3, 4, 4, 5
+- PLAYSTATION: DOWN, LEFT, LEFT, LEFT, LEFT, X
+
+CUSHION SQUIRREL
+- PC: J, F, H, F
+- XBOX: X, LEFT, Y, LEFT
+- MOBILE: 7, 4, 6, 4
+- PLAYSTATION: SQUARE, LEFT, TRIANGLE, LEFT
+
+------------------------------------------------------------------
+LEVEL 3 ANIMAL INVITING CODES
+------------------------------------------------------------------
+
+BLUSHBUNNY
+- PC: G, S, A, F, J
+- XBOX: A, DOWN, UP, LEFT, X
+- MOBILE: 5, 2, 1, 4, 7
+- PLAYSTATION: X, DOWN, UP, LEFT, SQUARE
+
+BERETSANT
+- PC: G, G, D, A
+- XBOX: A, A, LEFT, UP
+- MOBILE: 5, 5, 3, 1
+- PLAYSTATION: X, X, LEFT, UP
+
+BOWLER
+- PC: G, F, G, F, H
+- XBOX: A, LEFT, A, LEFT, Y
+- MOBILE: 5, 4, 5, 4, 6
+- PLAYSTATION: X, LEFT, X, LEFT, TRIANGLE
+
+WREATHDOE
+- PC: S, D, F, H, H
+- XBOX: DOWN, LEFT, LEFT, Y, Y
+- MOBILE: 2, 3, 4, 6, 6
+- PLAYSTATION: DOWN, LEFT, LEFT, TRIANGLE, TRIANGLE
+
+HOODED OWL
+- PC: G, F, S, A, J
+- XBOX: A, LEFT, DOWN, UP, X
+- MOBILE: 5, 4, 2, 1, 7
+- PLAYSTATION: X, LEFT, DOWN, UP, SQUARE
+
+CROWNED PARROT
+- PC: S, D, F, S, D
+- XBOX: DOWN, LEFT, LEFT, DOWN, LEFT
+- MOBILE: 2, 3, 4, 2, 3
+- PLAYSTATION: DOWN, LEFT, LEFT, DOWN, LEFT
+
+BROWCAT
+- PC: S, G, S, G, H
+- XBOX: DOWN, A, DOWN, A, Y
+- MOBILE: 2, 5, 2, 5, 6
+- PLAYSTATION: DOWN, X, DOWN, X, TRIANGLE
+
+------------------------------------------------------------------
+LEVEL 6 ANIMAL INVITING CODES
+------------------------------------------------------------------
+
+LONGSTOCKING
+- PC: H, G, G, F, F, S
+- XBOX: Y, A, A, LEFT, LEFT, LEFT
+- MOBILE: 6, 5, 5, 4, 4, 2
+- PLAYSTATION: SQUARE, X, X, LEFT, LEFT, LEFT
+
+NOBLE PONY
+- PC: H, G, F, D, S, S
+- XBOX: Y, A, LEFT, DOWN, LEFT, LEFT
+- MOBILE: 6, 5, 4, 3, 2, 2
+- PLAYSTATION: SQUARE, X, LEFT, DOWN, LEFT, LEFT
+
+ROSETAIL SWAN
+- PC: J, S, S, S, S, D
+- XBOX: X, LEFT, LEFT, LEFT, LEFT, DOWN
+- MOBILE: 7, 2, 2, 2, 2, 3
+- PLAYSTATION: TRIANGLE, LEFT, LEFT, LEFT, LEFT, DOWN
+
+TUXTAIL SWAN
+- PC: D, S, D, D, D, H
+- XBOX: DOWN, LEFT, DOWN, DOWN, DOWN, Y
+- MOBILE: 3, 2, 3, 3, 3, 6
+- PLAYSTATION: DOWN, LEFT, DOWN, DOWN, DOWN, SQUARE
+
+FLORASHEEP
+- PC: S, D, D, F, S, S
+- XBOX: LEFT, DOWN, DOWN, LEFT, LEFT, LEFT
+- MOBILE: 2, 3, 4, 4, 2, 2
+- PLAYSTATION: LEFT, DOWN, DOWN, LEFT, LEFT, LEFT
+
+CROWNDEER
+- PC: F, S, G, G
+- XBOX: LEFT, LEFT, A, A
+- MOBILE: 4, 2, 5, 5
+- PLAYSTATION: LEFT, LEFT, X, X
+
+FAN EGRET
+- PC: A, S, D, F, H, J
+- XBOX: UP, LEFT, UP, LEFT, Y, X
+- MOBILE: 1, 2, 3, 4, 6, 7
+- PLAYSTATION: UP, LEFT, UP, LEFT, SQUARE, TRIANGLE
+
+SUSPENDERS WEASEL
+- PC: D, S, D, F, G, J
+- XBOX: DOWN, LEFT, DOWN, LEFT, A, X
+- MOBILE: 3, 2, 3, 4, 5, 7
+- PLAYSTATION: DOWN, LEFT, DOWN, LEFT, X, TRIANGLE
+
+===================================================================
+HOUSING — GRAMOPHONES
+===================================================================
+
+Where to Find a Gramophone:
+There are currently 3 available gramophones:
+
+Default Gramophone:
+- Unlocked by acquiring the sketch at Ability Level 5.
+
+Exclusive Gramophones (Note: these may no longer be obtainable):
+- Chicken Gramophone: Obtained from the Stardew Valley quest.
+    - If you own the gramophone, you can obtain the "A Blessing unto You" hair accessory after grooming the Chicken Gramophone on 3 separate days. You will also get a new Stardew track every day you groom.
+    - Note: You do not need to use the default grooming outfit.
+- Starchant Gramophone: Obtained from the "Cradle of Stars" Home Gallery in the Store.
+
+To change the music, equip the Construction Ability outfit and place a gramophone in your Home. Once placed, walk up to the gramophone and interact with it.
+All gramophones can be found under the Decorative Furniture - Casual category.
+
+===================================================================
+HOUSING — CRAFTING TABLE, QUEUE SLOTS & DYEING
+===================================================================
+
+I can't find the crafting table!
+If you have used the Starter Home preset, you will need to put the crafting table down manually.
+To find the crafting table, open Construction mode with the Construction Ability and go to your inventory. It will be in the "Life Function - Crafting Tool" tab.
+
+How do I get more dye?
+In the Crafting Table, click on the Potion icon. This is where you craft dyes. You can purchase dye recipes with Posy in the Yardling Shop.
+
+How do I get more crafting queue slots?
+Leveling up your construction ability with Posy will grant you more spots. The current maximum is 10 queue slots at Construction Ability Level 10.
+
+===================================================================
+HOUSING — VISITING A FRIEND'S ISLAND
+===================================================================
+
+Send a friend request in the "Friends" menu. You'll need the person's friend code.
+Once the friend request is accepted, go to the Gate on your Home Island. Find the person's name and press the LINK button. This will send a request to the other person in the in-game chat saying you would like to link and become neighbors.
+
+Note: There is no notification system for the status of requests or for receiving requests; you must check Pear-Pal messages manually.
+
+When you and the friend are linked, you'll be able to visit their island.
+
+===================================================================
+REALM CHALLENGES
+===================================================================
+
+- Realm Challenges are unlocked after completing the Warp Spire Training Quest from Tokar in Wishfield, or Davie in Itzaland.
+- Realm Challenges can be accessed from any Warp Spire, or from inside the Whim Calendar.
+- Exchange Vital Energy for various materials in each Realm Challenge.
+
+Realms Overview:
+
+Realm of Escalation
+- Exchange collected materials and Vital Energy for Bling, Thread of Purity, or Shiny Bubbles.
+
+Realm of Nourishment
+- Exchange collected materials and Vital Energy with the Fufus to increase Insight, which is used in the Heart of Infinity.
+
+Realm of Eureka
+- Complete Trials to unlock different Eurekas, which can be used in battles and as clothing. Unlock individual Trials by completing their associated Dungeons across Miraland.
+
+Realm of The Dark
+- Battle various enemies to earn different materials, which can be used when crafting or Glowing Up clothing.
+    - Wishfield:
+        - Bouldy (Crafting Materials): Unlocked by completing the Chapter 2 Wishfield Main Quest "Secret Ledger".
+        - Caged Greed (Glow-Up Materials): Unlocked by completing the Chapter 5 Wishfield Main Quest "To the Pinnacle: Stonecrown!".
+    - Itzaland:
+        - Esselings (Crafting Materials): Unlocked by completing the Chapter 1 Itzaland Main Quest "The Shroom Crown's Witness".
+        - Earthbound Wolfhead (Glow-Up Materials): Unlocked by completing the Itzaland World Quest "New Training: Warp Spire Realm" and Chapter 2 of the Itzaland Main Story.
+
+Realm of Breakthrough
+- Fight boss battles to obtain 5-star Eurekas and various Evolution materials.
+    - Wishmaster Chigda (Wishfield Evolution Materials): Obtain Heartfelt Thoughts and Calm Thoughts. Unlocked after fighting Chigda during the Wishfield Main Story.
+    - Guardian Beast (Whirls) (Itzaland Evolution Materials): Obtain Tranquil Thoughts and Ethereal Thoughts. Unlocked after fighting Whirls during the Itzaland Main Story.
+
+===================================================================
+MISC — FEEDING THE SNAIL BEHIND THE FENCE
+===================================================================
+
+Location: Snail Ranch, near the Snail Clinic Warp Spire. Check this map guide for more details: https://discord.com/channels/1245702850340978751/1311535213507252266/1450356511946834063
+
+Stand in front of the face of the snail. You may need to climb on the fence in order for the Feed button to show.
+
+===================================================================
+BEHEMOTH FAWNLINGS — ENERGY GUIDE
+===================================================================
+
+How can I restore my Behemoth's energy?
+To restore your Behemoth's energy, you must feed it. Once a month, you can have it rest in the bed for +4 or +10 Energy (depending on development).
+
+How do I feed my Behemoth?
+Interact with the Behemoth and select Feeding Time to enter the feeding menu. You can feed the Behemoth until it reaches max Fullness. If your Behemoth has not been fed that month, it will have an icon above "Feeding Time".
+
+There are two types of feedings you can do:
+- Main Dish: increases and restores Energy and Affinity.
+- Snack: increases Mood and Affinity.
+
+Note: You cannot do a combination of the two during the same feeding; however, you may feed the Behemoth multiple times.
+
+Filling the hunger depends on the rarity of the items selected:
+- Purple: +40
+- Blue: +30
+- Brown: +20
+- White/None: +10
+
+If you add a Flavor Essence to a Main Dish, you can increase a Stat depending on which Flavor Essence is selected. You can purchase Flavor Essence in the Memory Shop.
+
+How do the stats of the Behemoth affect Feeding Time?
+
+Total Stats Below 600:
+- Max Fullness: 50
+- Main Dish: +8 Energy and +20 Affinity
+- Snack: +3 Mood and +20 Affinity
+
+Total Stats Above 600 & Triggering Development Event:
+Note: The development event will only trigger STARTING from Month 6 after reaching 600 total stats.
+- Max Fullness: 70
+- Main Dish: +10 Energy and +20 Affinity
+- Snack: +3 Mood and +30 Affinity
+
+Obtaining Both Mood & Energy:
+If you wish to obtain a combination of Mood & Energy, you may feed the minimum amount required depending on development stage and fill the remaining Fullness with a Snack. As more fullness only increases the Affinity gained, feeding this way may be more beneficial. You will get the same amount of energy either way.
+- Before Development (Total Stats Below 600): 30 Fullness → +8 Energy, +12 Affinity
+- After Development (Total Stats Above 600 & After Month 6): 40 Fullness → +10 Energy, +11 Affinity
+
+===================================================================
+BEHEMOTH FAWNLINGS — GROWTH EVENT GUIDE
+===================================================================
+
+Note: A Growth Event is not a Development Event.
+
+To age your Behemoth Fawnling, you must use the Daily Schedule. Approach the Behemoth, select "Raise", then "Daily Schedule".
+
+Select "Growth Events" or "Companion Events" and add up to four different events, then click Confirm to trigger the Growth Event. You can pick Growth Events based on Attributes, or you can pick Companion Events based on Toys acquired.
+
+Growth Events consume Mood and Companion Events restore Mood.
+
+During the Growth Event, certain stage events may occur which will present choices that can increase Mood, Affinity, or Attributes depending on the result.
+
+Note: If the Behemoth's Mood is too low, Attribute gains will be reduced.
+
+===================================================================
+BEHEMOTH FAWNLINGS — SUMMONING GUIDE
+===================================================================
+
+How do I summon a new Behemoth Fawnling?
+1. After 'Call for Reunion' or 'Call to Play', teleport to Warmfur Home using the Memory Sprout teleport point.
+2. The Behemoth Archive menu should automatically pop up. If it doesn't, open the Recorder Journal through your handheld items by pressing Z on PC / the down button on PS5.
+3. Click on Welcome New Friend.
+4. You can set the amount of Talent Points you'd like for each stat depending on your desired ending. (Check the endings list for all possible endings.)
+
+Note: You can only raise two Behemoth Fawnlings per day.

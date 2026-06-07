@@ -1,0 +1,65 @@
+Source: Infinity Nikki Wiki (Fandom) — Compendium
+URL: https://infinity-nikki.fandom.com/wiki/
+License: Content available under CC-BY-SA unless otherwise noted.
+Topic: The Compendium gameplay feature — its rating/Collection Point system, sub-compendiums, and the Outfit Compendium categories.
+
+===================================================================
+COMPENDIUM
+===================================================================
+Type: Gameplay
+
+The Compendium shows all clothing items, outfit sets, Creatures, Lore, and Momo Cloaks currently in game. It can be accessed through the Pear-Pal and includes a search function.
+
+===================================================================
+RATING (COLLECTION POINTS)
+===================================================================
+Each clothing item is worth a different number of Collection Points when evaluated. Reaching different Collection Point milestones grants rewards including Titles, Cards, Diamonds, and Resonite Crystals.
+
+- Every 100 Collection Points grants 1 star.
+- Each "rank" consists of 10 stars.
+- Each star awards Diamond ×30, with two exceptions:
+  - The 5-star milestone awards Diamond ×30 and 1 Resonite Crystal.
+  - The 10-star milestone awards Diamond ×100 and a corresponding Title (and later, a Card).
+
+===================================================================
+SUB-COMPENDIUMS
+===================================================================
+- Lore Compendium — shows all available Readables in game. (Main article: Readable)
+- Cloak Compendium — shows all available Momo's Cloaks in game. (Main article: Momo's Cloak)
+- Creature Compendium — shows all available Creatures in game. (Main article: Creature)
+- Outfit Compendium — shows all available Clothing for Nikki in game.
+
+===================================================================
+OUTFIT COMPENDIUM CATEGORIES
+===================================================================
+There are 19 Compendium Categories. "Total Clothing" is the number of clothing items in that category; "Diamonds" is the total diamond rewards available from it.
+
+| Category (Season) | Description | Total Clothing | Diamonds |
+|-------------------|-------------|----------------|----------|
+| Exploration Season | Embark on a journey with your companions, heading into the unknown distance, seeking the place where miracles are born. | 1,682 | 5,250 |
+| Starlit Wish (Shooting Star Season) | It's said that wishes made upon shooting stars will be blessed with good fortune. | 270 | 1,250 |
+| Carnival of Fireworks (Firework Season) | Looking up at the ever-burning fireworks, and gazing down at the unique landscapes of the earth. | 442 | 1,560 |
+| Lone Elegy (Eerie Season) | Under the hanging full moon, amid mysterious songs, unknown legends are growing wildly. | 241 | 790 |
+| Revelry Moment (Revelry Season) | As the bell tolls for the ball, the colorful lights of the party start to dance, and the grand celebration begins. | 282 | 850 |
+| Floating Bubble Dance (Bubble Season) | Rising gracefully into the air, alongside the brilliant rainbow and carefree bubbles, there is also a forgotten longing. | 468 | 2,010 |
+| Cuckoo Baa-Baa Rhapsody (Playful Season) | I always want to soak up the carefree joy of summer, wishing my youthful heart could stay innocent forever. | 194 | 710 |
+| Beyond the Tearful River (Blue Tears Season) | Blue Tears, Blue Tears. Upstream I drift, soft and light, to yesterday's fading plight... | 229 | 770 |
+| Landscapes Unfolded (Danqing Season) | Where there is an end, there must be a beginning. | 395 | 1,450 |
+| Theater of No Silence (Music Season) | Behind the curtain, the story will eventually reach its finale, and the melody called "Eternity" will play its last note. | 312 | 890 |
+| Golden Mystery (Golden Season) | Night fades and the sun arrives. In a golden, fervent glow, all that was past has ripened, and all has come to rest... | 237 | 770 |
+| Unyielding Desire (Encore Season) | Even when the final whistle of the contest blew, even when futures diverged from afar, those shared moments remained in memory. | 266 | 790 |
+| Itzaland Chronicles (Terra's Call) | The Shroomlings raise their voices in prayer, singing until the morning breeze carries the land's truth to them. | 880 | 2,530 |
+| Life as a Poem | Beneath the weave of tree shadows, branches bloomed in silence. Wrapped in their scent, sleep descended, carrying life onward into another unfolding verse. | 231 | 720 |
+| Chromatic Beings Everbright | Washing away worldly dust, it reveals the countless forms of mortal life. | 518 | 1,640 |
+| Uncrowned Heart | (no description) | 282 | 780 |
+| The Forest Need Not Listen | (no description) | 291 | 790 |
+| Where All Souls Return | (no description) | 612 | 2,140 |
+| Until Tide Ends | (no description) | 159 | 600 |
+
+===================================================================
+VERSION HISTORY
+===================================================================
+- Version 1.0: Compendium released.
+- Version 1.2: Cloak Compendium added; previous Compendium content grouped into Outfit Compendium.
+- Version 1.3: Lore Compendium added.
+- Version 1.4: Creature Compendium added; Outfit Compendium changed.

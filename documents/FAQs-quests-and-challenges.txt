@@ -1,0 +1,237 @@
+FORMAT NOTE: Each entry is one chunk, separated by a line containing only "---".
+Fields per entry:
+  COMMAND     - the bot command(s) that trigger this answer (aliases separated by "/")
+  CATEGORY    - Quests and Challenges
+  DESCRIPTION - one-line summary of what the command answers
+  CONTENT     - the player-facing question, followed by the answer text
+Source: Infinity Nikki Official Discord server bot commands (bot-playground channel).
+Topic: Quests and Challenges - frequently asked questions answered by the server's command bot.
+
+===================================================================
+QUESTS AND CHALLENGES
+===================================================================
+---
+COMMAND: -aperture/-perspective
+CATEGORY: Quests and Challenges
+DESCRIPTION: Help with Forced Perspective quests not working
+CONTENT: Why aren't the Forced Perspective quests working?
+You will need to get a gold box surrounding the target. If it's not showing up, please try resetting your camera to default settings and/or make sure aperture is set to f/16. Also ensure that "Hide Nikki" is ON if they are not required for the photo.
+---
+COMMAND: -astralswan
+CATEGORY: Quests and Challenges
+DESCRIPTION: Help with the Astral Swan quest
+CONTENT: How do I complete the Astral Swan quest?
+After completing the quest (Soaring Above the Starry Sky), groom the swan and follow these steps:
+    Switch to the gliding outfit (Floral Memory)
+    Use the ability near the swan to trigger a cutscene
+        The button will glow in the correct spot.
+    When the cutscene starts, DO NOT MOVE. If you move, the quest will not be completed and you will need to replay it.
+---
+COMMAND: -bouldypic
+CATEGORY: Quests and Challenges
+DESCRIPTION: How to complete the quest "Risky Photography: Bouldy"
+CONTENT: How do I complete the quest Risky Photography: Bouldy?
+The quest text is not written correctly. To complete this quest, you only need to have a close-up photo of Bouldy.
+
+Bouldy does NOT need to have its arms slamming into the ground.
+---
+COMMAND: -dailywishes
+CATEGORY: Quests and Challenges
+DESCRIPTION: Locations and tips for daily wish quests for Silver Petals
+CONTENT: Where do I go for the daily Silver Petal wishes?
+It should be given to you from a bottle in Daily Wishes (text will be random). If you do not have a bottle with this reward, you may need to progress further in the main quest or wait another day.
+After you get 20 Silver Petals (enough to craft the outfit twice), you will no longer get Silver Petal bottles.
+For photos, please remember only photos that are taken with the golden box outline on the NPC or target will count. Try zooming out more, hiding Nikki, or making sure your aperture is set to f/16!
+---
+COMMAND: -dqtrails
+CATEGORY: Quests and Challenges
+DESCRIPTION: Solutions for the Danqing Trails
+CONTENT: Where are the Danqing Trails locations and solutions? Note: Some paths have to be arranged multiple times in order to get all the cats and fish. In order to claim the completion rewards, you must talk to the fan egret after reaching the yellow flag/portal.
+Danqing Trails I: Hillside Retreat
+(https://media.discordapp.net/attachments/1311535213507252266/1402431325071343646/Untitled66_20250805234358.png?ex=6a26a5b3&is=6a255433&hm=1dcac46c97f9feb80cbbd1c7f21b89da6972ec87f90f9664ef78d770d69a6b9d&=&format=webp&quality=lossless&width=744&height=763)
+Red path: connected pathway
+Yellow circles: locations of cats and koi
+Danqing Trails II: Cloudy Hollow
+(https://media.discordapp.net/attachments/1387613982998663278/1402616970200743946/Danqing_Trails_II_Solution_.jpg?ex=6a26a9d9&is=6a255859&hm=05440fd8cdc1adc5b93fcde6a10683377abf78d2b0cb97a376be6dd73eaa59d6&=&format=webp&width=980&height=876)
+(https://media.discordapp.net/attachments/1387613982998663278/1404252298846146741/Danqing_Trails_II_Exit_Path.jpg?ex=6a26ae1d&is=6a255c9d&hm=5c878183d41130ad3eee19c5a0e3a4049cf2b52ea011f5b4dde78fb5ac33d27c&=&format=webp&width=974&height=876)
+Red path: connected pathway
+Yellow circles: locations of cats and koi
+Yellow square: highlights the only panels that matter for the current formation targets
+
+First, configure the path to collect all the cats and koi. Next, leave the stage and reconfigure the path for the exit. Make sure to talk to the fan egret afterwards!
+Danqing Trails III: Winding Stream
+(https://media.discordapp.net/attachments/1311535213507252266/1402432462197358773/Untitled64_20250806000802.png?ex=6a26a6c2&is=6a255542&hm=33a2b614ed49f318349053f0e73992eeb98182bf34191e69961bc467a04c9412&=&format=webp&quality=lossless&width=923&height=643)
+(https://media.discordapp.net/attachments/1311535213507252266/1402432462713262100/Untitled65_20250806001006.png?ex=6a26a6c3&is=6a255543&hm=37510d4270ac86fd357d5b966fe3e04ede129cb605eee54df9ec8d0d1f3e9ca7&=&format=webp&quality=lossless&width=1118&height=763)
+Red path: connected pathway
+Yellow circles: locations of cats and koi
+Yellow square: highlights the only panels that matter for the current formation targets
+
+First, configure the path to collect all the cats and koi. After talking to the egret, return and reconfigure the path for the last animal.
+Danqing Trails IV: Peak Cascade
+(https://media.discordapp.net/attachments/1311535213507252266/1402469104241217588/Danqing_Trails_IV_Solution.jpg?ex=6a262023&is=6a24cea3&hm=c75f8f2380dc90cca9e3067dd6b71b35f61fce863b538ccc5c5815ae5e5423d4&=&format=webp&width=951&height=763)
+Red path: connected pathway
+Yellow circles: locations of cats and koi (drop down from the middle layer to reach the koi in the center)
+
+Location of readable/lore book (immediately after entering the middle layer on the 3rd panel shown in the top left)
+---
+COMMAND: -fireworks
+CATEGORY: Quests and Challenges
+DESCRIPTION: Where to find firework launchers for the Firework Isle
+CONTENT: Where are the firework launchers located on the new map?
+Please see the maps below for locations of launchers. Gloomy Cavern is Cave A on the map.
+(https://media.discordapp.net/attachments/1250364111855030272/1424158599630028892/image.png?ex=6a2696cd&is=6a25454d&hm=359215af18c6b013b02d4457ff21c151c77696f197f43b5bb96ad84db7c94701&=&format=webp&quality=lossless&width=921&height=876)
+---
+COMMAND: -interlude
+CATEGORY: Quests and Challenges
+DESCRIPTION: How to access the Interlude chapter "Call of Beginnings"
+CONTENT: How do I unlock the Interlude chapter Call of Beginnings?
+Please make sure you have completed all 8 chapters of the main story and the following World quest, "Fifteen Years, Echoes of Wishes", by talking to Giroda in the Temple of Wishes (Grand Millewish Tree). Then unlock the Aurosa makeup node in the Heart of Infinity as shown here.
+
+I can't begin the Interlude quest!
+If you've met all the prerequisites for the Interlude and still can't start it, try completing the world quest Miss Detective! I want to become a Columnist!, located at "Barrel Home" in the Abandoned District. It unlocks after completing the exclusive quests Sin in the Suitcase and The Final Case.
+
+A game restart may be required after completing the world quest for the Interlude to begin.
+Please note that this is currently a bug. If it still doesn't start, please submit a bug report.
+---
+COMMAND: -kindled
+CATEGORY: Quests and Challenges
+DESCRIPTION: How to complete Kindled Inspiration quests
+CONTENT: I need help with a Kindled Inspiration quest! This NPC is asking me to wear some type of clothing, but I don't know what it is!
+
+Quest: Kindled Inspiration: Blossom Walk
+Location: Florawish, Wishfield. North of In Front of the Mayor's Residence warp spire
+Item: Floral Stroll shoes
+From where?: Purchasable from Marques Boutique in Florawish, Wishfield
+
+Quest: Kindled Inspiration: Camouflage
+Location: Florawish, Wishfield. Southeast of the Dream Warehouse Tower warp spire
+Item: Wishful Pact bottoms
+From where?: Purchasable from Marques Boutique in Florawish, Wishfield
+
+Quest: Kindled Inspiration: Yesteryear's She
+Location: Florawish, Wishfield. Northwest of the In Front of the Mayor's Residence warp spire
+Item: Paper Crane's Flight dress
+From where?: Level 2 reward from Kilo the Cadenceborn, at the Old Florawish Memorial, Wishfield. Must be crafted first
+
+Quest: Kindled Inspiration: Fortune's Favor
+Location: Cicia Highlands, Wishfield. Northeast of the Cicia Art Academy Field Base warp spire
+Item: Little Luck socks
+From where?: Part of the outfit Afternoon Shine which can be acquired from the Shard: Wishfield of the Heart of Infinity. Must be crafted first
+
+Quest: Kindled Inspiration: Natural Design
+Location: Bug Song Hills, Wishfield. Northeast of the Bug Catcher's Cabin warp spire
+Item: Woolfruit Growth outerwear
+From where?: Purchasable from Marques Boutique in Florawish, Wishfield
+
+Quest: Kindled Inspiration: Animal Traces
+Location: Florawish, Wishfield. Northeast of the Shepherd Cottage warp spire
+Item: Mark of Life top
+From where?: Purchasable from Marques Boutique in Florawish, Wishfield
+
+Quest: Kindled Inspiration: Warm Protection
+Location: Florawish, Wishfield. Southwest of the Border Outpost warp spire
+Item: Midnight Moon gloves
+From where?: Purchasable from Marques Boutique in Florawish, Wishfield
+
+Quest: Kindled Inspiration: Goodnight Signal
+Location: Stoneville, Wishfield. Southeast of the Stoneville warp spire
+Item: Dreamland Marathon hair ornament, Late Slumber top, One More Minute shoes (3 pieces of comfy homewear)
+From where?: Purchasable from Marques Boutique in Florawish, Wishfield
+
+Quest: Kindled Inspiration: Deft Exuberance
+Location: Florawish, Wishfield. Northwest of the Meadow Activity Support Center warp spire
+Item: Swift Leap bottoms
+From where?: Level reward from Kilo the Cadenceborn, at the Old Florawish Memorial, Wishfield. Must be crafted first
+
+Quest: Kindled Inspiration: Transformation
+Location: Stoneville, Wishfield. West of the Stoneville warp spire (Near the sunny Dye Workshop)
+Item: Rippling Waves hair
+From where?: Acquired via Crafting (Part of the Rippling Serenity outfit)
+
+Quest: Kindled Inspiration: Fragrant Reward
+Location: Florawish, Wishfield. At the Ripple Wine Cellar on a sunny day
+Item: Purple Thoughts hand-held flowers
+From where?: Main Story Quest Reward
+
+Quest: Kindled Inspiration: Perfect Pair
+Location: Golden Fields, Wishfield. Visit Frankie on a sunny day
+Item: Fragrant Reverie dress
+From where?: Purchasable from Marques Boutique in Florawish, Wishfield
+
+Quest: Kindled Inspiration: Weave Fantasy
+Location: Wishing Woods, Wishfield. Near the Wish Celebration Center. Visit Bianbo
+Item: Any item of the Starlet Burst outfit OR Paired Flight hair accessory, + Any other item tagged "Fantasy" (e.g., Wish Bottle Necklace)
+From where?: Starlet Burst is obtained from Wishing Woods activities/crafting; Paired Flight and Wish Bottle Necklace can be purchased from Marques Boutique in Florawish, Wishfield
+
+Quest: Kindled Inspiration: Super Waterproof
+Location: Wishing Woods, Wishfield. Near the fire station during the day. Visit Deputy Chief Arlda
+Item: Azure Ripples headwear
+From where?: Acquired via Crafting (Part of the Bye-Bye Dust outfit)
+
+Quest: Kindled Inspiration: Glimpse of Sunset
+Location: Wishing Woods, Wishfield. Near Aurosa Valley after sunset. Visit Administrator Oguda
+Item: Glimpse of Sunset glasses
+From where?: Purchasable from Marques Boutique in Florawish, Wishfield
+---
+COMMAND: -shellcrystal
+CATEGORY: Quests and Challenges
+DESCRIPTION: How to obtain Sparkling Shell Crystals
+CONTENT: How do I get Sparkling Shell Crystals?
+    Go to Nibble Nibble Snail Foods or Chomp Chomp Snail Foods and purchase a Snailcure and Snailfruit
+    Find any sick snails around (They are snails with 3 blue wiggly lines above their heads)
+    Equip the Snailcure from your handheld items and feed the snail
+
+How do I get Little Sparkling Shell Crystals?
+After doing the above, feed the snail with Snailfruit. You can feed the snail up to 3 times to get 3 Little Sparkling Shell Crystals.
+
+Sick Snail Locations:
+
+Sick Snails 1, 2
+    Near Giant Spear Station Warp Spire (https://media.discordapp.net/attachments/1311535213507252266/1450356370267181269/image.png?ex=6a2650a0&is=6a24ff20&hm=5bf0568aeae81f735f85589591e68a42fc7c995accc066a30dea0d9edf9b4130&=&format=webp&quality=lossless&width=578&height=578)
+Sick Snails 3, 4, 5, 6
+    Near Snail Clinic Warp Spire (https://media.discordapp.net/attachments/1311535213507252266/1450356508905963613/image.png?ex=6a2650c2&is=6a24ff42&hm=0163896da22d64cca55e0325af821c70604ed83b148370928ed2b6d59a0ce59b&=&format=webp&quality=lossless&width=585&height=585)
+Sick Snail 7
+    Snail from 'Little Snail is Sick!' Random Quest
+Sick Snails 8, 9
+    Near Hero's Square Warp Spire
+    (https://media.discordapp.net/attachments/1311535213507252266/1450356970082144399/image.png?ex=6a26512f&is=6a24ffaf&hm=b780c9ecb95a447c7434b1d9fc3385e442bec2adcc97100b209e020eb72600f9&=&format=webp&quality=lossless&width=763&height=763)
+    (https://media.discordapp.net/attachments/1311535213507252266/1450356970589651016/image.png?ex=6a265130&is=6a24ffb0&hm=6bdb86210c481436137ac8743866afd37f7dbbb0de1032e380b95839c97a67fb&=&format=webp&quality=lossless&width=684&height=684)
+Sick Snail 10
+    (https://media.discordapp.net/attachments/1311535213507252266/1450357198386630727/image.png?ex=6a265166&is=6a24ffe6&hm=cdf6169bf058b59dcc65665c5831791e3da5dbc898637670e1c93179b1d44d36&=&format=webp&quality=lossless&width=763&height=763)
+    Near the entrance inside Spira Waterfall Cliff Cavern
+Sick Snail 11
+    (https://media.discordapp.net/attachments/1311535213507252266/1450357288530346118/image.png?ex=6a26517b&is=6a24fffb&hm=2bf4d716264c60d04ce719dc03fe4f05a76982a2141eda72bd3e08435b0ff424&=&format=webp&quality=lossless&width=658&height=658)
+    Near Shroomling Wall Warp Spire
+---
+COMMAND: -stoptrain
+CATEGORY: Quests and Challenges
+DESCRIPTION: How to stop the Choo Choo Train for the quest "Junior Conductor, Set Off!"
+CONTENT: How do I stop the Choo-Choo Train?
+You must stop the first red carriage within the golden box. If you overshoot, reverse and pause until the nose of the train is inside the box.
+
+Note: To pass the test, you only need to disembark 1 passenger. You do not need to press continue and you may exit immediately.
+---
+COMMAND: -story
+CATEGORY: Quests and Challenges
+DESCRIPTION: How to unlock Itzaland and the prologue
+CONTENT: How do I begin the new main story quests/go to Itzaland?
+Note: There is no difference between these two methods, both will show the same cutscene immediately upon reaching Itzaland. The Sea of Stars is the faster method. Skipping Prologue is about new players skipping the 1.0 story.
+
+Method 1: Sea of Stars
+Go to Unbound Wharf and choose to start the new story, then you'll have a cutscene summarizing 1.0 before being teleported to the "Itzaland Canyon East" Warp Spire at the edge of Abandoned District.
+
+Method 2: Abandoned District
+Go to new gliding station at top of Windrider Mill (use Windrider Mill Top Warp Spire and walk north) and talk to the Gliding Station guy (Bright Eye Roundy) to activate the Skypass to the Itzaland Warp Spire.
+After gliding, you'll have a cutscene summarizing 1.0, then unlock the "Itzaland Canyon East" Warp Spire.
+---
+COMMAND: -yinyuan
+CATEGORY: Quests and Challenges
+DESCRIPTION: What each option for the Yin Yuan gift means
+CONTENT: What does each option mean for the Yin Yuan gift?
+
+    Xiang Bao - Adorned Glow (fragrant pouch)
+    Rong Hua - Spring Branch (velvet flower comb)
+    Tuan Shan - Swallow Song (silk fan)
+
+
+Note: You will get all 3 after completing the World Quest Of Tuan Shan, Rong Hua and Xiang Bao.

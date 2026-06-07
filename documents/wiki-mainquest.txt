@@ -1,0 +1,275 @@
+Source: Infinity Nikki Wiki (Fandom) — Main Quests
+URL: https://infinity-nikki.fandom.com/wiki/
+License: Content available under CC-BY-SA unless otherwise noted.
+Topic: Main Quests — the main storyline of Infinity Nikki, grouped by Chapters, covering the Introduction, A Journey Born from the End, the Wishfield Arc, and the Itzaland Arc.
+
+===================================================================
+OVERVIEW
+===================================================================
+Main Quests are quests that follow along Nikki and Momo's journey in finding the Miracle Outfit pieces to save Miraland. Main Quests act as the main storyline of Infinity Nikki, and are grouped accordingly by Chapters. All Main Story quests are denoted by a golden marker on the map.
+
+Quest Type: Quests (Main Quest)
+First released in Version 1.0.
+
+===================================================================
+FULL MAIN QUESTLINE STRUCTURE
+===================================================================
+1. Introduction
+   - Through the Collapse of Time and Space
+
+2. A Journey Born from the End
+   - Where the Stars Keep Watch
+   - Beyond the World's Boundaries
+
+3. Wishfield Arc
+   - Wishfield Chapter 1: Wishes Without Wings
+       - Land of Wishes
+       - Accident at the Clothing Store
+       - Unexplained Coma Incidents
+       - Power Outage Rescue
+   - Wishfield Chapter 2: The Lost Wishes
+       - Wish Gathering
+       - The Truth is Close
+       - Secret Ledger
+       - Go to the Dream Warehouse!
+   - Wishfield Chapter 3: Stonewoods and Flight
+       - First Meeting at Stoneville
+       - For Flamecrest Festival
+       - Wish Collector's Crisis
+       - Petals, Glide!
+   - Wishfield Chapter 4: Land of the Abandoned
+       - Track the Abandoned District!
+       - Corrupted Stoneheart
+       - Come on! Market of Mirth!
+       - Attention! Faewish Sprite Spotted
+   - Wishfield Chapter 5: Wishes and Delusions
+       - Choo-Choo Station Mystery
+       - Forgotten Settlement
+       - To the Pinnacle: Stonecrown!
+       - Ghost Train
+       - Unresolved Mystery
+   - Wishfield Chapter 6: Encounter in the Woods
+       - Mysterious Wishing Woods
+       - Target! Wish Inspection Center!
+       - Where is Afubo?
+       - Cleansing Oil Mission
+       - A Special Wish
+       - Strange News at the Institute
+   - Wishfield Chapter 7: Secret of the Grand Tree
+       - Find the Wish Master
+       - Recommendation Letters
+       - Rescue at the Wishball Field!
+       - Save Giroda
+       - Explore! The Swordsmith Ruins
+       - Showdown with Chigda!
+   - Wishfield Chapter 8: Blooming Aurosa
+       - The Coming-of-Age Ceremony
+       - Wishful Aurosa
+   - Wishfield Interlude
+       - Call of Beginnings
+   - End
+       - Legends Carried by the Wind
+
+4. Itzaland Arc
+   - Itzaland Prologue: Where the Divinity Lies
+       - Where the Divinity Lies
+   - Itzaland Chapter 1: A Place Blessed by the Mothershroom
+       - New Beginnings in Itzaland
+       - Beware of the Behemoth!
+       - The Shroom Crown's Witness
+       - Quest for Lost Memories
+   - Itzaland Chapter 2: Land of Falsehoods, Path to Truth
+       - Emerging Hidden Traces
+       - Whispers of Truth
+       - The Unveiling
+   - Itzaland Chapter 3: Fading Prayers, But in Whose Name?
+       - The Snail-Shelled Shroomling Land
+       - Soft Prayers in the Wind
+       - The Pursuit of Truth
+   - Itzaland Chapter 4: Ancient Vows, Healing Rituals
+       - Treasures and Secrets
+       - The Last Song of Battle
+   - Itzaland Chapter 5: Light on Old Soil, A New Chapter Begins
+       - Where Desire and Goal Meet
+
+(Detailed synopses of the Itzaland Arc — Prologue through Chapter 5, plus the
+full Itzaland chapter/quest list including Chapters 6-9 — are documented
+separately in the Itzaland Arc source file.)
+
+===================================================================
+INTRODUCTION
+===================================================================
+
+--- Through the Collapse of Time and Space ---
+Nikki was pulled into the Starlit Realm. There, she met The Seer, unlocked the Ability Outfit Bubbly Voyage, and was guided through to the Sea of Stars.
+
+===================================================================
+A JOURNEY BORN FROM THE END
+===================================================================
+
+--- Where the Stars Keep Watch ---
+(Synopsis not yet documented on the wiki.)
+
+--- Beyond the World's Boundaries ---
+Nikki and Momo are transported to an unfamiliar ruins. Nikki learns to master Whim, unlocking the Wind of Purity Outfit to find their way out of the ruins. They then meet Ena, who implores them to go forth and change the fate of this world, before sending them off to Wishfield.
+
+===================================================================
+WISHFIELD ARC
+===================================================================
+
+=== Wishfield Chapter 1: Wishes Without Wings ===
+
+--- Land of Wishes ---
+Finding their way to the town, Nikki and Momo go to the Florawish Stylist's Guild to register as a Stylist. Dada then suggested they go to the Great Wishtree Square to buy some Wishing Items from Giovanni. There, Nikki unlocks the Bye-Bye Dust Outfit from the Heart of Infinity to help two kids with the Wish Bottles on the Wishtree. Afterwards, Nikki and Momo meet Bebe and receive a Whimcam from her.
+
+--- Accident at the Clothing Store ---
+Right after receiving the Whimcam, Nonoy's Giant Paper Crane crashed into Marques Boutique. To lend a helping hand, Nikki unlocks the Afternoon Shine Outfit from the Heart of Infinity to acquire the necessary repair materials. During the accident investigation, Nikki and Momo learn of the recent coma incidents happening around Florawish.
+
+--- Unexplained Coma Incidents ---
+After meeting up with Dada and Hiya at the Stylist's Guild, Nikki and Momo take on the task to investigate the coma incidents, and receive the first pointers for the task. Through talking with Noma and Dorsey, they learn of the Missing Stylists case from fifteen years ago, and the Wish Envoy. In order to find out more about the Wish Envoy, they go to the Daisy Inn to find Timis, the Cosmetics Merchant. Nikki unlocks the Rippling Serenity Outfit from the Heart of Infinity to help Timis create a new hairstyle, and receive information on Salai and Farini's whereabouts. After helping out Salai and Farini by winning a Styling Challenge against the Ebony Scissors, Nikki and Momo receive clues to the coma incidents. Following discussion with Nonoy, they all show up at The Wishing One statue and have a confrontation with the Wish Envoy.
+
+--- Power Outage Rescue ---
+The Quick-Wish Bottle that was dropped in the confrontation with the Wish Envoy caused a power outage in Florawish. In order to solve the power crisis, Nikki and Momo went down the Well of Fortune to help the Croakers restore the power system. Meanwhile, Nonoy goes to talk to devout wishmakers, and receives information on a Wish Gathering.
+
+=== Wishfield Chapter 2: The Lost Wishes ===
+
+--- Wish Gathering ---
+Arriving at the Wish Gathering, Nikki and Momo talk to the townsfolk at the assembly for clues. The Wish Envoy shows up, who is eventually revealed to be Giroda, a Faewish Sprite trying to help out with the investigation into the coma incidents. Nikki, Momo, and Nonoy then learn that the coma incidents are all connected to the Quick-Wish Bottles. Disheartened by the failure to catch the Wish Envoy, Nonoy retreats to her secret base near the Dream Warehouse. While comforting Nonoy, they were made aware of an eavesdropper, who then provided clues about the Wish Envoy. Giroda catches the Wish Envoy, who is then arrested by Hiya, and locked up at the Kingdom Guards' Office.
+
+--- The Truth is Close ---
+Nikki receives the Temp Guard Uniform to go interrogate the Wish Envoy. The Wish Envoy then reveals that the Prophet is the one behind all the Quick-Wish Bottles. Through further interrogation, the Wish Envoy reveals that a cure is written in a ledger, which is left in a cave on Relic Hill in Breezy Meadow. Hiya then recommends Nikki to head to the Cicia Art Academy Field Base to rent a Whimcycle for the journey to Relic Hill.
+
+--- Secret Ledger ---
+After arriving at the Cicia Art Academy Field Base, Nikki rents a Whimcycle and journeys to Relic Hill with Momo. After defeating Bouldy in the depths of the cavern, Nikki and Momo rescue Fluffy Waltz Dodobear, a Piecey, who was trapped. In return for their help, Dodobear tells them to come meet her at the bridge near the Meadow Activity Support Center. After some searching in the cavern, Nikki and Momo find the ledger, which they then bring back to the Secret Base for Nonoy. The ledger states that the wish of the person who used the Quick-Wish Bottle must be fulfilled in order to wake them up from the coma. Nonoy's mother's Quick-Wish Bottle is in the depths of the Dream Warehouse.
+
+--- Go to the Dream Warehouse! ---
+After venturing into the depths of the Dream Warehouse and finding Igrainne's Quick-Wish Bottle, Nikki, Momo, Giroda, and Nonoy are confronted by the Wish Master's Paladins, who unsuccessfully attempt to take the Wish Bottle away under the order from the Wish Master. Following this, they find out Igrainne's Wish for Nonoy, and that her name is not written in the ledger. Nonoy notices a lot of the names written in the ledger are names of participants in the Flamecrest Festival in Stoneville. During this conversation, Nikki also receives the first inspiration for the Miracle Outfit, Wishful Aurosa. Afterwards, Nikki and Momo head to the Meadow Activity Support Center to meet up with Fluffy Waltz Dodobear, who then gives them information on the Prophet, as well as information on the route to Stoneville.
+
+=== Wishfield Chapter 3: Stonewoods and Flight ===
+
+--- First Meeting at Stoneville ---
+Arriving at the entrance to Stoneville, Nikki and Momo meet Louise, daughter of the village's Wish Collector, Dartanion. They receive a carriage ride to the village market to find Giovanni, who nominates Nikki to be a contestant for the Flamecrest Festival Styling Contest. Nikki and Momo bring Giovanni's recommendation voucher to Mr. Spindle at the Dye Workshop, who then tells them to find Tan Youyou to get certified as a Flamecrest Festival contestant.
+
+--- For Flamecrest Festival ---
+Following certification, Nikki and Momo then head to the Flamecrest Festival Grounds at the top of the Flamecrest Stonetree. After they settle some interference from his mischievous Florasheep, Calhoun tells Nikki and Momo about Bettina, an exile from Umbraso, who could be the mysterious Prophet. That quickly turns out to not be the case, and they go to find Louise, who then gets some help with her festival preparations.
+
+--- Wish Collector's Crisis ---
+At the Lakeheart Stonetree, Nikki and Momo learn that Dartanion has used a Quick-Wish Bottle. After reporting the situation to Mr. Spindle, they are informed that Dartanion has gone to the Abandoned District to collect the Pieceys' wishes. Spindle then gifts Nikki Sunpetal Sheet for Nikki to craft the Floral Gliding Outfit, the only way to navigate through the tall Stonetrees of the Abandoned District.
+
+--- Petals, Glide! ---
+After practicing gliding from the Gliding Training Stonetree, Nikki and Momo head to Rockfall Valley and find Spindle. There, Spindle explains how to reach the Abandoned District with the help of the Catapult Seal.
+
+=== Wishfield Chapter 4: Land of the Abandoned ===
+
+--- Track the Abandoned District! ---
+Arriving at the Golden Fields in the Abandoned District, Nikki and Momo receive clues pointing towards the Ripple Estate. After venturing into the Ripple Wine Cellar, they confront the crooks who sell counterfeit fabric. Before escaping, they tell Nikki and Momo that Dartanion is at the Market of Mirth.
+
+--- Corrupted Stoneheart ---
+Returning to the Golden Fields, Nikki and Momo discuss their recent findings with Raggy, who informs them that the only way to reach the Market of Mirth is through the Skypasses. Through purifying the Stonedew Flora, they manage to restore the Skypass with the help of the Heart-Keeper.
+
+--- Come on! Market of Mirth! ---
+After arriving at the Market of Mirth, Nikki and Momo make their way up to the top of the Market to look for Carson at the Handsome Lads Circus. Carson then tells them that he hasn't heard anything about where the Wish Collector is heading next. To hunt for more clues, Nikki and Momo must continue their journey to the Choo-Choo Station after restoring the Market of Mirth's Stoneheart. Just before they could activate the Skypass, they are stopped by the Volunteer Corps Investigator Shieldon. All Skypasses are temporarily closed due to sighting of a Faewish Sprite.
+
+--- Attention! Faewish Sprite Spotted ---
+Needing more clues to where the Faewish Sprite could be hiding, Nikki and Momo head out to find Granny Oversleeves, one of the oldest Pieceys in the Stonewoods. Through a series of events, they are pointed towards a cave where the Faewish Sprite could be hiding. Deep inside the cave, they find the Wish Master Paladin, Avicinda, who confirms that the Wish Collector is at the Choo-Choo Station.
+
+=== Wishfield Chapter 5: Wishes and Delusions ===
+
+--- Choo-Choo Station Mystery ---
+Arriving at the Choo-Choo Station, Nikki and Momo find the conductor fallen into a coma, and Raggy's friend, Flora, with serious wounds from a skirmish with the Wish Collector. In order to treat Flora, they go to retrieve Floragale Cloth from the Heart-Keeper. Flora then tells them that her dad's conductor's log is in the Train Repair Station. After purifying the Esselings at the Train Repair Station, they find the conductor's log with hints pointing towards the Stonecrown. Due to its hard to reach nature, they must first head to Prosperville to seek help reaching the Stonecrown.
+
+--- Forgotten Settlement ---
+After reaching Prosperville, Nikki and Momo help the Forgotten Pieceys patching up their wounds. While protecting everyone from the Esselings, they meet the Leader of the Forgotten Pieceys, who then agrees to help them reach the Stonecrown.
+
+--- To the Pinnacle: Stonecrown! ---
+Nikki and Momo find a battlefield at the Stonecrown Peak. After defeating the Caged Greed, Nikki and Momo learn that The Wishing One's supreme artifact, the Aureum Vase, is at the Choo-Choo Train locomotive. The Volunteer Corps gives Nikki and Momo a special token to present to the train attendant to take the Vase.
+
+--- Ghost Train ---
+Nikki and Momo arrive at the Choo-Choo Station and board the Choo-Choo Train. After making their way through the train, they obtain the Aureum Vase from the train attendant, and hurry to return to the Stonecrown.
+
+--- Unresolved Mystery ---
+At the Stonecrown Camp, Nikki and Momo are confronted by Giovanni while handing the Aureum Vase to the Volunteer Corps. Giovanni reveals himself to be the Prophet, takes the Vase and tells Nikki to come to the Wishing Woods. The Commander gets heavily injured during the confrontation. The Pieceys escort Dartanion back to Stoneville, and Nikki and Momo go to talk to Spindle at the Dye Workshop. Spindle then tells them the background information on Giovanni. They decide to report back to the Stylist's Guild before heading towards the Wishing Woods.
+
+=== Wishfield Chapter 6: Encounter in the Woods ===
+
+--- Mysterious Wishing Woods ---
+Nikki and Momo head to the Stylist's Guild to update Dada on the investigation. Dada then appoints Nikki as the Stylist's Guild's official investigator. Nikki and Momo then head to the Wish Pass Office, where they pass the interviews for the pass permit. The pass permit turns out to be the Shrinking Outfit, along with some Elastic Gel needed to craft it. With the Shrinking Outfit, Nikki and Momo can continue towards the Wishing Woods.
+
+--- Target! Wish Inspection Center! ---
+At the Valley exit, Nikki and Momo encounter Timis with her stuck cart. As thanks for helping to get it free again, Timis tells them to go look for Afubo at the Wish Auditing Station. For that, they first need to get an entry permit from the Wish Inspection Center's director Boboda.
+
+--- Where is Afubo? ---
+Afubo turns out to be missing from her post, just when a large Wishing Orb starts clogging up the pipes at the Auditing Station. Nikki and Momo go to search for Afubo, who is found at a cave near the Research Institute making a Faewish Sprite Doll.
+
+--- Cleansing Oil Mission ---
+Afubo returns to her post, but can't solve the incident at the Auditing Station. Nikki and Momo head to the Beauty Lab to ask for Timis's help. The Beauty Lab is unfortunately covered in wild-growing vines, which Nikki and Momo help clear out by making their way through the Beauty Lab and restart the Workshop facilities. Timis gifts them her Ultra-Light Cleansing Oil as thanks.
+
+--- A Special Wish ---
+With the help of Timis's Ultra-Light Cleansing Oil, the clogged pipes at the Auditing Station are quickly freed. Nikki and Momo along with Director Boboda learn the full story behind Afubo's absence, and help Afubo with her troubles. As thanks, Afubo tells them information about a human man appearing at the Research Institute with the Paladin Captain.
+
+--- Strange News at the Institute ---
+At the Research Institute, Nikki and Momo try to ask around for more information but are denied by the Paladin Guards. They sneak around to find hints about a secret underground area at the Institute, and find a key to get in. Inside the cavern, they encounter the imprisoned humans, who turn out to be the missing Stylists from fifteen years ago. The prisoners can unfortunately not be freed yet, but they give Nikki and Momo information on the Quick-Wish Bottles, and the Wish Master Paladins.
+
+=== Wishfield Chapter 7: Secret of the Grand Tree ===
+
+--- Find the Wish Master ---
+Suspecting the Captain of the Paladins to be responsible for the coma incidents, Nikki and Momo head to the Grand Millewish Tree in search of more clues.
+
+--- Recommendation Letters ---
+In order to meet the Wish Master at the Temple of Wishes, Nikki and Momo acquire three recommendation letters from the Faewish Sprites. Along the way, they learn that Giroda was captured by the Paladins. They take the recommendation letters to the Temple of Wishes to confront the Wish Master about Giroda's whereabouts. The Wish Master behaves strangely.
+
+--- Rescue at the Wishball Field! ---
+The mutated vines break out at the Wishball Field, causing a lot of injuries for the Faewish Sprites. Nikki and Momo help out with the injured, and are told to find the librarian at the Temple of Wishes to learn more about the Wish Master. With the clues from the librarian, they return to the Temple of Wishes to once again confront the Wish Master. The "Wish Master" in the Temple of Wishes turns out to be a fake one. He confesses where Giroda is kept.
+
+--- Save Giroda ---
+After rescuing Giroda from the Cavern Prison, Nikki and Momo find clues pointing towards the Desperation Orb Warehouse basement. There, they find Giovanni being imprisoned by the Paladins. Giovanni reveals the true nature of the Wish Master Chigda, the truth behind the Quick-Wish Bottles, and gives Nikki and Momo information on where to go next.
+
+--- Explore! The Swordsmith Ruins ---
+In order to defeat Wish Master Chigda, Nikki and Momo head to the Swordsmith Ruins to seek out the wisdom of the Sacred Knight who managed to defeat the Desperate Vines during the Age of Divinity. After making their way through the ruins, they get to talk to the Sacred Knight, Heurta, who then gifts Giroda the Sacred Knight's Outfit.
+
+--- Showdown with Chigda! ---
+Hurrying back to the Grand Millewish Tree, Nikki and Momo find it heavily contaminated with Dark Essence at this point. To rectify this situation, they make their way up to the crown of the Grand Tree. There, they purify the Desperate Vines and defeat Chigda, bringing peace back to the Grand Millewish Tree.
+
+=== Wishfield Chapter 8: Blooming Aurosa ===
+
+--- The Coming-of-Age Ceremony ---
+The Aurosa has finally bloomed! Nikki and Momo help the Faewish Sprites out with the Coming-of-Age ceremony preparations.
+
+--- Wishful Aurosa ---
+Nikki and Momo head to the Aurosa Valley to help prepare for the Coming-of-Age ceremony. The Aurosa finally bloom. The new Wish Master Giroda gifts Nikki the Aurosa, which can then be used to craft the Miracle Outfit Wishful Aurosa. The Wishful Aurosa Outfit wakes the unconscious and lifts the gloom over Wishfield. Nikki and Momo are now ready to track down more clues for the next Miracle Outfit.
+
+=== Wishfield Interlude ===
+
+--- Call of Beginnings ---
+After acquiring a new sketch from the Heart of Infinity, Nikki and Momo go to the Wish Pass Office to acquire more Elastic Gel from Supervisor Lupabo. There, Nikki passes out, and is transported to the Grand Millewish Tree for medical care. Meeting up with Giroda at the Temple of Wishes, Nikki and Momo are informed of a sudden gathering of Esselings at the Swordsmith Ruins, the Dream Warehouse, and the Ripple Wine Cellar, and are tasked with investigating the situation. After restoring all three locations, they are then directed to go to the Stylist's Guild Memorial. There, they meet Ena again, after making their way through the Esselings swarming the building. They then receive information from both Ena and the Infinity Mirror regarding Whim and the Miracle Outfits.
+
+=== End ===
+
+--- Legends Carried by the Wind ---
+(Concluding quest of the Wishfield Arc.)
+
+===================================================================
+ITZALAND ARC (CHAPTER LIST)
+===================================================================
+The Itzaland Arc is the main questline introduced in Version 2.0. On this page it is listed only by chapter and quest names (synopses, rewards, and characters are documented in the dedicated Itzaland Arc source file).
+
+- Itzaland Prologue: Where the Divinity Lies
+    - Where the Divinity Lies
+- Itzaland Chapter 1: A Place Blessed by the Mothershroom
+    - New Beginnings in Itzaland
+    - Beware of the Behemoth!
+    - The Shroom Crown's Witness
+    - Quest for Lost Memories
+- Itzaland Chapter 2: Land of Falsehoods, Path to Truth
+    - Emerging Hidden Traces
+    - Whispers of Truth
+    - The Unveiling
+- Itzaland Chapter 3: Fading Prayers, But in Whose Name?
+    - The Snail-Shelled Shroomling Land
+    - Soft Prayers in the Wind
+    - The Pursuit of Truth
+- Itzaland Chapter 4: Ancient Vows, Healing Rituals
+    - Treasures and Secrets
+    - The Last Song of Battle
+- Itzaland Chapter 5: Light on Old Soil, A New Chapter Begins
+    - Where Desire and Goal Meet

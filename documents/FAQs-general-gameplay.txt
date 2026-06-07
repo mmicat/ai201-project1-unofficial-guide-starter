@@ -1,0 +1,1050 @@
+FORMAT NOTE: Each entry is one chunk, separated by a line containing only "---".
+Fields per entry:
+  COMMAND     - the bot command(s) that trigger this answer (aliases separated by "/")
+  CATEGORY    - General Gameplay
+  DESCRIPTION - one-line summary of what the command answers
+  CONTENT     - the player-facing question, followed by the answer text
+Source: Infinity Nikki Official Discord server bot commands (bot-playground channel).
+Topic: General Gameplay - frequently asked questions answered by the server's command bot.
+
+===================================================================
+GENERAL GAMEPLAY
+===================================================================
+---
+COMMAND: -blings
+CATEGORY: General Gameplay
+DESCRIPTION: How to earn more Bling
+CONTENT: How do I get more Blings?
+There is a cap of 160k :zBling_in: earnable per day. Please see the links below for help reaching that cap. 
+Realm of Escalation does not count towards this.
+
+    Daily Thread & Bling Farming Route 
+        
+        Fast Blings Route
+            Estimated time to finish: 10 minutes
+                Blings = 46,400
+            What if I want to cap blings?
+                Fully capping blings while ignoring threads is generally not recommended, as it only reduces a 45 minute run to 40 minutes while sacrificing a potential 300 threads. This shortened bling route is ideal due to its focus on the most time-efficient bling farming options before dungeons become the next best option which take much more time and attention compared to focusing on Greedy Pots.
+                If you still wish to cap blings:
+                    1) Finish the Fast Blings Route
+                    2) Do the following dungeons: Beauty Lab, Well of Fortune, Dream Warehouse
+                    3) Swap to the Bling/Thread Daily Route (Wishfield + Firework Isle) with a priority of: Stoneville > Breezy Meadow > Fireworks Isle
+                    4) Stop after you hit bling cap
+        
+        Wishfield + Firework Isle Route
+            Estimated time to finish: 45 minutes
+                Expect it to take longer depending on your comfort with the route/combat.
+                Bling cap = 160,000
+                Thread cap = 600
+            Notes and Tips:
+                If you do not cap blings by the time you cap threads, finish in the Well of Fortune.
+                Capping blings before threads is highly inefficient. Focus on threads as much as you can and finish capping bling in dungeons.
+                All guaranteed Greedy Pouches are included in this route.
+                Non-guaranteed Greedy Pouches are only marked if they aren't already directly in the marked path.
+                Go to graphics settings and lower the "scene details" setting to reduce the amount of trees.
+            Recommended Fragrances:
+                Unbridled Growth (Rapid Orbs)
+                Tranquil Woodall (Piercing Charged Attacks)
+                Budding Tale (Reduced Plunge Animation Lock)
+
+        Serenity Island Route
+            (https://media.discordapp.net/attachments/1316495679270551704/1400943994124505169/image.png?ex=6a268284&is=6a253104&hm=9ca0bd0708c754f81265a77fd05ce1551177bae6d7ad4e8d95161eba52e17ab1&=&format=webp&quality=lossless&width=943&height=876)
+        Danqing Island Route
+            (https://media.discordapp.net/attachments/1006306152734269440/1402760604833419264/image.png?ex=6a2686de&is=6a25355e&hm=6fe94f00fcff1d2e5357a4ecc70df4917930ba7aca2c0515803ca9a4fd054f6e&=&format=webp&quality=lossless&width=800&height=876)
+            (https://media.discordapp.net/attachments/1006306152734269440/1400938092772196473/image.png?ex=6a267d05&is=6a252b85&hm=b77fa46a57deda67af2995329ba249042301be9fe94e8eee02c7d335199a79fd&=&format=webp&quality=lossless&width=878&height=876)
+            (https://media.discordapp.net/attachments/1006306152734269440/1402756339180241057/image.png?ex=6a2682e5&is=6a253165&hm=ffcbb1127d1d54ae0f9f83700d662b7c40718ea18db7b98ba78aabc15ea1d9a4&=&format=webp&quality=lossless&width=904&height=876)
+            Estimated time: 15-20 mins
+            Regular Island Routes
+
+                Back Mountain -> Inkville route ~2 mins
+                Loong Pagoda - > Masque Phantom route ~ 4 mins
+                Loong Peak route ~ 1 min 30s
+                OPTIONAL NORTH ROUTE ~ 5 mins (3 mins outside, 2 min cave)
+
+            Danqing Realm Routes
+
+                Bamboo Grove ~ 2 mins
+                Inkville -> Ink pool ~ 2 mins 40s
+                OPTIONAL LOONG WATCH ROUTE ~ 30s
+                OPTIONAL INKSHORE ROUTE ~ 1 min 20s
+
+            Estimated bling/threads: 30k bling 200 threads(not including optional routes)
+
+            Dotted routes are optional, enemies are less dense in these areas
+            Masque Phantom(Star Icon) takes around 30 seconds each
+            Painted Owls(Danqing Realm) are marked with Animal Icons
+            Significant time can be saved with any 5 star Purification ability outfit, routes were tested with default Purification using Unbirdled Growth and Tranquil Woodfall
+        
+        Itzaland Route
+            Total estimated time: 25 mins
+            Total Bling: 80,000+
+            Total Thread: 400+
+
+            Routes are tested with Default: Archery with the bow Heart Rainbow with all currently available bow upgrades
+            Time taken may be reduced significantly with 5 star Purification or Archery ability outfits
+            It's recommended to run around the Itzaland map using the Gigantification ability due to its significantly faster movement speed
+
+            Recommended bow abilities(Heart Rainbow)
+
+                Gale Torrent: (3 bow energy) 3 dmg, aoe attack, requires brief charging
+                Plume Arrowstorm: (1 bow energy) 1 dmg, aoe attack, fast attack speed
+                Pure Thought: (2 bow energy) restore 1 health
+
+
+            Additional Notes: 
+            Due to the high density of enemies, it is recommended to bring potions or take your time in between combat to heal
+            max health can be upgraded to 7 via the Heart of Infinity
+
+            Snowflake markers indicate Flit-Flit Winglet locations
+            For Titan's Graveyard route, markers with a blue dot are on top of giant tree vines 
+            (https://media.discordapp.net/attachments/1316495679270551704/1445597922161983529/image.png?ex=6a26cd3a&is=6a257bba&hm=20b42cfd1a53fb2d73ec66ba5359adacbe34797f72ac39b7d42a7e83e28f3690&=&format=webp&quality=lossless&width=791&height=763)
+            (https://media.discordapp.net/attachments/1316495679270551704/1445597922942128281/image.png?ex=6a26cd3a&is=6a257bba&hm=77693eae1f02ebc868f06dea50c758e0692c5ee468021ef4b1b66cb9f85830e0&=&format=webp&quality=lossless&width=852&height=763)
+            (https://media.discordapp.net/attachments/1316495679270551704/1445597923663679581/image.png?ex=6a26cd3a&is=6a257bba&hm=c32743dd792417c5cad9e3d0c7b848cdf2a4d4db3793abba98282d2f34566e8e&=&format=webp&quality=lossless&width=1111&height=763)
+
+        Wanxiang Route
+            ETA: 15 mins
+            Bling: 30,000+
+            Thread: 200+ 
+                Routes are tested with the Hunting Shadows bow, obtained via playing through the quest "Where Wanxiang Weaves Life", this bow is recommended as the bow combat skill Whirling Hunt has great aoe potential due to the enemy density in some areas, but does require playing on low hp. If you don't like the hp drain, use the default Heart Rainbow bow instead.
+                Time taken may be reduced significantly with 5 star Purification or Archery ability outfits
+            (https://media.discordapp.net/attachments/1316495679270551704/1476016922985238712/image.png?ex=6a26b921&is=6a2567a1&hm=515cb2b62839a04b0576fdd74651e84b1302b4ca288ae2c2e7ed1a44e4faa44e&=&format=webp&quality=lossless&width=520&height=763)
+            (https://media.discordapp.net/attachments/1316495679270551704/1476016923652395119/image.png?ex=6a26b921&is=6a2567a1&hm=13759fd407d0ce07708eeb779155de46c38dbc7c271d609e0175ad87f2f4e98f&=&format=webp&quality=lossless&width=1633&height=763)
+
+        Boneyard Route
+            These are strictly mobs and the money bird essling in boneyard above lummiville and healing grounds
+            (https://media.discordapp.net/attachments/1311535213507252266/1509282880529104956/IMG_0469.jpg?ex=6a267477&is=6a2522f7&hm=07a591e561a426969fe2cfe88116767d030548d10acb8955669449e6b2600be0&=&format=webp&width=572&height=763)
+            (https://media.discordapp.net/attachments/1311535213507252266/1509282880822444082/IMG_0470.jpg?ex=6a267477&is=6a2522f7&hm=a3eab2865bfa8b803120fbb0f6cb4339f8a3b863f75215342b91d076ec4625c3&=&format=webp&width=572&height=763)
+    Bling Esselings
+        Wishfield Greedy Pouch Locations - Official Map with Markers (https://pearpal.infoldgames.com/tools/map?lat=363471.52093167003&lng=696570.7251661299&markerType=0123&selectedCatalogIds=140&worldId=1.1&zoom=3)
+        Itzaland Flit-flit Winglet Locations - Official Map with Markers (https://pearpal.infoldgames.com/tools/map?lat=257978.49692181125&lng=155492.27249591253&markerType=0123&selectedCatalogIds=189%2C140&worldId=1.2&zoom=3.5)
+
+Extra
+What counts towards the Small Goal, Make a Billion course?
+DOES count:
+
+    Blings collected on the floor/roof/etc around the normal map
+    Blings collected on caverns
+    Blings dropped by Greedy Pouches
+    Picking blings up while on a whimcycle
+
+
+DOES NOT count:
+
+    Blings for monster kills (location doesn't matter)
+    Blings collected on dungeons (Dream Warehouse, Well of Fortune, etc)
+    Blings rewarded for mini-games
+    After hitting daily cap, every bling stops counting
+
+
+What this means for people that want to work towards this goal:
+
+    Following a bling route as soon as you start playing for the day will mean you have way less than the 160k cap being counted towards the goal.
+    Since monster kills and dungeon blings count towards the daily limit, leave those for later in the day, to maximize the amount of bling you collect daily that is valid.
+    If the course is showing all the correct 0s and you actually need 10mil and not 1billion for this, and if you somehow only collect bling that counts until hitting the limit, it'll take a minimum of 63 days to get this goal.
+
+
+What this means for normal people:
+
+    Chill, it's gonna take a while.
+---
+COMMAND: -coop
+CATEGORY: General Gameplay
+DESCRIPTION: How to leave and/or disable co-op gameplay & visit friends' islands
+CONTENT: How to link and visit friend's islands: (more information in guides-master.txt).
+How to leave Co-op
+
+    PC: Press F10 or select the icon located at the bottom right of the minimap using ALT.
+    PS5: Press L1 to open the menu, then press and hold the Menu button (three horizontal lines).
+
+You will then be able to select Exit Co-op Mode
+
+Note: Your Home Island, the Sea of Stars and the Loong Pagoda will default to Co-op Mode. To exit Co-Op from your Home Island or Sea of Stars, you will need to teleport out or leave through Unbound Wharf (for Sea of Stars.)
+How to disable Co-op
+To disable Co-op, open the Settings menu, select Custom and scroll to Social Features.. Toggle the Gameplay Preferences option to Explore Alone
+---
+COMMAND: -crane
+CATEGORY: General Gameplay
+DESCRIPTION: What the flying cranes located around Florawish do
+CONTENT: What are the cranes I see around the map? Can I do anything with them?
+The cranes are just for fun -- feel free to take a picture with them!
+---
+COMMAND: -decor
+CATEGORY: General Gameplay
+DESCRIPTION: Information on decor catalogues
+CONTENT: Decor Catalogues
+
+    Where to buy catalogues
+        Purchase the photo furniture catalog from Posy's Yardling Shop > Ability Item > Other > Wishfield Volume 1 for 10 Astralite
+    All furniture in all volumes listed below can be found in this directory: (https://discord.com/channels/1245702850340978751/1421115464050020435)
+    Wishfield Volume 1 List
+    Wishfield Volume 2 List
+    Wishfield Volume 3 List
+    Wishfield Volume 4 List
+    Itzaland Volume 1 List
+    Itzaland Volume 2 List
+    Itzaland Volume 3 List
+
+Note: If an item has the gold-frames but a sketch is not registering, first try to adjust your camera settings. If this does not work, you may need to find the same object in another location. If this problem persists in other locations, try restarting your game. All the locations in the guides linked above are locations where the sketch will appear.
+
+If there are many items in one spot, you may need to take multiple photos. Some items may be invisible but they will still work.
+---
+COMMAND: -dyeoff
+CATEGORY: General Gameplay
+DESCRIPTION: How to disable dye on an outfit piece
+CONTENT: How do I disable dye on an outfit piece?How do I turn off dye?
+There are two ways to disable dye on an outfit piece.
+Method 1: Turn Off Dye
+PC/Mobile: In the bottom right-hand corner of the selected piece, there will be a rainbow paint palette. If there is a white background around it, the dye is on. Click it to turn it off. You can turn it back on by clicking it again.
+PS5: Press Square to open the dye slot selection on an outfit piece (do not long press as this will open Dye Mode instead). Next, press X to unselect the dye slot, then press O twice to back out and click Save.
+Method 2: Remove Dye
+Select an outfit piece and open up the Dye menu. Click "Select All", then choose a random dye. Click the same dye again and then Save. This will save the original colours as a dyeing scheme.
+---
+COMMAND: -essence
+CATEGORY: General Gameplay
+DESCRIPTION: How to find essence
+CONTENT: Where can I find essences and how do I collect them?
+
+    Essences are obtained by using your Ability Outfits to collect plants, bugs, fish, etc.
+    If you need a specific type of essence, you can track items directly on the map!
+    Make sure to upgrade each of your abilities in the Heart of Infinity to unlock rarer essences. If you need additional "Insight", you can collect items or exchange Vital Energy in the Realm of Nourishment.
+---
+COMMAND: -eureka
+CATEGORY: General Gameplay
+DESCRIPTION: How to get eurekas / how to change the color
+CONTENT: How can I get more Eurekas?
+You can get more Eurekas by spending Vital Energy in the Realm of Eureka.
+Please see this sheet for max stats and labels.
+How can I change my Eureka's color?
+You can change each Eureka's color by upgrading it to level 10, giving you a random color (which may be the original color). If you want a specific color, you may have to level up multiple Eurekas.
+Because 3-star Eureka's can only be upgraded to level 5, they cannot change colors.
+How do I claim the Eureka rewards in the Compendium?
+To be considered complete, you must have all 3 eurekas from a set in the specified color. For example, to claim the reward for First Snow: White color, you must own the upgraded First Snow: Head, First Snow: Hands and First Snow: Feet in white.
+
+    The base color does not count at Level 0 - you must level the Eureka to level 10.
+
+
+You can locate the Eureka Compendium in Outfit Compendium > Exploration Season > Radiant Whim > Eureka Collection
+---
+COMMAND: -evolution
+CATEGORY: General Gameplay
+DESCRIPTION: How set evolution works
+CONTENT: How do I evolve an outfit? What do evolutions do?
+To evolve an outfit, you will need to obtain the outfit twice or get Heartshines. For crafted outfits, you must craft the outfit again. Outfits from limited or permanent banners will instead require pulling the outfit again. 
+
+5-star outfits will only need one additional copy used for the final evolution. The first two evolutions will use Heartshines obtained from Deep Echo milestones or from Advanced Courses. Evolving an outfit can unlock new colors or patterns for an outfit, which is purely cosmetic and does not change stats.
+
+How do I get more Calm/Heartfelt Thoughts to evolve sets?
+You will need to continue through the story until the end of chapter 7 and defeat the boss to unlock the Realm of Breakthrough, where you can farm the materials once a week.
+---
+COMMAND: -expedition
+CATEGORY: General Gameplay
+DESCRIPTION: How to ensure pictures you take count towards Expeditions
+CONTENT: Why aren't my locations counting towards the Stamp Expeditions?
+Make sure a box surrounding the landmark and the name of the landmark are visible when you aim the camera. After taking the photo, you must click the "Upload" button for it to count towards the Expedition!
+
+For a detailed rundown of all stamp locations, please see this thread: (https://discord.com/channels/1245702850340978751/1313048137316827177)
+---
+COMMAND: -fanfluff
+CATEGORY: General Gameplay
+DESCRIPTION: Where to find Fan Feathers / Jade Fluff
+CONTENT: Where can I find a Fan Feather?
+You will need to groom a Fan Egret as shown below.
+
+Where can I find Jade Fluff?
+You will need to shake the Crimson Plum tree to collect 3 Jade Fluff.
+---
+COMMAND: -flute/-follow
+CATEGORY: General Gameplay
+DESCRIPTION: How to summon the Behemoth Fawnling
+CONTENT: How can I make the Behemoth Fawnling follow me?
+To summon the baby Behemoth or make it follow you, blow the Wooden Recorder:
+
+    Press X on PC
+    Press L3 (left joystick) on PS5 or other controllers
+        Alternatively, you may need to press L1 + R1
+    Tap the Recorder icon on mobile
+
+
+There are 2 different tunes: the first summons the Behemoth, and the second cancels the summoning. Clicking the button twice will cancel the call.
+
+Note: You might need to try summoning the Behemoth more than once if it does not react immediately.
+---
+COMMAND: -friends
+CATEGORY: General Gameplay
+DESCRIPTION: How to add friends
+CONTENT: How can I add friends?
+After progressing through the story enough to unlock Pear-Pal, you can access the Friends menu. Once in the menu, click the "Add Friends" button, then either enter your friend's code in the top bar or generate your own friend code by clicking "Get Friend Code" at the bottom.
+
+    Friend Codes will expire after 30 days.
+    You can only add friends who are on the same server as you
+        An America server player can add another America server player
+        An America server player cannot add a Europe server player
+    Friend Codes for each server are case-sensitive, 8-characters, and all start with a different character
+        Asia = f ; HK/TW/Macau = K ; Europe = 2 ; America = n
+    Player IDs cannot be used to add others
+
+
+If you would like to add other players, visit your server's dedicated code sharing thread in its related forum in the CO-OP category!
+---
+COMMAND: -glowup
+CATEGORY: General Gameplay
+DESCRIPTION: How to unlock the Glow Up feature
+CONTENT: How do I unlock the Glow Up feature?
+Wishfield pieces: Continue through the main Wishfield story until you've reached Chapter 3, then visit the app on your Pear-Pal!
+Itzaland pieces: Continue through the main Itzaland story until you complete Chapter 2, then you will get a Pear-Pal message from Davie Lopp. Go see him near the Shroomville warp spire and complete his quest "New Training : Warp Spire Realm". 
+What is the max level for Glow Up?
+Every item can be leveled to 10 using Shiny Bubbles. You will then be able to upgrade one final time ("glow up") using Glitter Bubbles (Wishfield pieces) or  Swirl Bubbles (Itzaland pieces). Both are obtained from their respective Realm of Dark levels or Recycling!
+
+Please note that only level 11 (max) items are considered "glowed up".
+---
+COMMAND: -grandtree
+CATEGORY: General Gameplay
+DESCRIPTION: Guidance for collecting chests within the Grand Tree in the Wishing Woods
+CONTENT: Grand Tree Chests and Resources
+Due to the numerous areas and platforms, many stylists have difficulties locating certain chests and Dews of Inspiration within the Grand Tree. We recommend referencing the unofficial map from Caimogu as it has images that show you precise locations.
+
+    The website is in Chinese. It is recommended to view using Google Chrome or any browser with a built-in translation feature
+    You can disable all categories besides å®ç®± (Chest), æœè£…å®ç®± (Sketch Chest) and çµæ„Ÿéœ²ç  (Dew of Inspiration) for easier viewing
+
+
+Piece Chest No. 12 and Dews of Inspiration No. 216, 221, & 222 (location shown: https://media.discordapp.net/attachments/1250364111855030272/1410087741487714414/grandtreee.png?ex=6a26d0cb&is=6a257f4b&hm=f72e283e78141f24aad0312e200e9fa8123262241361ce94cf17b886167381c7&=&format=webp&quality=lossless&width=602&height=466)
+
+    You must complete the quest Major Treetop Renovation before you can access this chest and group of dews
+---
+COMMAND: -handheld
+CATEGORY: General Gameplay
+DESCRIPTION: How to toggle handheld items states
+CONTENT: How do I change Outfit/Handheld States?
+You can open the Actions side menu and navigate to Feature Collection and select Form Shift or Handheld Switch for applicable items. You can also equip these options in Quick Actions Settings.
+
+To open the Actions menu: 
+
+    PC: press CapsLock
+
+
+To equip with Quick Settings:
+
+    For PC: Hold Z then select âš™ï¸
+    For PS5: Hold â¬‡ï¸ on the D-Pad then press ðŸ”³
+
+
+Once you exit out you can now toggle the handheld mode with Z or â¬‡ï¸ 
+Poses are Missing!
+When a handheld item is equipped, some poses will be hidden.
+---
+COMMAND: -inkscrolls
+CATEGORY: General Gameplay
+DESCRIPTION: Where to find all Inkrealm Scroll locations in Danqing Island
+CONTENT: Where are the Ink Scrolls' locations?
+After completing "Chapter 2: Ask Not If I Am Who I Was", you can activate the scrolls around Danqing Island using the Danqing Ability, which lets you teleport to Danqing Realm and vice versa. 
+
+Note: Entering a scroll will auto-unlock its mirrored version on the map. If you activate a scroll without entering, its mirrored version will not appear on the map.
+---
+COMMAND: -interrogation
+CATEGORY: General Gameplay
+DESCRIPTION: Is the interrogation cutscene bugged? (Yes)
+CONTENT: Is the interrogation cutscene bugged?
+Yes.
+---
+COMMAND: -island
+CATEGORY: General Gameplay
+DESCRIPTION: How to reach the island above Stonecrown in the Abandoned District
+CONTENT:  How do I access the island above Stonecrown?
+Please see the image (https://media.discordapp.net/attachments/1250364111855030272/1424159613510484049/image.png?ex=6a2697bf&is=6a25463f&hm=4720ae6731115fb0fcdddd8354758b216d36d1dbd2e4aacd490f8f39388585b9&=&format=webp&quality=lossless&width=274&height=327). The caverns are connected.
+---
+COMMAND: -isle/-loongisle
+CATEGORY: General Gameplay
+DESCRIPTION: How to reach the Loong Isle
+CONTENT: How do I reach Loong Isle?
+
+    During Chapter 2, you will be asked to go to the Twinsgate Portal in the Ink Pool region. Walking through it will teleport you to Loong Isle.
+
+
+    If you have previously made it up Loong Peak, you can try using the scroll located there to teleport into Loong Isle.
+
+
+    Alternatively, zoom in on your map and double check if you have a scroll icon in Loong Isle. If so, you can teleport there directly.
+
+
+3.5. In case you want to explore the other islands on Loong Isle, there will be a kite near the scroll which you can use to fly back to the other islands.
+---
+COMMAND: -items
+CATEGORY: General Gameplay
+DESCRIPTION: How to use Creative Items
+CONTENT: How do I use items in the Creative Items tab in the backpack?
+You will have to equip it like a consumable item, then use it. 
+For PC, the default button to use your current quick slot is Z and to access your other slots is holding Z. 
+There you can also customize your quick slots by hitting the :gear: icon and select items to place in them. 
+If you are on PS5, the default button is D-Pad down.
+---
+COMMAND: -lookbook
+CATEGORY: General Gameplay
+DESCRIPTION: How to upload to the Color Lookbook
+CONTENT: How do I upload to the Color Lookbook?
+Please see the image below. You will need to enter the Dye screen, then click/tap the "share" icon on the left side of the screen to upload.
+
+Generating a share code will also complete the quest for the Sea of Stars!
+Importing a Look
+Click/tap the "import" icon below the share icon. You will need to upload an image with a QR code or input the code for the dye look you want. 
+
+To use a look from the Lookbook itself, you will need to generate a share code for it, then import it in Wardrobe.
+---
+COMMAND: -newmats
+CATEGORY: General Gameplay
+DESCRIPTION: Where to find spawn locations of certain Itzaland materials
+CONTENT: Where can I find the new Itzaland materials?
+See the links below for a non-comprehensive picture guide of spawn spots for the (harder to find) locations of new collectibles:
+
+    2.0 Itzaland Material Locations (https://discord.com/channels/1245702850340978751/1443079357420670976/1497619123331399722)
+    2.5 Itzaland Material Locations (https://discord.com/channels/1245702850340978751/1497109181700903002/1497628879303479450)
+---
+COMMAND: -makeupbox/-itembox
+CATEGORY: General Gameplay
+DESCRIPTION: How to find and open the makeup or item boxes from Deep Echoes/events
+CONTENT: I backed out when collecting an item/makeup box, now what?!
+You can find all unclaimed makeup, item, or Momo Cloak boxes in the Consumables tab of your backpack.
+---
+COMMAND: -mapswitch
+CATEGORY: General Gameplay
+DESCRIPTION: Info on how to switch between the different maps
+CONTENT: How Do I Switch My Map?
+You can teleport to other locations by clicking on the map and clicking the location to open the Map Switch Menu.
+
+Note: You may need to progress through Main or Story Quests to unlock certain locations. Other locations can be accessed through the boats at Unbound Wharf in the Sea of Stars.
+---
+COMMAND: -medals
+CATEGORY: General Gameplay
+DESCRIPTION: How to get sovereign materials/medals for the Wishful Aurosa outfit
+CONTENT: Obtaining Sovereign Materials for Wishful Aurosa
+To craft the Miracle Outfit - Wishful Aurosa, you will need to defeat 4 different "Sovereigns". Sovereigns are leaders of Styling Factions - you must work your way through defeating all members of the factions to face the Sovereigns. 
+
+You will only need to get a Normal for each battle. Once defeated, you will win their medal. You can exchange the medals with Dada in the Stylist Guild for materials used to craft the Miracle Outfit - Wishful Aurosa.
+Please see this sheet (https://docs.google.com/spreadsheets/d/14cf34HlzexvXtRNx_G1TZbgjshdX6hJoXJ5G9okNYpg/edit?pli=1&gid=0#gid=0) for general scores needed for Normal and Perfect.
+---
+COMMAND: -miracleevo
+CATEGORY: General Gameplay
+DESCRIPTION: How to evolve the Miracle Outfits - Wishful Aurosa and Silvergale's Aria
+CONTENT: How can I evolve the Miracle Outfits?
+You will get the Heartshines required to craft Evolutions 1 and 2 in "Advanced Courses" (Courses in Pear-Pal) as a reward for crafting duplicate pieces of the outfit. 
+
+For the final evolution, you will need to craft every piece of the miracle outfit again. 
+
+    You will also need 7x Thoughts per evolution, which are obtained through the respective Realm of Breakthrough:
+        Wish Master (Chigda) - obtain Heartfelt Thoughts used for Wishful Aurosa and Silvergaleâ€™s Aria
+        Guardian Beast (Whirls) - obtain Tranquil Thoughts used for Providence Immemorial
+
+
+Every evolution must be obtained in order.
+Additionally, each Realm of Breakthrough trial can only be completed once a week.
+---
+COMMAND: -momocam
+CATEGORY: General Gameplay
+DESCRIPTION: How to take a picture with Momo
+CONTENT: How do I take a picture with Momo?
+To take a picture with Momo, you will have to disable the 'Hide Momo' option in the camera settings. Once done, additional options will become available, including positioning settings and Momo poses.
+
+Note: You are unable to take pictures with Momo in co-op spaces like the Sea of Stars, Home Island, etc.
+---
+COMMAND: -momentcapturer/-screenshot
+CATEGORY: General Gameplay
+DESCRIPTION: Info on the upgrade to the Screenshot feature
+CONTENT: What is Moment Capturer? What was the update?
+The Moment Capturer allows players to take a screenshot at a specific time, freezing the game to get a screenshot of the exact moment. This is an upgrade to the screenshot button. 
+
+Moment Capturer can be activated by pressing F12 on PC, and R3+L3 on PS5 or any other controller. On mobile, press the photo icon next to the original Momo's Camera icon.
+
+    This feature is not available in co-op spaces like the Sea of Stars or your Home Island.
+    This feature does work when using ability outfits, for example: floating in place with the floating ability.
+
+
+To disable Moment Capturer and re-enable standard screenshotting, go to Settings > Controls > and toggle "Enable Moment Capturer" (found under the Camera Controls header) OFF.
+
+Note: This is not about the outfit of the same name. This is about the Screenshot feature.
+---
+COMMAND: -pinnacle
+CATEGORY: General Gameplay
+DESCRIPTION: General tips for Mira Crown Pinnacle
+CONTENT: Mira Crown Pinnacle is the endgame mode of the game that resets on the 1st and 16th of every month. It always caters to the current banner outfits. If you have the matching outfit, it will clear. It is generally F2P friendly but NOT beginner friendly. If you havenâ€™t unlocked styling nodes in Shard: Sea of Stars yet, you may struggle to clear with 24/24 stars.
+
+Note: percentage and flat nodes in Shard: Wishfield do NOT affect the score for Itzaland styling battles and Mira Crown contests (both permanent and pinnacle)
+Helpful links:
+
+    Definitive Pinnacle Guide
+        More detailed document that breaks down pieces and outfits used: (https://docs.google.com/document/d/1HS3rRGz3Ytm-tJkUBmiF5vETcT4EP9zB2a8-4xWgIrU/edit?usp=sharing)
+    3rd Star Requirement Infographic (https://discord.com/channels/1245702850340978751/1316495679270551704/1334913420855607366)
+    Pinnacle Contest Score Tracker (https://docs.google.com/spreadsheets/d/1j4Ype6Q6hFXL1KTdutLQKWYilFkRQk6oW6BjXibUM4g/edit?usp=sharing)
+
+
+For Permanent Mira Crown rounds, please see below:
+
+    Wishfield
+        Cost-Efficient Outfits for Perfect Scores
+            These recommendations score perfect on all Wishfield Factions and 44/45 stars in Wishfield Mira Crown.
+            Expected to consistently get 20/24 stars in Pinnacle Mira Crown. Adjustments required for 24/24 stars.
+
+
+        Other notes and advice:
+
+            This guide is meant to be used AFTER crafting the Wishful Aurosa outfit.
+            3-stars are highly recommended to drastically alleviate the resource bottleneck, which allows you to move on to spending vital energy on other things such as sketches, insight, and saving up resources for 5-star outfits in the long term.
+            To get 45/45 on the permanent Wishfield Mira Crown, a minimum Lv. 5 Wishful Aurosa outfit is required.
+            Try to obtain the "Rainbell" Eureka when you can spare the Vital Energy. It is a low priority otherwise.
+            The Fresh set is overkill for the Sovereign of Fresh. The NPC "Amorbo" is more difficult than the Sovereign, and the Fresh set is designed for Amorbo specifically.
+        Notable alternatives/upgrades (expensive):
+            A Beautiful Day (3* outfit) -> Wishful Aurosa (5* outfit)
+            School Days (3* outfit) -> Rebirth Wish (4* outfit)
+            Departing Blossom (3* outfit) -> Hometown Breeze (4* outfit)
+            Searching for Dreams (3* outfit) -> Starwish Echoes (4* outfit)
+            Bad Mood Away (3* handheld) -> Endless Hug (5* choker)
+
+
+        These are more costly to obtain and upgrade, but can be a boost for players aiming for 24/24 stars every Pinnacle rotation.
+
+        Upgrading/replacing beyond the recommended outfits and pieces in the image is unnecessary for players who don't care for getting 24/24 in Pinnacle Mira Crown. 
+    
+    Itzaland: (https://infinitynikkilibrary.com/guides/itzaland-mira-crown/)
+
+
+The following pieces and outfits are usually required in Pinnacle:
+
+    Surprise-O-Matic
+    Limited-time tab of the Starlit Shop
+    Regional shops and vendors like Marques Boutique
+    Miracle outfits
+    Outfits from past events
+
+Starlit Moments (Sea of Stars) dailies are required for keeping up with Pinnacle
+Starlit Moments provide Ethereal Stars for the necessary styling nodes, as well as Starlit Crystals needed for buying the free pieces from the limited-tab in the Starlit Shop. If you choose not to do them, you shouldn't expect to clear with 24/24 stars consistently. The earlier you max out your Heart of Infinity nodes, the easier the challenges will be. For more information type -stylingnodes.
+One 5-star outfit of each Style will not guarantee 24/24 stars consistently
+While having better stats helps with the score, Pinnacle is much more reliant on label variety. No matter how good an outfit is stat-wise, if the round asks for a specific label, the outfit might not be useful there. Having to upgrade individual pieces or outfits often is normal.
+---
+COMMAND: -pity
+CATEGORY: General Gameplay
+DESCRIPTION: How the gacha pity works
+CONTENT: General Resonance Banner Rules:
+
+    You are guaranteed to get every item in a set without duplicates.
+    You can keep track of pity using the official Whim-log. You can also see the history of a currently running Resonance.
+    You can use Revelation Crystals :zRevelationCrystal_in: for both 5-Star Limited Resonance and 4-Star Limited Resonance. You can convert diamonds :zDiamond_in:  to :zRevelationCrystal_in: in the Store.
+    You can only use Epiphany Crystals :zEpiphanyCrystal_in: on 4-Star Resonance Banners. These are only available via real money purchase.
+    You can only use Resonite Crystals:zResoniteCrystal_in: on the Permanent Resonance Banner.
+
+
+5-Star Limited Resonance Pity Rules: 
+
+    The maximum number of pulls required to complete a 5-star set is 20 * the number of pieces in the set.
+    For example, A 10-piece set will take a maximum of 200 pulls to complete.
+    Every 10 pulls, you are guaranteed a 4-star item or higher.
+    Every 20 pulls, you are guaranteed a 5-star item.
+    If your 4-star item and 5-star item are to hit on the same pull (example, if both are expected on pull #20) the 5-star takes priority and the 4-star item will appear on the next pull.
+    For the final evolution on a 5-star set, you must pull the entire outfit again.
+    To unlock the evolution on the 4-star set on the connected banner, you must pull the entire 4-star set again.
+    You can select one 5-star item Ocean's Blessing which guarantees that 5-star item within your first 5-star items after selecting the Blessing.
+    You cannot select a new Ocean's Blessing during the same patch, so choose carefully.
+    Ocean's Blessings progress does not carry over and will be reset on the rerun.
+
+
+5-Star Permanent Resonance Pity Rules:
+
+    When selecting a set through Tidal Resonance,  you will only receive 5-star items from that set until it is completed, or if you changed the target set.
+    Tidal Guidance attempts are reset when you select "Give Up" and these attempts are not refunded.
+
+
+4-Star Resonance Pity Rules:
+
+    The maximum number of pulls required to complete a 4-star set is 5 * the number of pieces in the set.
+    Every 5 pulls, you are guaranteed a 4-star item.
+    To unlock the evolution, you must pull the entire set twice.
+---
+COMMAND: -prism
+CATEGORY: General Gameplay
+DESCRIPTION: Information on Dye Prisms and how to source them
+CONTENT: What Are Prisms?
+Prisms are the currency used to unlock dye palettes. There are three different types of Prisms:
+
+    Rainbow Prisms - unlock 3-star outfit palettes
+    Luminous Prisms - unlock 4-star outfit palettes
+    Radiant Prisms - unlock 5-star outfit palettes
+
+How can I obtain more Prisms?
+
+    Track earning calculations per calendar month
+    Permanent
+        Purchasing Dyeing Packs in the Featured Store
+        Using Tranquility Droplets in the Store (refreshes monthly)
+        Rewards for Pinnacle Crown (refreshes twice per month)
+        â€œRainbow Giftâ€ in the Store (refreshes weekly)
+    Non-renewable
+        Redeeming rewards through NPC â€œPouchyâ€ on Serenity Island
+        Completing certain tasks in Swish & Stitch Soiree
+        Dye Chests (Serenity Island)
+        Redeeming rewards through NPC "Zhou Suchan" on Danqing Island
+---
+COMMAND: -providence
+CATEGORY: General Gameplay
+DESCRIPTION: Crafting requirements for the new miracle outfit Providence Immemorial
+CONTENT: WProvidence Immemorial Crafting Requirements
+
+    12 Divine Scale 
+        time gated, 4 per week from Mira Crown Merit Arena's Glow Chamber
+    5 Clay Cocoons 
+        catch with bug catching, along the walls of Spira
+    10 Golden Sweet 
+        trees located near Parkya Crater Adventurer Camp teleport
+    3 Glazed Cicada Essence
+        shoot Clay Cocoons with arrow to release Cicadas, need upgrade from Heart of Infinity
+    3 Dawn Wings
+        Easier to spot at night, located in Elderwood Forest, for easy pickup go to the Forest of Slumber. there should be some near the sleeping behemoth's horns
+    3 Dusk Wings
+        Easier to spot at night, located in Elderwood Forest, for easy pickup go to the Forest of Slumber. there should be some near the sleeping behemoth's horns
+    3 Heritage Feather
+        Sneak up to them, they startle easily
+    5 Sack Fruit
+        Shoot down from branches or roar to make them drop, collect fruit from sacks after
+    5 Thornfruit
+        Roar or shoot down the fruits to collect from tree, may also be found near behemoths
+    3.0 kg Helmet Fish
+    3 Floral Scarf Worm
+    5 Scholar Feather Essence
+    3 Floral Scarf Worm Essence
+    120 Terra Gem: Sexy
+        in Realm of Dark, if you don't have the fight, keep doing Main Story
+    5 Clip Beetle
+    5 Tailor Beetle
+    3 Brush Beaver Fur
+    5 Masquerade Lynx Fluff
+    6 Looptail Furball
+    5 Night Heron Feather
+    5 Shawl Fluff
+    8 Knotted Fern
+    8 Pendulum Fruit
+        Use Giant ability to crush the outside protection first
+    4.0 kg Carver Fish
+    4.0 kg Starsilk Fish
+    5 Sweet Dust
+    6 Honeybunny Fluff
+    8 Night Heron Feather Essence
+    5 Knotted Fern Essence
+    3.0 kg Leftheart Fin
+    3.0 kg Rightheart Fin
+    3.0 kg Smudge Fin
+    1421 :thread:
+    92590 :zBling_in:
+---
+COMMAND: -records
+CATEGORY: General Gameplay
+DESCRIPTION: All music locations, song previews
+CONTENT:
+How do I obtain the Music Records?
+Click these links for a guide:
+
+    Home Record Locations (https://discord.com/channels/1245702850340978751/1420761893206753384)
+    Alison's 18 Records Preview Video (https://www.youtube.com/watch?v=yGjTE4QAkcE)
+    1.10 Alisonâ€™s 5 records Preview Video (https://www.youtube.com/watch?v=RW5i6T4FmMw)
+    1.11 Alisonâ€™s 6 records Preview Video (https://www.youtube.com/watch?v=uEpDiJLTpkc)
+    2.1 Alison's Records Preview Video (https://www.youtube.com/watch?v=6ya9cCgpzCA)
+    2.2 Vita's 28 Records Preview Video (https://www.youtube.com/watch?v=WFc9SF8YqgI)
+---
+COMMAND: -recycle
+CATEGORY: General Gameplay
+DESCRIPTION: How to recycle duplicate clothing items
+CONTENT: Recycling Duplicate Clothing
+You can exchange your extra clothing for Glitter Bubbles or Swirl Bubbles by speaking to Yelubo, who can be found by the Itzaland Interim Stylist Guild on Shell Island, Itzaland, and at Great Wishtree Square in Florawish, Wishfield (Unlocked after entering any Caged Greed battle in the Realm of The Dark).
+
+    You cannot recycle the original copy of any clothing
+    Duplicate clothing needed for evolutions will not be recycled
+    You can toggle between Itzaland (Swirl Bubbles) and Wishfield (Glitter Bubbles) materials regardless of which location you visit Yelubo
+---
+COMMAND: -rematch
+CATEGORY: General Gameplay
+DESCRIPTION: 
+CONTENT: Sovereign of Cool Rematch Guide
+
+    The minimum Perfect score is 76880 points
+    Any 4-star outfit or above is viable
+        Combining them with Raging Bouldy top, Endless Hug choker, Gentle Guidance handheld and accessories from the Fiery Glow outfit will help
+    You will need some investment in styling nodes in the Heart of Infinity
+    To test whether your outfits will meet the required score you can use the Styling Battle Calculator Sheet
+    Best eurekas: Any 5-star Cool eureka
+
+Sovereign of Elegant Rematch Guide
+
+    The minimum Perfect score is 92820 points
+    The accessories from Elegant + Linlang outfits like New Year's Dawn, Thought in Bloom, Misty Poetics and others can help the score a lot
+        In order to find out what pieces you currently have that will match, you can check your in-game filter in Menu > Glow Up > Filter > Select Elegant and Linlang together
+    This challenge is quite difficult and requires a lot of investment in Heart of Infinity styling nodes even when using gacha 5-star outfits
+    To pass with Wishful Aurosa, you need a good outerwear (F2P: Golden Elegance) and at least one good additional accessory (F2P: Eternal Blossoms handheld)
+        You will need to have all the Styling Nodes from Shard: Wishfield and Shard: Sea of Stars in the Heart of Infinity. That means all of the percentages and all of the flat nodes
+    Best eurekas: Any 5-star Elegant eureka
+
+
+Sovereign of Sexy (Itzaland) Rematch
+
+    The minimum Perfect score is 152000 points
+    How to unlock:
+        Score a Perfect rating against the Sovereign of Sexy styling faction
+        Complete the quest "I Want to Learn Styling!" and level the Path of Practice building to Level 3
+        Pre-requisite quests: 
+            "Itzaland Chapter 5: Light on Old Soil, A New Chapter Begins"
+            "Set Off for a Warm Place" > "Life in a Warm Place"
+            "Lets Build It Up" > "Grow Big and Strong" > "Towards Greater Glory"
+            "The Shroomling Sage: A Juice That Thinks" > "The Shroomling Sage: No Single Answer" > "The Shroomling Sage: Star Knows All"
+        Score Normal or above against Yara in the practical challenges
+    Recommended outfit: Luster Covenant or Slumber by Blossoms (both obtainable via Heart of Infinity)
+        Most Sexy outfits can clear with the recommended companions but you may need some Shard: Sea of Stars styling nodes unlocked
+    Best eurekas: x3 Sweetheart Party
+    Recommended companions: Fussi, Tallie, Jimena
+        Due to these companions having RNG-based abilities, you may need to retry the challenge again until you get a Perfect score. Further attempts may be necessary if the Preview Styling Score is fairly low
+---
+COMMAND: -reset
+CATEGORY: General Gameplay
+DESCRIPTION: Displays all server reset times
+CONTENT: When does the server/day reset?
+Daily reset for each server is at 4am server time. Weekly reset is each Monday.
+In respective timezones, this is the reset time for each server:
+
+    Asia + HK/TW/Macau : 00:00
+    Europe : 06:00
+    America : 15:00
+
+
+Please note times displayed here may not be accurate locally depending on Daylight Savings.
+---
+COMMAND: -shelldome
+CATEGORY: General Gameplay
+DESCRIPTION: How to obtain the Spira Shelldome warp spire
+CONTENT: How to get to the Spira Shelldome Warp Spire
+Once you are finished with Chapter 4, you can unlock the Spira Shelldome warp spire. 
+
+To unlock, go to the Shroomling Wall warp spire, then head up the path clockwise to the nest where you summoned Swanara. Summon her again, and she brings you up to the warp spire.
+---
+COMMAND: -shop
+CATEGORY: General Gameplay
+DESCRIPTION: When each pack in the shop resets and a link to spending efficiently
+CONTENT: If you are having issues purchasing items in game, please use the Official Top-up Site!
+
+To view your Top Up or Mail Claim history, please see this guide.
+Do the paid packs reset?
+
+    Tidal Resonance Packs: Includes both Resonite :zResoniteCrystal_in: (permanent) and Revelation :zRevelationCrystal_in: (limited) Crystals. Does NOT reset. These are a one time purchase only.
+    Epiphany Packs: Includes Epiphany :zEpiphanyCrystal_in: Crystals used in 4-star banners. Resets every mid patch (1.7.2, 1.8.2, etc), when the double 4-star banners run.
+    Seasonal Resonance Packs: Includes Revelation :zRevelationCrystal_in: Crystals for limited banners. These packs will be named after every season or patch ("Blue Tears", "Serenity", "Celebration", etc). Resets at the beginning of each patch (1.8, 1.9, etc)
+    Prism Packs: Includes Prisms for unlocking palettes in Dyeing. Resets at the beginning of each patch (1.8, 1.9, etc)
+
+
+For a breakdown of each pack and spending efficiency:
+Spending Efficiency
+This will all be based on USD prices where the rate is 60 diamonds/stellarite per dollar. Energy will be evaluated at 80 energy per 50 diamonds (cost of 1st diamond refresh per day)
+
+Reminder: Stellarite :zStellarite_in: converts to Diamonds :zDiamond_in: at a 1:1 ratio. 1 :zStellarite_in:  = 1 :zDiamond_in:
+Treasure Tab
+
+    Monthly Gift: $4.99 USD for 300 :zStellarite_in: and a total of 2,700 :zDiamond_in: (if you log in every day) 
+        Can be stacked up to 180 days
+    Weekly Gift: $0.99 USD for 60 :zStellarite_in: and a total of 420 :zVitalEnergy_in: (if you log in every day)
+        Can be stacked up to 210 days
+
+
+Monthly Gifts are definitely the most efficient purchase in the game, especially when considering the conversion ratio. 2700 diamonds would be around $42 when converting from Stellarite.
+
+Weekly Gifts are essentially about $5 worth of energy when using our diamond to energy ratio. Not a necessary purchase, just a nice bonus for bigger spenders. 
+Note: The energy is given to you immediately upon logging in for the first time for that day, you cannot "save" the energy as it is not a crystal.
+Distant Anthem & Miracle Epic
+
+    Distant Anthem: $9.99 USD 
+        680 :zDiamond_in:
+        5 :zRevelationCrystal_in:
+        10 :energy_crystal: (80 energy each)
+        Momo Cloak (changes per patch)
+        1.1M :zBling_in:
+        4500 :zShinyBubbles_in:  & 400 Glitter Bubbles (type of glitter bubbles change per patch)
+        1775 :zShiningParticles_in:
+        4100 :zThreadsofPurity_in:
+    Miracle Epic: $19.49 USD (when purchased before distant anthem, costs $1.50 more when upgrading)
+        Includes everything above, with a 10 level boost
+        980 :zStellarite_in: ($15 worth of stellarite)
+        10 more :energy_crystal: (80 energy each)
+        Profile Frame (changes per patch)
+
+
+After Monthly Gifts, Distant Anthem & Miracle Epic are generally considered the next best purchase to get as an active player due to the amount of rewards you'll get. You will need to level up to at least 50 to get most of the "best" rewards, which means actively completing weekly/phase tasks. Phase task exp does not count towards and is not affected by your weekly limit!
+
+Reusing MyS's old calculations, Distant Anthem gives about $56.73 worth of rewards, with Miracle Epic giving about $81.40. Purchasing 10 levels in the pass costs 1200 :zDiamond_in: so if you're desperate for levels, buying Miracle Epic would be cheaper than directly buying levels.
+Packs
+Start from the cheapest pack to the most expensive. Prism packs are not recommended to purchase unless you really want them.
+
+Epiphany packs only being able to be used on the mid patch (1.7.2, 1.8.2, etc) double 4 star banners can help spenders save their :zRevelationCrystal_in:, but it's recommended to buy a combination instead if going for a 4-star. See below.
+ 
+
+    Tidal: ranges from $0.99 to $14.99
+        Includes both :zResoniteCrystal_in: AND :zRevelationCrystal_in: with small amounts of :zBling_in: and :zThreadsofPurity_in:
+        Does NOT reset
+    Seasonal (Limited Pulls): ranges from $0.49 to $49.99
+    Epiphany (4-star Banners): ranges from $0.49 to $6.99
+    Dyeing Prisms (Timeflow/Chromatic): ranges from $0.99 to $45.99
+        Note: Chromatic Pack I only includes Radiant (5-star) Prisms
+
+Note: When using the multi purchase feature (buying all copies at once), prices may not be accurate to total amount. Please check to see what the cost is for you!
+
+PPD = pulls per dollar
+Pack Breakdowns
+
+    Tidal (:zResoniteCrystal_in:/:zRevelationCrystal_in:/:zBling_in:/:thread:)
+        ONE TIME PURCHASE
+        $0.99: 2:zResoniteCrystal_in:& 2:zRevelationCrystal_in:, about 4 pulls for $1, 4 PPD or 2 PPD per crystal
+        $1.99: 3:zResoniteCrystal_in:& 3:zRevelationCrystal_in: about 6 pulls for $2, 3 PPD
+        $4.99: 4:zResoniteCrystal_in:& 6:zRevelationCrystal_in:, about 10 pulls for $5, 2 PPD
+        $9.99: 8:zResoniteCrystal_in:& 10:zRevelationCrystal_in:, about 18 pulls for $10, 2 PPD
+        $14.99: 10:zResoniteCrystal_in:& 15:zRevelationCrystal_in:, about 25 pulls for $15, 1.67 PPD
+
+
+    Seasonal (:zRevelationCrystal_in:/ :zBling_in:)
+        Purchase limits may increase on special holidays like Lunar New Year!
+        $0.49: 3x limit, 1:zRevelationCrystal_in: each, 2 PPD
+        $0.99: 2x limit, 2:zRevelationCrystal_in: each, 2 PPD
+        $1.99: 2x limit, 3:zRevelationCrystal_in: each, 1.5 PPD
+        $4.99: 2x limit, 6:zRevelationCrystal_in: each, 1.2 PPD
+        $6.99: 2x limit, 8:zRevelationCrystal_in: each, 1.14 PPD
+        $9.99: 2x limit, 10:zRevelationCrystal_in:each, 1 PPD
+        $14.99: 2x limit, 15:zRevelationCrystal_in:each, 1 PPD
+        $29.99: 1x limit, 30:zRevelationCrystal_in:each, 1 PPD
+        $49.99: 1x limit, 50:zRevelationCrystal_in:each, 1 PPD
+        Total per season: 171:zRevelationCrystal_in: for about $161.50
+
+
+    Epiphany (:zEpiphanyCrystal_in:/:zBling_in:)
+        Packs are the same as Seasonal, only a minimal bling difference
+        Only has packs for the $0.49 to $6.99 range
+        Buy this in combination with Seasonal if going for a 4-star!
+        Total per season: 41:zEpiphanyCrystal_in: for about $31.50
+
+
+    Timeflow/Chromatic Prisms (:prism1: /:prism2:/:prism3:)
+        Timeflow I ($0.99): 20 :prism3:/ 10 :prism2:/ 10 :prism1:
+        Timeflow II ($1.99): 30 :prism3:/ 10 :prism2:/ 10 :prism1:
+        Chromatic I ($4.99): 60 :prism3:
+        Chromatic II ($45.99): 60 :prism3:/ 600 :prism2:/ 600 :prism1:
+
+
+Not calculating prisms.
+Stellarite :zStellarite_in:
+Purchasing for the first time will give a double bonus instead (see images below). Unlike Packs, the most efficient method is to purchase from most expensive to least expensive due to the bonus Stellarite given
+
+120 :zDiamond_in:/ :zStellarite_in:  = 1 pull 
+
+Calculation of Pulls (No Double Bonus)
+
+    $0.99: 60 stellarite, no bonus, 0.5 pulls, 0.5 PPD
+    $4.99: 300 stellarite, 35 bonus, 2.79 pulls, 0.558 PPD
+    $14.99: 980 stellarite, 120 bonus, 9.167 pulls, 0.611 PPD
+    $29.99: 1980 stellarite, 300 bonus, 19 pulls, 0.63 PPD
+    $49.99: 3280 stellarite, 660 bonus, 32.83 pulls, 0.657 PPD
+    $99.99: 6480 stellarite, 1800 bonus, 69 pulls, 0.697 PPD
+
+Purchasing through Steam
+Steam players will only be able to purchase by using their Steam Funds, which may add additional taxes depending on region or location. If you would like to use more options or are having difficulties completing your purchase, please use the official top up site instead.
+
+In-game Stores
+Please see â Small Shops (https://discord.com/channels/1245702850340978751/1440009764468687041) for NPC shops and locations!
+---
+COMMAND: -splendidgifts
+CATEGORY: General Gameplay
+DESCRIPTION: How do I get the item I want from the Splendid Gift Boxes?
+CONTENT: You have to purchase the packs under "Weaving Moments" in order:
+
+    Splendid Gift Box I: Gives 1 :zRevelationCrystal_in: & 10K :_:
+    Splendid Gift Box II: Gives 1 :zRevelationCrystal_in: & [Floral Cascade] outerwear
+    Splendid Gift Box III: Gives 2 :zRevelationCrystal_in: & [Enchanted Silk: Makeup] set
+    Splendid Gift Box IV: Gives 4 :zRevelationCrystal_in:, [Suspended Shadow] Decoration, & [Fatal Invite] Pose
+
+
+To place the cobweb/Suspended Shadow in Home:
+
+    Use the construction ability
+    Locate the item under Decorative Furniture category
+    Select the item and place it
+
+I made a purchase and can't find my rewards!
+Please check your backpack for a Splendid Gift Box. It will be in the Consumables tab.
+---
+COMMAND: -stylingnodes
+CATEGORY: General Gameplay
+DESCRIPTION: 
+CONTENT: Do the nodes in the Heart of Infinity work for Mira Crown?
+Yes, they do. There are three sets of nodes that improve your overall score:
+
+    The Wishfield percentage nodes (blue), split into Pre-Interlude and Post-Interlude sections, increase your clothing stats by up to 12% and your clothing score by up to 8% respectively.
+    The Wishfield flat nodes (yellow) are split into 10 nodes per Style (50 total) and increase all clothing stats by up to +100 per Style node.
+        Note: all flat nodes will increase your clothing stats, even if the style doesn't correspond to the challenge, e.g., Sweet flat nodes will still help in a Cool challenge.
+    The Sea of Stars percentage nodes (pink) increase all score (clothing and eureka) by up to 10% total.
+
+These all increase your final score.
+How do I unlock these nodes?
+
+    The Pre-Interlude blue nodes are available as soon as you start the game.
+    The Post-Interlude blue nodes are unlocked after completing the Interlude chapter, Call of Beginnings.
+    The yellow flat nodes require unlocking all of the Silvergale's Aria pieces and makeup sketch nodes first.
+    The Sea of Stars pink nodes can be gradually unlocked by acquiring the Sea of Stars sketch and Heartshine Shard nodes in the Shard: Sea of Stars. These nodes are unlocked with Ethereal Stars, obtained through Starlit Moments daily tasks.
+---
+COMMAND: -topupevent
+CATEGORY: General Gameplay
+DESCRIPTION: 
+CONTENT: If you are having issues purchasing items in game, please use the Official Top-up Site (https://infinitynikki.infoldgames.com/charge/home)!
+How do I obtain Soulbeat?
+You can only obtain Soulbeat by purchasing items in the store in these categories:
+
+    Featured
+    Stellarite Purchase
+    Mira Journey
+    Treasure
+    Tidal Treasures
+    Starlight Vault
+
+
+The official top up site will allow you to preview how many Soulbeat each item will give as shown in the image below.
+
+    Dusky Nightvow outfit will require 980 Soulbeat, around $15 USD
+    [Rose Dream] Avatar Frame will require 1280 Soulbeat, around $20 USD
+    [Floral Corridor] Card will require 2880 Soulbeat, around $45 USD
+    [Shining Party Float] Decoration will require 3880 Soulbeat, around $60 USD
+
+
+Obtaining ALL rewards will require 5880 Soulbeat, around $91 USD.
+How do I obtain Soul Melody?
+After obtaining 3890 Soulbeat (around $61), every additional 10 Soulbeat will be converted to 10 Soul Melody for the Box of Reminiscence shop.
+---
+COMMAND: -silvergale
+CATEGORY: General Gameplay
+DESCRIPTION: How to unlock the Silvergale Aria outfit
+CONTENT: How do I unlock the miracle outfit Silvergale Aria?
+You will need to have completed the Interlude chapter, Call of Beginnings to unlock this outfit. Please use the -interlude command for information on how to do so.
+
+Once you have unlocked the makeup sketches for the Wishful Aurosa and completed the chapter, follow this node path to unlock the sketch for Silverspring Love, the first item in the outfit. 
+
+You will need 7000 of each insight (excluding combat) in order to unlock the nodes before the sketch. 
+
+Crafting requirements: (https://discord.com/channels/1245702850340978751/1311535213507252266/1325987720819904608)
+Official map for resource locations: (https://pearpal.infoldgames.com/tools/map)
+---
+COMMAND: -silverpetals
+CATEGORY: General Gameplay
+DESCRIPTION: Where to find Silver Petals needed for Silvergale Aria
+CONTENT: Where do I go for the daily Silver Petal wishes?
+It should be given to you from a bottle in Daily Wishes (text will be random). If you do not have a bottle with this reward, you may need to progress further in the main quest or wait another day. 
+
+After you get 20 Silver Petals (enough to craft the outfit twice), you will no longer get Silver Petal bottles.
+
+For photos, please remember only photos that are taken with the golden box outline on the NPC or target will count. Try zooming out more, hiding Nikki, or making sure your aperture is set to f/16!
+---
+COMMAND: -soiree
+CATEGORY: General Gameplay
+DESCRIPTION: About the Swish & Stitch Soiree and opening times
+CONTENT: What is the Swish & Stitch Soiree?
+To enter the Soiree, you will need to complete the quest "Where Will the Bubbles Go?" and gain access to Serenity Island. 
+
+Soiree is a daily event users can participate in for rewards. Only ONE entry will count per day for rewards.
+Opening Times
+You will only get rewards by participating between 20:00 and 22:00 SERVER TIME
+The times below are automatically converted to your local timezone
+
+    Asia + HK/TW/Macau : 16:00 to 18:00
+    Europe : 22:00 to 00:00
+    America : 07:00 to 09:00
+
+Please note times displayed here may not be accurate locally depending on Daylight Savings.
+---
+COMMAND: -sos
+CATEGORY: General Gameplay
+DESCRIPTION: What happens when you have enough Ethereal Stars to complete the Shard: Sea of Stars
+CONTENT: Why am I not getting my Ethereal Stars?
+Once you have enough Ethereal Stars to unlock everything in the Shard: Sea Of Stars, any extra stars get converted into 2 Starlit Crystals each. This brings your total for Starlit Moments dailies from 54 Starlit Crystals daily to 76.
+
+Please note that not everything needs to be unlocked, you just need enough Ethereal Stars gathered.
+Currencies in the Sea of Stars
+All of these may be collected once a day after holding the bell near a warp point.
+
+    Starlit Shard
+        100 per day
+        Automatically converted to Starlit Crystals at a 25:1 ratio
+    Starlit Crystal
+        54 per day (76 when HoI shard is completed); 30 from gathering in map, 20 from dailies, 4 from shard conversion
+        Used to exchange in the Starlit Shop
+        When the Starlit Pursuit event is active, you may obtain 120 extra Crystals per week
+    Ethereal Star 
+        11 per day; 3 from gathering, 8 from dailies
+        Used in the Heart of Infinity - Shard: Sea of Stars
+        Converts to Starlit Crystals at a 1:2 ratio once you have collected enough to complete the Shard
+---
+COMMAND: -switch/-shift/-change
+CATEGORY: General Gameplay
+DESCRIPTION: How to access Form Shift to toggle item changes
+CONTENT: How do I change Outfit/Handheld States?
+You can open the Actions side menu and navigate to Feature Collection and select Form Shift or Handheld Switch for applicable items. You can also equip these options in Quick Actions Settings.
+
+To open the Actions menu: 
+
+    PC: press CapsLock
+
+
+To equip with Quick Settings:
+
+    For PC: Hold Z then select âš™ï¸
+    For PS5: Hold â¬‡ï¸ on the D-Pad then press ðŸ”³
+
+
+Once you exit out you can now toggle the handheld mode with Z or â¬‡ï¸ 
+Poses are Missing!
+When a handheld item is equipped, some poses will be hidden.
+---
+COMMAND: -train
+CATEGORY: General Gameplay
+DESCRIPTION: How to access the Choo-Choo Train
+CONTENT: Where do I go for the Choo-Choo Train rides?
+You will need to have completed the Home on the Rails quest first. The Choo-Choo Train has a set pattern it goes through around the Abandoned District. Please see the map below for stations. 
+
+It takes about 3 minutes in-between each station and the entire loop takes 22 minutes (real time). This loop is not based on in-game time and will keep running as long as the game is open.
+
+To quickly catch the train, restart your game at any station!
+---
+COMMAND: -updatetext
+CATEGORY: General Gameplay
+DESCRIPTION: How to fix the "update or modify the required text" error when naming your island, signpost, or custom outfit look
+CONTENT: Please update the required text error message
+If you receive an error while naming or updating your island, signpost, or custom outfit look, it may contain disallowed content such as:
+
+    Special characters (anything that isn't letters or numbers, including punctuation)
+    Restricted phrases
+
+Please modify the text to meet the naming requirements.
+
+If your text follows the above rules and the error persists, please make a bug report. You can use the -bugreport command in â bot-playground to learn how to make a bug report.
+---
+COMMAND: -vivian
+CATEGORY: General Gameplay
+DESCRIPTION: Where to find Vivian
+CONTENT: How to find Vivian?
+In order to start looking for Vivian you must first challenge all other members from the Extreme Stylist Group (Brent, Testa, Elio and Reibel). After defeating them, a yellow circle will appear on the map to the southwest of the coliseum. Go there and investigate Vivan's Research Notes. After checking her notes, open Pear-Pal > Factions > Extreme Stylist Group > Vivian and click 'Deduct'. 
+
+Select:
+
+    near the water source and campfire
+    the Titan's Graveyard
+
+
+When the Deduction is complete, the quest 'Leader Showdown! Risk-Taking Adventurer' will appear. Go to the campsite in the Titan's Graveyard that the tracker shows and interact first with Vivian's Experiment Records then with the shiny spot behind the wooden crates. Nikki will find a recipe to craft the Revealing Potion and you must use the ingredients in order:
+
+    Pendulum Fruit
+    Knotted Fern
+    Revealing Potion
+
+
+After following these steps Vivian will appear and you can challenge her.
+---
+COMMAND: -windrider
+CATEGORY: General Gameplay
+DESCRIPTION: How to access the Windrider Mill Island
+CONTENT: How do I access the Windrider Mill Island?
+To get to the Windrider Mill Island, you have to find and complete the world quest called "Repair the Ripple Estate Skypass", located on the map below. Once you have completed this quest, use the skypass to glide to the island.
+
+You will need to complete the main quest, â€œCome on! Market of Mirth!â€ to unlock this world quest. Teleport to the Barrel Home warp spire and then travel to the west side of the stonetree - a new side quest should pop up and become available.
+For further help, please see this video (https://www.youtube.com/watch?v=IA5goRVHjPE).

@@ -1,0 +1,64 @@
+Source: Infinity Nikki Wiki (Fandom) — Pear-Pal
+URL: https://infinity-nikki.fandom.com/wiki/
+License: Content available under CC-BY-SA unless otherwise noted.
+Topic: The Pear-Pal gameplay system — the handheld tablet that serves as the main navigation hub, its profile, and its apps.
+
+===================================================================
+PEAR-PAL
+===================================================================
+Type: Gameplay
+
+The Pear-Pal is a handheld Whimtech tablet owned by the stylists. It functions as a main navigational hub for various game features. Players can access the Pear-Pal after obtaining it in the quest "Where the Stars Keep Watch." Features are unlocked as the player progresses through the game.
+
+===================================================================
+PEAR-PAL PROFILE
+===================================================================
+The profile section on the Pear-Pal is where players can customize their profile display with their own Motto, Avatars, Avatar Frames, Cards, Titles, and Achievement Badges. The profile also displays the player's in-game progress with the Mira Crown Styling Contest, as well as their progress collecting Whimstars, Dew of Inspiration, Outfits, and Sketches. The player's UID can also be found here.
+
+===================================================================
+PEAR-PAL APPS
+===================================================================
+The game's main features are divided into different apps on the Pear-Pal.
+
+| App | Function |
+|-----|----------|
+| Wardrobe | Edit Nikki and Momo's outfits, and later on, Nikki's Ability Outfits and Whim Fragrances |
+| Sketches | View all obtained Sketches and craft clothing |
+| Color Lookbook | View outfit lookbooks from other Stylists |
+| DIY Workshop | Clothing workshop for dyeing clothing pieces |
+| Resonance | Obtain special pieces of clothing in the gacha banners |
+| Store | Exchange real-life and in-game currency for various items |
+| Course | View game achievements |
+| Factions | View information on Styling Factions and track members down for Styling Challenges |
+| Mira Crown | Participate in the Styling and Pinnacle Contests |
+| Dig, Pear-Pal | Dig for various crafting materials over time |
+| Eureka | Lock and upgrade Eurekas |
+| Glow Up | Upgrade clothing pieces |
+| Evolution | View and craft recolours of outfits |
+| Run, Pear-Pal | Change in-game time |
+| Compendium | View all clothing in the game |
+| Mira Level | View and obtain rewards for player level |
+| Friends | Chat and add friends (both in-game characters and real-life players) |
+| Momo's Album | View photographs, screenshots, and Snapshots |
+| Quests | View pending quests |
+| Daily Tasks | View daily tasks |
+| Tutorials | View tutorials |
+| Folklore Guide | View progress on box game discovery |
+| Mira Journey | Obtain rewards for fulfilling Journey Tasks (battle pass system) |
+| Backpack | View inventory |
+
+===================================================================
+ADDITIONAL APPS
+===================================================================
+These are additional options or apps at the bottom of the Pear-Pal.
+
+| Icon | Function |
+|------|----------|
+| I/O power button | Prompts to exit game |
+| Pear-Pal wearing graduation cap | Opens web browser to Pear-fect Guides |
+| Clipboard | Opens in-game browser to survey |
+| Speech bubble with headset | Opens web browser to submit a support ticket |
+| Envelope | Opens in-game Mail |
+| Gear | Opens Settings |
+| Hanging bulletin | Opens Announcements |
+| (Support page) | Opens web browser to a user page showing user ID (UID), Top-Up History, Mail Claim History, and Item History. Web page format: https://support-infinitynikki-cs.infoldgames.com/?clientid=A&uid=B&platId=C&nickname=D&lang=E |
