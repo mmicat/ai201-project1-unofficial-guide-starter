@@ -22,10 +22,18 @@ EXAMPLES = [
 ]
 
 
-def handle_query(question):
+CATEGORIES = [
+    "All",
+    "Quests and Challenges",
+    "General Gameplay",
+    "Misc and Customer Support",
+]
+
+
+def handle_query(question, mode, category):
     if not question or not question.strip():
         return "Please enter a question.", ""
-    result = ask(question.strip())
+    result = ask(question.strip(), mode=mode.lower(), category=category)
     sources = "\n".join(f"• {s}" for s in result["sources"])
     return result["answer"], sources
 
@@ -37,13 +45,23 @@ with gr.Blocks(title="The Unofficial Guide — Infinity Nikki") as demo:
         "Answers are grounded in community-sourced documents and cite where they came from."
     )
     question = gr.Textbox(label="Your question", placeholder="e.g. How does pity work?")
+    with gr.Row():
+        mode = gr.Radio(
+            choices=["Semantic", "Hybrid"], value="Semantic",
+            label="Search mode",
+            info="Hybrid = BM25 keyword + semantic, fused with RRF",
+        )
+        category = gr.Dropdown(
+            choices=CATEGORIES, value="All",
+            label="Limit to category (metadata filter)",
+        )
     ask_btn = gr.Button("Ask", variant="primary")
     answer = gr.Textbox(label="Answer", lines=8)
     sources = gr.Textbox(label="Retrieved from", lines=4)
 
     gr.Examples(examples=EXAMPLES, inputs=question)
-    ask_btn.click(handle_query, inputs=question, outputs=[answer, sources])
-    question.submit(handle_query, inputs=question, outputs=[answer, sources])
+    ask_btn.click(handle_query, inputs=[question, mode, category], outputs=[answer, sources])
+    question.submit(handle_query, inputs=[question, mode, category], outputs=[answer, sources])
 
 
 if __name__ == "__main__":

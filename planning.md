@@ -212,3 +212,21 @@ I'm using **Claude (Claude Code)** as the primary AI collaborator. For each mile
 **Milestone 4 — Embedding and retrieval:** Give Claude the **Retrieval Approach** section and ask it to implement embedding with `all-MiniLM-L6-v2`, storage in ChromaDB, and a `retrieve(query, k=5)` function. Verify by running 3 of my 5 eval questions and checking the returned chunks are relevant (cosine distance < ~0.5) and come from the expected source files.
 
 **Milestone 5 — Generation and interface:** Give Claude the grounding requirement and ask it to implement `ask(question)` (Groq `llama-3.3-70b-versatile` with a context-only prompt that refuses when context is insufficient) plus a Gradio UI exposing a question input and an answer + sources output. Verify by asking an in-scope question (expect a cited answer) and an out-of-scope question (expect the "I don't have enough information" refusal).
+
+---
+
+## Stretch Features (planned after the required pipeline worked)
+
+Chosen after the baseline was complete and evaluated, partly to address the
+documented Q2 failure. See the README "Stretch Features" section for results.
+
+1. **Hybrid search (BM25 + semantic), +2** — `hybrid.py`. Add a `rank-bm25`
+   lexical retriever over the same chunks and fuse it with the existing semantic
+   retriever using Reciprocal Rank Fusion (rank-based, so no score normalization).
+   Hypothesis: BM25's keyword matching surfaces the literal "5-Star Limited
+   Resonance Pity Rules" content that semantic embedding diluted, fixing Q2.
+   Verify by comparing semantic vs. BM25 vs. hybrid on ≥3 queries and re-running Q2.
+2. **Metadata filtering, +1** — `index.py`. Chunks already carry a `category`
+   (and `source`) field, so add a `where` filter to `retrieve()` and a category
+   dropdown in the UI. Verify a query returns visibly different chunks with vs.
+   without the filter.

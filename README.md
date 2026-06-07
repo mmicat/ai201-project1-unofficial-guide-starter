@@ -359,3 +359,63 @@ Retrieved from:
   • FAQs-general-gameplay.txt — -train
   • wiki-mainquest.txt — WISHFIELD ARC
 ```
+
+---
+
+## Stretch Features
+
+Both are wired into the UI (a **Search mode** toggle and a **Limit to category**
+dropdown) and reproducible via `python compare_stretch.py`.
+
+### Stretch 1 — Hybrid search (BM25 + semantic via RRF) — `hybrid.py`
+
+**Approach / how scores are combined.** I run two retrievers over the same 463
+chunks: semantic (ChromaDB / `all-MiniLM-L6-v2`, cosine) and lexical (BM25 via
+`rank-bm25`). Their scores live on different scales (cosine distance vs. BM25
+term-frequency score), so instead of normalizing them I combine their **ranks**
+with **Reciprocal Rank Fusion**:
+
+```
+score(chunk) = Σ over each retriever of  1 / (C + rank_in_that_retriever)     (C = 60)
+```
+
+A chunk ranked highly by *either* retriever floats up; chunks ranked well by
+*both* win. Both retrievers honor the same metadata `where` filter, so hybrid
+search composes with the metadata-filtering feature.
+
+**Comparison on 3 queries** (what each returned / which performed better):
+
+| Query | Semantic-only | BM25-only | Hybrid | Winner |
+|-------|---------------|-----------|--------|--------|
+| "5★ Limited banner — pulls to guarantee a 5★?" (the Q2 failure) | Retrieved `-pity` chunks but **generation refused** (heading split from bullets) | `-pity` chunks (keyword-strong) | Reorders so the rule-bullet chunk surfaces prominently → **generation now answers correctly** ("every 20 pulls; max 20 × pieces") | **Hybrid** — fixes the documented failure |
+| "How do I get the Spira Shelldome warp spire?" (rare proper noun) | `-shelldome`, then loosely-related name matches | `-shelldome`, `-glowup`, `-windrider` | `-shelldome` on top, blends both | Tie — BM25 pulls its weight on the exact term |
+| "How do I make my character giant to scare off enemies?" (paraphrase, no shared keywords) | Finds the Gigantification context (Itzaland Ch.1) | Surface-word misses (`-stuck`, `-account`) | A blend, diluted by BM25 noise | **Semantic** — BM25 hurts pure paraphrase |
+
+**Takeaway:** hybrid is the more robust default and uniquely rescued the Q2
+failure, but it is *not* universally better — on a pure-paraphrase query with no
+shared keywords, BM25 adds noise and semantic-only wins. RRF's rank-based fusion
+keeps that damage bounded.
+
+### Stretch 2 — Metadata filtering — `index.py` (`retrieve(where=...)`)
+
+Every chunk carries `{source, source_title, section, category, chunk_index}`
+metadata, so `retrieve()` accepts a ChromaDB `where` filter and the UI exposes a
+**"Limit to category"** dropdown (Quests / General / Misc / All).
+
+**Visible effect** (same query, with vs. without the filter):
+
+```
+QUERY: "How do I get more bling?"
+  UNFILTERED (top 3):
+     1. FAQs-general-gameplay.txt :: -blings
+     2. FAQs-general-gameplay.txt :: -blings
+     3. FAQs-general-gameplay.txt :: -blings
+  FILTERED to category = "Misc and Customer Support" (top 3):
+     1. FAQs-misc-and-customer-support.txt :: -twitch
+     2. FAQs-misc-and-customer-support.txt :: -redeem
+     3. FAQs-misc-and-customer-support.txt :: -blackscreen
+```
+
+The filter restricts retrieval to one category, so the returned chunks change
+entirely — the relevant `-blings` (General Gameplay) chunks are excluded and only
+Misc chunks survive. The filter also composes with hybrid mode.

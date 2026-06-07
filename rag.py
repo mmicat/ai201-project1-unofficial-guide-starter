@@ -16,6 +16,7 @@ from dotenv import load_dotenv
 from groq import Groq
 
 from index import retrieve
+from hybrid import hybrid_retrieve
 
 load_dotenv()
 
@@ -72,9 +73,17 @@ def _unique_sources(hits):
     return out
 
 
-def ask(question, k=5):
-    """Retrieve, ground, and generate. Returns {answer, sources, hits}."""
-    hits = retrieve(question, k=k)
+def ask(question, k=5, mode="semantic", category=None):
+    """Retrieve, ground, and generate. Returns {answer, sources, hits}.
+
+    mode:     "semantic" (default) or "hybrid" (BM25 + semantic via RRF).
+    category: optional metadata filter, e.g. "Quests and Challenges"; None = all.
+    """
+    where = {"category": category} if category and category != "All" else None
+    if mode == "hybrid":
+        hits = hybrid_retrieve(question, k=k, where=where)
+    else:
+        hits = retrieve(question, k=k, where=where)
     context = _format_context(hits)
     user_prompt = (
         f"Sources:\n{context}\n\n"

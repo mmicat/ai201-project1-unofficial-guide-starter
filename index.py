@@ -84,21 +84,26 @@ def get_collection():
     return build_index()
 
 
-def retrieve(query, k=5):
-    """Return the top-k chunks for a query as a list of dicts."""
+def retrieve(query, k=5, where=None):
+    """Return the top-k chunks for a query as a list of dicts.
+
+    `where` is an optional ChromaDB metadata filter, e.g.
+    {"category": "Quests and Challenges"} or {"source": "wiki-itzalandarc.txt"}.
+    """
     model = get_model()
     col = get_collection()
     q_emb = model.encode(query, convert_to_numpy=True).tolist()
     res = col.query(
         query_embeddings=[q_emb],
         n_results=k,
+        where=where,
         include=["documents", "metadatas", "distances"],
     )
     hits = []
-    for doc, md, dist in zip(
-        res["documents"][0], res["metadatas"][0], res["distances"][0]
+    for cid, doc, md, dist in zip(
+        res["ids"][0], res["documents"][0], res["metadatas"][0], res["distances"][0]
     ):
-        hits.append({"text": doc, "metadata": md, "distance": dist})
+        hits.append({"id": cid, "text": doc, "metadata": md, "distance": dist})
     return hits
 
 
